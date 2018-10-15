@@ -10,6 +10,7 @@ DROP TABLE IF EXISTS SuperheroeCivil;
 DROP TABLE IF EXISTS HabilidadSuperHeroe;
 DROP TABLE IF EXISTS SuperheroeSupervillano;
 DROP TABLE IF EXISTS Supervillano;
+DROP TABLE IF EXISTS SuperheroeIncidente;
 DROP TABLE IF EXISTS Superheroe;
 DROP TABLE IF EXISTS Civil;
 DROP TABLE IF EXISTS Estado;
@@ -190,22 +191,13 @@ CREATE TABLE Superheroe
 CREATE TABLE Supervillano
 (
     idCivil integer NOT NULL,
+    nombreDeVillano character(40) NOT NULL,
     
     PRIMARY KEY (idCivil),
     FOREIGN KEY (idCivil) REFERENCES Civil
 );
 
 -------------- Relaciones M-N --------------------
-
-CREATE TABLE SuperheroeSupervillano
-(
-    idSuperheroe integer NOT NULL,
-    idCivil integer NOT NULL,
-    
-    PRIMARY KEY (idSuperheroe, idCivil),
-    FOREIGN KEY (idSuperheroe) REFERENCES Superheroe,
-    FOREIGN KEY (idCivil) REFERENCES Civil
-);
 
 CREATE TABLE HabilidadSuperHeroe
 (
@@ -231,8 +223,11 @@ CREATE TABLE CivilDomicilio
 (
     idCivil integer NOT NULL,
     idDomicilio integer NOT NULL,
+    fechaDesde date NOT NULL,
+    fechaHasta date NOT NULL,
+
     
-    PRIMARY KEY (idDomicilio, idCivil),
+    PRIMARY KEY (fechaDesde),
     FOREIGN KEY (idDomicilio) REFERENCES Domicilio,
     FOREIGN KEY (idCivil) REFERENCES Civil
 );
@@ -289,6 +284,16 @@ CREATE TABLE EsArchienemigo
     PRIMARY KEY (idSuperheroe, idCivil),
     FOREIGN KEY (idSuperheroe) REFERENCES Superheroe,
     FOREIGN KEY (idCivil) REFERENCES Civil
+);
+
+CREATE TABLE SuperheroeIncidente
+(
+    idSuperheroe integer NOT NULL,
+    idIncidente integer NOT NULL,
+
+    PRIMARY KEY (idSuperheroe, idIncidente),
+    FOREIGN KEY (idSuperheroe) REFERENCES Superheroe,
+    FOREIGN KEY (idIncidente) REFERENCES Incidente
 );
 
 CREATE TABLE Contacto
