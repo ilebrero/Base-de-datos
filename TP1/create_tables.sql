@@ -1,4 +1,20 @@
 -- Schema: public
+DROP TABLE IF EXISTS Contacto;
+DROP TABLE IF EXISTS EsArchienemigo;
+DROP TABLE IF EXISTS Interviene;
+DROP TABLE IF EXISTS OficialIntervieneEn;
+DROP TABLE IF EXISTS OficialEstaInvolucradoEn;
+DROP TABLE IF EXISTS RelacionCivil;
+DROP TABLE IF EXISTS CivilDomicilio;
+DROP TABLE IF EXISTS SuperheroeCivil;
+DROP TABLE IF EXISTS HabilidadSuperHeroe;
+DROP TABLE IF EXISTS SuperheroeSupervillano;
+DROP TABLE IF EXISTS Supervillano;
+DROP TABLE IF EXISTS Superheroe;
+DROP TABLE IF EXISTS Civil;
+DROP TABLE IF EXISTS Estado;
+DROP TABLE IF EXISTS Seguimiento;
+DROP TABLE IF EXISTS Incidente;
 DROP TABLE IF EXISTS Sumario;
 DROP TABLE IF EXISTS Designacion;
 DROP TABLE IF EXISTS Oficial;
@@ -59,8 +75,6 @@ CREATE TABLE OrganizacionDelictiva
     nombre character(20) NOT NULL,
     PRIMARY KEY (idOrganizacionDelictiva)
 );
-
--- asdasd
 
 CREATE TABLE Domicilio
 (
