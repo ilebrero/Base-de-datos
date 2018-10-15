@@ -199,16 +199,6 @@ CREATE TABLE Supervillano
 
 -------------- Relaciones M-N --------------------
 
-CREATE TABLE SuperheroeSupervillano
-(
-    idSuperheroe integer NOT NULL,
-    idCivil integer NOT NULL,
-    
-    PRIMARY KEY (idSuperheroe, idCivil),
-    FOREIGN KEY (idSuperheroe) REFERENCES Superheroe,
-    FOREIGN KEY (idCivil) REFERENCES Civil
-);
-
 CREATE TABLE HabilidadSuperHeroe
 (
     idHabilidad integer NOT NULL,
