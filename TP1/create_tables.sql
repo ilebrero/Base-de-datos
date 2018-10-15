@@ -223,8 +223,11 @@ CREATE TABLE CivilDomicilio
 (
     idCivil integer NOT NULL,
     idDomicilio integer NOT NULL,
+    fechaDesde date NOT NULL,
+    fechaHasta date NOT NULL,
+
     
-    PRIMARY KEY (idDomicilio, idCivil),
+    PRIMARY KEY (fechaDesde),
     FOREIGN KEY (idDomicilio) REFERENCES Domicilio,
     FOREIGN KEY (idCivil) REFERENCES Civil
 );
