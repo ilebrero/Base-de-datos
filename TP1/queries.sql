@@ -193,7 +193,9 @@ JOIN
 --    fueron causados por los "archienemigos" de los superheroes involucrados.
 SELECT
 	Superheroe.idSuperheroe,
-	Superheroe.nombreDeFantasia
+	Superheroe.nombreDeFantasia,
+	Incidente.idIncidente,
+	Incidente.tipo as TipoIncidente,
 FROM
 	Superheroe
 JOIN
@@ -204,6 +206,8 @@ JOIN
 	Interviene as SupervillanoInterviene ON SupervillanoInterviene.idCivil = EsArchienemigo.idCivil
 JOIN
 	RolCivil ON RolCivil.idRolCivil = SupervillanoInterviene.idRolCivil
+JOIN
+	Incidente ON Incidente.idIncidente = SupervillanoInterviene.idIncidente
 WHERE
 	SupervillanoInterviene.idIncidente = SuperheroeIncidente.idIncidente AND
 	RolCivil.nombre = 'PERPETRADOR'
