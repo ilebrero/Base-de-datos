@@ -116,7 +116,7 @@ for i in range(len(BARRIO)):
 # TABLA ORGANIZACION DELICTIVA LIMITE DE 20 CARACTERES
 
 for i in range(len(ORG_DELICTIVA)):
-  print(insert_query("Barrio", (i,ORG_DELICTIVA[i][:20])))
+  print(insert_query("OrganizacionDelictiva", (i,ORG_DELICTIVA[i][:20])))
 
 #CREATE TABLE Domicilio
 
@@ -166,15 +166,38 @@ for i in range(1000):
 #     FOREIGN KEY (nroPlaca) REFERENCES Oficial
 # );
 
-
 TABLA_DESIGNACIONES = []
-for i in range(len(OFICIALES)*4):
+OFICIALES_DE_ASUNTOS_INTERNOS    = set()
+OFICIALES_NO_DE_ASUNTOS_INTERNOS = set()
+
+#Designaciones de asuntos internos
+for i in range(len(OFICIALES)):
   unaDesignacion = (i,
     generateFechaDeDesignacionDesde(), 
     generateFechaDeDesignacionHasta(),
-    randrange(len(DESIGNACION)),
-    randrange(len(OFICIALES)))
+    DESIGNACION.index("ASUNTOS INTERNOS"),
+    randrange(len(OFICIALES))
+  )
+
   TABLA_DESIGNACIONES.append(unaDesignacion)
+  OFICIALES_DE_ASUNTOS_INTERNOS.add(i)
+ 
+  print(insert_query("Designacion",unaDesignacion ))
+
+#El resto de las designaciones random
+for i in range(len(OFICIALES), len(OFICIALES)*4):
+  tipoDesignacion = randrange(len(DESIGNACION))
+
+  unaDesignacion = (i,
+    generateFechaDeDesignacionDesde(), 
+    generateFechaDeDesignacionHasta(),
+    tipoDesignacion,
+    randrange(len(OFICIALES))
+  )
+
+  TABLA_DESIGNACIONES.append(unaDesignacion)
+  OFICIALES_NO_DE_ASUNTOS_INTERNOS.add(i)
+
   print(insert_query("Designacion",unaDesignacion ))
 
 
@@ -193,21 +216,54 @@ for i in range(len(OFICIALES)*4):
 #     FOREIGN KEY (nroPlaca) REFERENCES Oficial
 # );
 
-for i in range(500):
+# Sumarios finalizados
+for i in range(100):
   unaDesignacion = TABLA_DESIGNACIONES[randrange(len(OFICIALES)*4)]
+  iterator_oficial = iter(OFICIALES_DE_ASUNTOS_INTERNOS)
+
+  oficial = next(iterator_oficial)
+  while (oficial == unaDesignacion[-1]):
+    oficial = next(iterator_oficial)
+
   print(insert_query("Sumario", (i,
-      choice(RESULTADO_SUMARIO)[:20],
+      "FINALIZADO",
       generateFechaDeDesignacionHasta(),
       choice(DESCRIPCIONES)[:20],
-      unaDesignacion[-1],
+      choice(DESCRIPCIONES)[:20],
+      oficial,
+      unaDesignacion[0]
+      )))
+
+# Sumarios no finalizados
+for i in range(100, 500):
+  unaDesignacion = TABLA_DESIGNACIONES[randrange(len(OFICIALES)*4)]
+  iterator_oficial = iter(OFICIALES_DE_ASUNTOS_INTERNOS)
+
+  oficial = next(iterator_oficial)
+  while (oficial == unaDesignacion[-1]):
+    oficial = next(iterator_oficial)
+
+  resultado = choice(RESULTADO_SUMARIO)[:20]
+  while (resultado == "FINALIZADO"):
+      resultado = choice(RESULTADO_SUMARIO)[:20]
+
+  print(insert_query("Sumario", (i,
+      resultado,
+      generateFechaDeDesignacionHasta(),
+      'Null',
+      choice(DESCRIPCIONES)[:20],
+      oficial,
       unaDesignacion[0]
       )))
 
 # CREATE TABLE Incidente
 
 for i in range(1000):
-  print(insert_query("Incidente", (i,choice(INCIDENTE)[:20],
-    dameFechaGeneral(),range(2500))))
+  print(insert_query("Incidente", (i,
+      choice(INCIDENTE)[:20],
+      dameFechaGeneral(),
+      randrange(2500))
+  ))
 
 
 # CREATE TABLE Seguimiento

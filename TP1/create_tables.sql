@@ -82,8 +82,8 @@ CREATE TABLE Domicilio
     idDomicilio integer NOT NULL,
     calle character(20) NOT NULL,
     altura integer NOT NULL,
-    entreCalle1 integer NOT NULL,
-    entreCalle2 integer NOT NULL,
+    entreCalle1 character(20) NOT NULL,
+    entreCalle2 character(20) NOT NULL,
     idBarrio integer NOT NULL,
     
     PRIMARY KEY (idDomicilio),
@@ -119,15 +119,15 @@ CREATE TABLE Designacion
 CREATE TABLE Sumario
 (
     idSumario integer NOT NULL,
-    resultado character(20) NOT NULL,
+    estado character(20) NOT NULL,
     fecha date NOT NULL,
-    estado integer NOT NULL,
+    resultado character(20) NOT NULL,
     descripcion character(20) NOT NULL,
     nroPlaca integer NOT NULL,
-    idDesginacion integer NOT NULL,
-    
+    idDesignacion integer NOT NULL,
+
     PRIMARY KEY (idSumario),
-    FOREIGN KEY (idDesginacion) REFERENCES Designacion,
+    FOREIGN KEY (idDesignacion) REFERENCES Designacion,
     FOREIGN KEY (nroPlaca) REFERENCES Oficial
 );
 
@@ -160,7 +160,7 @@ CREATE TABLE Estado
     idEstado integer NOT NULL,
     nombre character(20) NOT NULL,
     fechaInicio date NOT NULL,
-    fechaFin integer NOT NULL,
+    fechaFin date NOT NULL,
     idSeguimiento integer NOT NULL,
     
     PRIMARY KEY (idEstado),
