@@ -10,11 +10,11 @@ CREATE FUNCTION check_asuntos_internos() RETURNS trigger AS $check_asuntos_inter
         check_asuntos_internos integer;
 
     BEGIN
-        SELECT count(nombre) INTO check_asuntos_internos 
+        SELECT count(idDesignacion) INTO check_asuntos_internos 
         FROM Designacion d, TipoDesignacion td 
-        WHERE d.idDesginacion = NEW.idDesginacion 
-            AND td.idTipoDesignacion = d.TipoDesignacion
-            AND td.nombre = 'Asuntos Internos';
+        WHERE d.nroPlaca = NEW.nroPlaca
+            AND td.idTipoDesignacion = d.idTipoDesignacion
+            AND td.nombre = 'ASUNTOS INTERNOS';
             
         IF check_asuntos_internos = 0 THEN
             RAISE EXCEPTION 'El oficial % no tiene una designacion en asuntos internos.', NEW.nroPlaca;
@@ -45,10 +45,10 @@ CREATE FUNCTION check_sumario_de_otro() RETURNS trigger AS $check_sumario_de_otr
         SELECT count(nombre) INTO check_sumario_de_otro
         FROM Designacion d, Oficial o
         WHERE d.nroPlaca = NEW.nroPlaca
-            AND d.idDesginacion = NEW.idDesginacion;
+            AND d.idDesignacion = NEW.idDesignacion;
 
         BEGIN
-            IF check_asuntos_internos > 0 THEN
+            IF check_sumario_de_otro > 0 THEN
                 RAISE EXCEPTION 'El oficial % no puede llevar adelante un sumario de si mismo.', NEW.nroPlaca;
             END IF;
         END;
@@ -211,14 +211,14 @@ CREATE FUNCTION check_seguimiento_con_estado_finalizado_y_conclusion() RETURNS t
         IF NEW.conclusion IS NOT NULL THEN
             SELECT count(*) INTO estadoFinalizado
             FROM Estado e
-            WHERE e.idSeguimiento = NEW.idSeguimiento
-                AND e.Nombre = 'Finalizado';
+            WHERE e.numero = NEW.numero
+                AND e.Nombre = 'FINALIZADO';
 
             BEGIN
                 IF estadoFinalizado = 0 THEN
-                    RAISE EXCEPTION 'El seguimiento(%) no puede tener conclusion, todavia no esta finalizado.', NEW.idSeguimiento;
+                    RAISE EXCEPTION 'El seguimiento(%) no puede tener conclusion, todavia no esta finalizado.', NEW.numero;
                 END IF;
-        END;
+            END;
         END IF;
 
         RETURN NEW;
@@ -226,7 +226,7 @@ CREATE FUNCTION check_seguimiento_con_estado_finalizado_y_conclusion() RETURNS t
 $check_seguimiento_con_estado_finalizado_y_conclusion$ LANGUAGE plpgsql;
 
 CREATE TRIGGER noPuedeHaberSeguimientoConConclusionSinEstadoFinalizado
-    BEFORE INSERT OR UPDATE of conclusion on Seguimiento
+    BEFORE INSERT OR UPDATE on Seguimiento
     FOR EACH ROW
     EXECUTE PROCEDURE check_seguimiento_con_estado_finalizado_y_conclusion();
 
@@ -243,7 +243,7 @@ CREATE FUNCTION check_sumario_con_estado_no_finalizado_y_resultado() RETURNS tri
 
     BEGIN
         IF NEW.resultado IS NOT NULL THEN
-            IF NEW.estado <> 'Fializado' THEN
+            IF NEW.estado <> 'FINALIZADO' THEN
                 RAISE EXCEPTION 'El sumario(%) no puede tener resultado, todavia no esta finalizado.', NEW.idSumario;
             END IF;
         END IF;

@@ -32,19 +32,19 @@ def append_string_array(arr):
     return str(arr[0]) + "-" + str(arr[1]) + "-" + str(arr[2])
 
 def generateFechaDeIngresoOficial():
-    fecha_inicio = generate_date("1980-01-01", "1990-01-01")
+    fecha_inicio = generate_date("1980-01-01", "1990-12-27")
     return datetime.date(fecha_inicio[0], fecha_inicio[1], fecha_inicio[2]).isoformat()
 
 def generateFechaDeDesignacionDesde():
-    fecha_inicio = generate_date("1991-01-01", "1996-01-01")
+    fecha_inicio = generate_date("1991-01-01", "1996-12-27")
     return datetime.date(fecha_inicio[0], fecha_inicio[1], fecha_inicio[2]).isoformat()
 
 def generateFechaDeDesignacionHasta():
-    fecha_inicio = generate_date("1996-01-01", "2000-01-01")
+    fecha_inicio = generate_date("1996-01-01", "2000-12-27")
     return datetime.date(fecha_inicio[0], fecha_inicio[1], fecha_inicio[2]).isoformat()
 
 def dameFechaGeneral():
-    fecha_inicio = generate_date("1980-01-01", "2000-01-01")
+    fecha_inicio = generate_date("1980-01-01", "2000-12-27")
     return datetime.date(fecha_inicio[0], fecha_inicio[1], fecha_inicio[2]).isoformat()
 
 def generate_random(a, b):
@@ -183,7 +183,7 @@ for i in range(len(OFICIALES)):
   unaDesignacion = (i,
     generateFechaDeDesignacionDesde(), 
     generateFechaDeDesignacionHasta(),
-    DESIGNACION.index("ASUNTOS INTERNOS"),
+    2,
     randrange(len(OFICIALES))
   )
 
@@ -395,9 +395,8 @@ for i in range(20):
   print(insert_query("Supervillano", 
     (cacoId,choice(SUPER_NOMBRES)[:20])))
 
-
 # CREATE TABLE EsArchienemigo
-# (
+# (Archienemi
 #     idSuperheroe integer NOT NULL,
 #     idCivil integer NOT NULL,
     
@@ -406,10 +405,9 @@ for i in range(20):
 #     FOREIGN KEY (idCivil) REFERENCES Civil
 # );
 
-
 for i in range(100):
   print(insert_query("EsArchienemigo", 
-    (randrange(500), choice(cacos))))
+    (i, choice(cacos))))
 
 
 # CREATE TABLE HabilidadSuperHeroe
@@ -423,19 +421,19 @@ for i in range(100):
 # );
 
 for i in range(len(HABILIDADES)):
-  print(insert_query("HabilidadSuperHeroe", 
-    (i,choice(heroes)[0])))
-  print(insert_query("HabilidadSuperHeroe", 
-    (i,choice(heroes)[0])))
-  print(insert_query("HabilidadSuperHeroe", 
-    (i,choice(heroes)[0])))
-  print(insert_query("HabilidadSuperHeroe", 
-    (i,choice(heroes)[0])))
-  print(insert_query("HabilidadSuperHeroe", 
-    (i,choice(heroes)[0])))
-  print(insert_query("HabilidadSuperHeroe", 
-    (i,choice(heroes)[0])))
+  usados = set()
+  habilidades = []
 
+  for l in range(0, 5):
+    habilidad = choice(heroes)[0]
+
+    if not (habilidad in usados):
+      habilidades.append(habilidad)
+      usados.add(habilidad) 
+
+  for hab in habilidades:
+    print(insert_query("HabilidadSuperHeroe", 
+    (i,hab)))    
 
 # CREATE TABLE SuperheroeCivil
 # (
@@ -449,7 +447,7 @@ for i in range(len(HABILIDADES)):
 
 for i in range(1000):
   print(insert_query("SuperheroeCivil", 
-    (choice(heroes)[0], randrange(2500))))
+    (choice(heroes)[0], i)))
 
 # CREATE TABLE RelacionCivil
 # (
@@ -557,8 +555,12 @@ for i in range(200):
 # );
 
 fechas=[]
-for i in range(200):
+for i in range(2500):
   f = dameFechaGeneral()
-  if f not in fechas:
-    print(insert_query("CivilDomicilio", 
-      (randrange(500), randrange(2500), f, dameFechaGeneral())))
+
+  while f in fechas:
+      f = dameFechaGeneral()
+
+  fechas.append(f)
+  print(insert_query("CivilDomicilio", 
+    (randrange(500), i, f, dameFechaGeneral())))

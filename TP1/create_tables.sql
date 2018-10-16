@@ -27,7 +27,7 @@ DROP TABLE IF EXISTS Habilidad;
 DROP TABLE IF EXISTS TipoDesignacion;
 DROP TABLE IF EXISTS Departamento;
 
-DROP SCHEMA IF EXISTS public;
+DROP SCHEMA IF EXISTS public CASCADE;
 CREATE SCHEMA public
 GRANT ALL ON SCHEMA public TO postgres;
 GRANT ALL ON SCHEMA public TO public;
@@ -161,10 +161,10 @@ CREATE TABLE Estado
     nombre character(20) NOT NULL,
     fechaInicio date NOT NULL,
     fechaFin date NOT NULL,
-    idSeguimiento integer NOT NULL,
+    numero integer NOT NULL,
     
     PRIMARY KEY (idEstado),
-    FOREIGN KEY (idSeguimiento) REFERENCES Seguimiento
+    FOREIGN KEY (numero) REFERENCES Seguimiento
 );
 
 CREATE TABLE Civil
