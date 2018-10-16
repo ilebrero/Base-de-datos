@@ -61,7 +61,7 @@ JOIN
 JOIN
 	Incidente ON Incidente.idIncidente = CivilInterviene.idIncidente
 WHERE
-	org.idOrganizacionDelictiva = 1
+	org.idOrganizacionDelictiva = 158
 ;
 
 -- 3. La lista de todos los oficiales con sus rangos, de un departamento dado.
@@ -157,7 +157,9 @@ JOIN
 --7. Las personas involucradas en incidentes ocurridos en el barrio donde viven
 SELECT
 	Civil.idCivil,
-	Civil.Nombre as nombreCivil
+	Civil.Nombre as nombreCivil,
+	Incidente.idIncidente,
+	DomicilioCivil.idBarrio
 FROM
 	Civil
 JOIN
@@ -206,9 +208,12 @@ JOIN
 --10. Listado de todos los incidentes en donde estuvieron involucrados superheroes y
 --    fueron causados por los "archienemigos" de los superheroes involucrados.
 SELECT
+	-- superheroe
 	Superheroe.idSuperheroe,
 	Superheroe.nombreDeFantasia,
+	--supervillano
 	Supervillano.nombreDeVillano,
+	--incidente
 	Incidente.idIncidente,
 	Incidente.tipo as TipoIncidente
 FROM
