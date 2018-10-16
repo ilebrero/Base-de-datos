@@ -95,7 +95,15 @@ def insert_query(table_name, values):
         else:
             return "INSERT INTO " + table_name + " VALUES (" + str(values) + ");"
     elif len(values):
-        return "INSERT INTO " + table_name + " VALUES " + str(values) + ";"
+        s = []
+        for i in values:
+          if type(i) != int:
+            s.append("'"+i+"'" if i != "NULL" else i)
+          else:
+            s.append(str(i))
+
+        st = "({})".format(','.join(s))
+        return "INSERT INTO " + table_name + " VALUES " + st + ";"
 
 
 ##################################################################
@@ -250,7 +258,7 @@ for i in range(100, 500):
   print(insert_query("Sumario", (i,
       resultado,
       generateFechaDeDesignacionHasta(),
-      'Null',
+      'NULL',
       choice(DESCRIPCIONES)[:20],
       oficial,
       unaDesignacion[0]
@@ -338,9 +346,9 @@ for i in range(2500):
       (choice(PERSONAS_NOMBRES)[:15] +" "+choice(PERSONAS_APELLIDOS)[:20])[:20], randrange(len(ORG_DELICTIVA))) 
   else:
     unCivil = (i,
-      (choice(PERSONAS_NOMBRES)[:15] +" "+choice(PERSONAS_APELLIDOS)[:20])[:20], "NULL")
+      (choice(PERSONAS_NOMBRES)[:15] +" "+choice(PERSONAS_APELLIDOS)[:20])[:20])
   CIVILES.append(unCivil)
-  print(insert_query("Civil", unCivil))
+  print(insert_query("civil", unCivil))
 
 
 #   CREATE TABLE Superheroe
@@ -360,8 +368,7 @@ for i in range(500):
   if randrange(100) > 80:
     heroe = (i,
       choice(COLORES_TRAJE)[:15],
-      choice(SUPER_NOMBRES)[:40],
-      "NULL"
+      choice(SUPER_NOMBRES)[:40]
     )
     
   else:
@@ -402,7 +409,7 @@ for i in range(20):
 
 for i in range(100):
   print(insert_query("EsArchienemigo", 
-    (range(500), choice(cacos))))
+    (randrange(500), choice(cacos))))
 
 
 # CREATE TABLE HabilidadSuperHeroe

@@ -121,7 +121,7 @@ CREATE TABLE Sumario
     idSumario integer NOT NULL,
     estado character(20) NOT NULL,
     fecha date NOT NULL,
-    resultado character(20) NOT NULL,
+    resultado character(20),
     descripcion character(20) NOT NULL,
     nroPlaca integer NOT NULL,
     idDesignacion integer NOT NULL,
@@ -182,7 +182,7 @@ CREATE TABLE Superheroe
     idSuperheroe int NOT NULL,
     colorDisfraz character(15) NOT NULL,
     nombreDeFantasia character(40) NOT NULL,
-    idCivil int NOT NULL,
+    idCivil int,
 
     PRIMARY KEY (idSuperheroe),
     FOREIGN Key (idCivil) REFERENCES Civil
