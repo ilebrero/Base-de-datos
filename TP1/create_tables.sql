@@ -227,7 +227,7 @@ CREATE TABLE CivilDomicilio
     fechaHasta date NOT NULL,
 
     
-    PRIMARY KEY (fechaDesde),
+    PRIMARY KEY (fechaDesde, idCivil),
     FOREIGN KEY (idDomicilio) REFERENCES Domicilio,
     FOREIGN KEY (idCivil) REFERENCES Civil
 );

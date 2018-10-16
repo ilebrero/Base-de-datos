@@ -25,22 +25,22 @@ SELECT
 	Civil.nombre as nombreCivil
 FROM
 	Incidente as i
-JOIN
+LEFT JOIN
 	OficialEstaInvolucradoEn ON OficialEstaInvolucradoEn.idIncidente = i.idIncidente
-JOIN
+LEFT JOIN
 	Oficial as OficialInvolucrado ON OficialEstaInvolucradoEn.nroPlaca = OficialInvolucrado.nroPlaca
-JOIN
+LEFT JOIN
 	OficialIntervieneEn ON OficialIntervieneEn.idIncidente = i.idIncidente
-JOIN
+LEFT JOIN
 	Oficial as OficialInterviene ON OficialIntervieneEn.nroPlaca = OficialInterviene.nroPlaca
-JOIN
+LEFT JOIN
 	Interviene as CivilInterviene ON CivilInterviene.idIncidente = i.idIncidente
-JOIN
+LEFT JOIN
 	Civil ON Civil.idCivil = CivilInterviene.idCivil
-JOIN
+LEFT JOIN
 	RolCivil ON CivilInterviene.idRolCivil = RolCivil.idRolCivil
 WHERE
-	i.Fecha BETWEEN '2013-01-03' AND '2013-01-09'
+	i.Fecha BETWEEN '1986-01-03' AND '1988-01-09'
 ;
 
 -- 2. Dada una organización delictiva, el detalle de incidentes en que participaron las personas que componen dicha organización
@@ -84,11 +84,12 @@ WHERE
 ;
 
 -- 4. El ranking de oficiales que participaron en más incidentes
-SELECT nroPlacaOficial, COUNT(*) as CantidadIncidentes
+-- Obs: hay que hacer UNION porque hay que tener en cuenta si participo con rol de involucrado o de interviene
+SELECT nroPlacaOficial, NombreOficial, ApellidoOficial, COUNT(*) as CantidadIncidentes
 FROM 
 	-- incidentes donde estuvo involucrado
 	((SELECT
-		OficialInvolucrado.nroPlaca as nroPlacaOficial, 
+		OficialInvolucrado.nroPlaca as nroPlacaOficial, OficialInvolucrado.nombre as NombreOficial, OficialInvolucrado.apellido as ApellidoOficial, 
 		i.idIncidente
 	FROM
 		Incidente as i
@@ -96,11 +97,11 @@ FROM
 		OficialEstaInvolucradoEn ON OficialEstaInvolucradoEn.idIncidente = i.idIncidente
 	JOIN
 		Oficial as OficialInvolucrado ON OficialEstaInvolucradoEn.nroPlaca = OficialInvolucrado.nroPlaca)
-	UNION ALL
+	UNION
 
 	-- incidentes donde intervino
 	(SELECT
-		OficialQueInterviene.nroPlaca as nroPlacaOficial,
+		OficialQueInterviene.nroPlaca as nroPlacaOficial, OficialQueInterviene.nombre as NombreOficial, OficialQueInterviene.apellido as ApellidoOficial, 
 		i.idIncidente
 	FROM
 		Incidente as i
@@ -108,7 +109,7 @@ FROM
 		OficialIntervieneEn ON OficialIntervieneEn.idIncidente = i.idIncidente
 	JOIN
 		Oficial as OficialQueInterviene ON OficialIntervieneEn.nroPlaca = OficialQueInterviene.nroPlaca)) as OficialIncidente
-GROUP BY nroPlacaOficial
+GROUP BY nroPlacaOficial, NombreOficial, ApellidoOficial
 ORDER BY CantidadIncidentes DESC
 ;
 
@@ -129,7 +130,8 @@ LIMIT 5
 ;
 
 --6. Todos los oficiales sumariados que participaron de algún incidente.
-SELECT
+-- Obs: hay que hacer UNION porque hay que tener en cuenta si participo con rol de involucrado o de interviene
+(SELECT
 	Oficial.nroPlaca,
 	Oficial.nombre as NombreOficial,
 	Oficial.Apellido as ApellidoOficial
@@ -138,9 +140,18 @@ FROM
 JOIN
 	Sumario ON Sumario.nroPlaca = Oficial.nroPlaca
 JOIN
-	OficialEstaInvolucradoEn ON OficialEstaInvolucradoEn.nroPlaca = Oficial.nroPlaca
+	OficialEstaInvolucradoEn ON OficialEstaInvolucradoEn.nroPlaca = Oficial.nroPlaca)
+UNION
+(SELECT
+	Oficial.nroPlaca,
+	Oficial.nombre as NombreOficial,
+	Oficial.Apellido as ApellidoOficial
+FROM
+	Oficial
 JOIN
-	OficialIntervieneEn ON OficialIntervieneEn.nroPlaca = Oficial.nroPlaca
+	Sumario ON Sumario.nroPlaca = Oficial.nroPlaca
+JOIN
+	OficialIntervieneEn ON OficialIntervieneEn.nroPlaca = Oficial.nroPlaca)
 ;
 
 --7. Las personas involucradas en incidentes ocurridos en el barrio donde viven
@@ -166,7 +177,8 @@ WHERE
 --8. Los superheroes que tienen una habilidad determinada
 SELECT
 	Superheroe.idSuperheroe,
-	Superheroe.nombreDeFantasia
+	Superheroe.nombreDeFantasia,
+	Habilidad.Nombre as NombreHabilidad
 FROM
 	Superheroe
 JOIN
@@ -180,7 +192,9 @@ WHERE
 --9. Los superheroes que han participado en algún incidente.
 SELECT
 	Superheroe.idSuperheroe,
-	Superheroe.nombreDeFantasia
+	Superheroe.nombreDeFantasia,
+	Incidente.idIncidente,
+	Incidente.tipo as TipoIncidente
 FROM
 	Superheroe
 JOIN
@@ -194,14 +208,17 @@ JOIN
 SELECT
 	Superheroe.idSuperheroe,
 	Superheroe.nombreDeFantasia,
+	Supervillano.nombreDeVillano,
 	Incidente.idIncidente,
-	Incidente.tipo as TipoIncidente,
+	Incidente.tipo as TipoIncidente
 FROM
 	Superheroe
 JOIN
 	SuperheroeIncidente ON SuperheroeIncidente.idSuperheroe = Superheroe.idSuperheroe
 JOIN
 	EsArchienemigo ON EsArchienemigo.idSuperheroe = Superheroe.idSuperheroe
+JOIN
+	Supervillano ON Supervillano.idCivil = EsArchienemigo.idCivil
 JOIN
 	Interviene as SupervillanoInterviene ON SupervillanoInterviene.idCivil = EsArchienemigo.idCivil
 JOIN
