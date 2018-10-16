@@ -131,33 +131,33 @@ CREATE TRIGGER superheroesNoSonSupervillanos
 DROP TRIGGER  IF EXISTS superheroeNoEsSuPropioContacto on SuperheroeCivil CASCADE;
 DROP FUNCTION IF EXISTS check_superheroe_no_es_propio_contacto() CASCADE;
 
-CREATE FUNCTION check_superheroe_no_es_propio_contacto() RETURNS trigger AS $check_superheroe_no_es_propio_contacto$
-    DECLARE
-        superHeroeIdentidadSecreta integer;
+-- CREATE FUNCTION check_superheroe_no_es_propio_contacto() RETURNS trigger AS $check_superheroe_no_es_propio_contacto$
+--     DECLARE
+--         superHeroeIdentidadSecreta integer;
 
-    BEGIN
-        SELECT idCivil INTO superHeroeIdentidadSecreta
-        FROM Superheroe s
-        WHERE s.idSuperheroe = NEW.idSuperheroe;
+--     BEGIN
+--         SELECT idCivil INTO superHeroeIdentidadSecreta
+--         FROM Superheroe s
+--         WHERE s.idSuperheroe = NEW.idSuperheroe;
 
-        IF superHeroeIdentidadSecreta IS NOT NULL THEN
-            BEGIN
-                BEGIN
-                    IF superHeroeIdentidadSecreta = NEW.idCivil THEN
-                        RAISE EXCEPTION 'El civil(%) no puede ser un superheroe y su propio contacto a la vez.', NEW.idCivil;
-                    END IF;
-                END;
-            END;
-        END IF;
+--         IF superHeroeIdentidadSecreta IS NOT NULL THEN
+--             BEGIN
+--                 BEGIN
+--                     IF superHeroeIdentidadSecreta = NEW.idCivil THEN
+--                         RAISE EXCEPTION 'El civil(%) no puede ser un superheroe y su propio contacto a la vez.', NEW.idCivil;
+--                     END IF;
+--                 END;
+--             END;
+--         END IF;
 
-        RETURN NEW;
-    END;
-$check_superheroe_no_es_propio_contacto$ LANGUAGE plpgsql;
+--         RETURN NEW;
+--     END;
+-- $check_superheroe_no_es_propio_contacto$ LANGUAGE plpgsql;
 
-CREATE TRIGGER superheroeNoEsSuPropioContacto
-    BEFORE INSERT OR UPDATE on SuperheroeCivil
-    FOR EACH ROW
-    EXECUTE PROCEDURE check_superheroe_no_es_propio_contacto();
+-- CREATE TRIGGER superheroeNoEsSuPropioContacto
+--     BEFORE INSERT OR UPDATE on SuperheroeCivil
+--     FOR EACH ROW
+--     EXECUTE PROCEDURE check_superheroe_no_es_propio_contacto();
 
 -- ##################################################################
 -- # Un superheroe no puede pertenecer a una organizacion delictiva #
@@ -192,7 +192,7 @@ $check_superheroe_no_esta_en_organizacion_delictiva$ LANGUAGE plpgsql;
 CREATE TRIGGER superheroeNoPerteneceAOrganizacionDelictiva
     BEFORE INSERT OR UPDATE of idOrganizacion on Civil
     FOR EACH ROW
-    EXECUTE PROCEDURE check_superheroe_no_es_propio_contacto();
+    EXECUTE PROCEDURE check_superheroe_no_esta_en_organizacion_delictiva();
 
 
 
