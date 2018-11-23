@@ -154,9 +154,15 @@ for i in range(len(ROL_CIVIL)):
 
 OFICIALES = []
 for i in range(1000):
+  if i == 0:
+    depto = 8
+  else:
+    depto = randrange(len(DEPARTAMENTO))
+
+
   unOficial = (i,choice(RANGO_OFICIAL)[:20], 
     choice(PERSONAS_NOMBRES)[:15], choice(PERSONAS_APELLIDOS)[:20],
-    generateFechaDeIngresoOficial(), randrange(len(DEPARTAMENTO)))
+    generateFechaDeIngresoOficial(), depto)
   OFICIALES.append(unOficial)
   print(insert_query("Oficial", unOficial))
 
@@ -273,7 +279,6 @@ for i in range(1000):
       randrange(2500))
   ))
 
-
 # CREATE TABLE Seguimiento
 # (
 #     numero integer NOT NULL,
@@ -290,11 +295,10 @@ for i in range(1000):
 for i in range(100):
   print(insert_query("Seguimiento", (i,
     choice(DESCRIPCIONES)[:100],
-    choice(DESCRIPCIONES)[:100],
+    "NULL",
     randrange(1000),
     choice(OFICIALES)[0]
     )))
-
 
 # CREATE TABLE Estado
 # (
@@ -307,7 +311,6 @@ for i in range(100):
 #     PRIMARY KEY (idEstado),
 #     FOREIGN KEY (idSeguimiento) REFERENCES Seguimiento
 # );
-
 for i in range(100):
   print(insert_query("Estado", (i*3,
       ESTADO[0],
@@ -327,6 +330,9 @@ for i in range(100):
       generateFechaDeDesignacionHasta(),
       i
     )))
+
+
+
 
 
 # CREATE TABLE Civil
