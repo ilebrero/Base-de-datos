@@ -1,0 +1,501 @@
+idsuperheroe;colordisfraz;nombredefantasia;idcivil
+0;BRONZE         ;Daryn Hornwood                          ;972
+1;GOLD           ;Meliana                                 ;11
+2;IGNACIO APROBAM;Anya Waynwood                           ;32
+3;PLATINUM       ;Dhazzar                                 ;2364
+4;GOLD           ;Borcas                                  ;
+5;SILVER         ;Cotter Pyke                             ;2434
+6;SILVER         ;Murenmure                               ;2234
+7;SILVER         ;Gawen Westerling                        ;402
+8;ESCARLATA      ;Tytos Frey                              ;864
+9;BRONZE         ;Ilyn Payne                              ;
+10;IGNACIO APROBAM;Iron Emmett                             ;607
+11;VERDE          ;Alesander Staedmon                      ;638
+12;PLATINUM       ;Gawen Westerling                        ;
+13;PLATINUM       ;Ottyn Wythers                           ;56
+14;BRONZE         ;Alayaya                                 ;971
+15;GOLD           ;Grunt                                   ;354
+16;GOLD           ;Rollam Westerling                       ;154
+17;SILVER         ;Halys Hornwood                          ;372
+18;GOLD           ;Jeor Mormont                            ;66
+19;ROJO           ;Hobber Redwyne                          ;
+20;SILVER         ;Heward                                  ;2373
+21;SILVER         ;Robert Arryn                            ;
+22;GOLD           ;Garth of Oldtown                        ;2089
+23;IGNACIO APROBAM;Ambrode                                 ;1709
+24;BRONZE         ;Brienne of Tarth                        ;2482
+25;VERDE          ;Merlon Crakehall                        ;
+26;BRONZE         ;Henly (Maester)                         ;2162
+27;BRONZE         ;Byam Flint                              ;769
+28;IGNACIO APROBAM;Arron                                   ;2428
+29;VERDE          ;Aron Santagar                           ;
+30;VERDE          ;Ygon Farwynd                            ;1556
+31;COLORES BANDERA;Jyck                                    ;982
+32;ESCARLATA      ;Lyle Crakehall                          ;984
+33;COLORES BANDERA;Donnel Hill                             ;1071
+34;SILVER         ;Sylva Santagar                          ;1388
+35;BRONZE         ;Nurse                                   ;343
+36;ROJO           ;Edric Dayne                             ;35
+37;SILVER         ;Red Alyn                                ;
+38;GOLD           ;Petyr Frey                              ;
+39;BRONZE         ;Masha Heddle                            ;1866
+40;IGNACIO APROBAM;Thoros                                  ;1592
+41;BRONZE         ;Walda Rivers (daughter of Aemon)        ;2097
+42;PLATINUM       ;Haldon                                  ;1197
+43;VERDE          ;Hazzea                                  ;323
+44;BRONZE         ;Iron Emmett                             ;2414
+45;BRONZE         ;Dancy                                   ;1812
+46;GOLD           ;Lucas Codd                              ;1712
+47;VERDE          ;Cressen                                 ;
+48;PLATINUM       ;Cressen                                 ;628
+49;ESCARLATA      ;Luton                                   ;618
+50;BRONZE         ;Joseran                                 ;
+51;COLORES BANDERA;Boros Blount                            ;233
+52;ESCARLATA      ;Lollys Stokeworth                       ;780
+53;ROJO           ;Jeren                                   ;1114
+54;SILVER         ;Lyle Crakehall                          ;1317
+55;IGNACIO APROBAM;Aegon Frey (Jinglebell)                 ;168
+56;VERDE          ;Murch                                   ;188
+57;COLORES BANDERA;Mikken                                  ;1155
+58;COLOR ESPERANZA;Marei                                   ;639
+59;ESCARLATA      ;Maerie (Goodwife)                       ;1528
+60;ROJO           ;Draqaz                                  ;1040
+61;ESCARLATA      ;Rickon Stark                            ;
+62;SILVER         ;Malliard                                ;1828
+63;GOLD           ;Rolly Duckfield                         ;1960
+64;IGNACIO APROBAM;Masha Heddle                            ;
+65;ESCARLATA      ;Donal Noye                              ;2221
+66;GOLD           ;Ronnet Connington                       ;765
+67;GOLD           ;Danwell Frey                            ;1003
+68;VERDE          ;Donnel Locke                            ;497
+69;PLATINUM       ;Yohn Royce                              ;629
+70;IGNACIO APROBAM;Shyra Errol                             ;1642
+71;ROJO           ;Aurane Waters                           ;1540
+72;SILVER         ;Leobald Tallhart                        ;
+73;IGNACIO APROBAM;Randyll Tarly                           ;18
+74;IGNACIO APROBAM;Ollo Lophand                            ;2449
+75;ESCARLATA      ;Ambrode                                 ;1335
+76;ROJO           ;Chataya                                 ;1567
+77;IGNACIO APROBAM;Wendel Manderly                         ;
+78;VERDE          ;Ben Plumm                               ;455
+79;COLORES BANDERA;Ragwyle                                 ;917
+80;GOLD           ;Myles                                   ;1543
+81;COLORES BANDERA;Tanda Stokeworth                        ;1920
+82;COLOR ESPERANZA;Ryger Rivers                            ;387
+83;COLOR ESPERANZA;Colemon                                 ;1675
+84;COLORES BANDERA;Petyr Baelish                           ;1761
+85;COLOR ESPERANZA;Gregor Clegane                          ;1392
+86;ESCARLATA      ;Zei                                     ;514
+87;BRONZE         ;Benedar Belmore                         ;1239
+88;ESCARLATA      ;Jeren                                   ;698
+89;SILVER         ;Cleos Frey                              ;11
+90;VERDE          ;Alysane Mormont                         ;1501
+91;ESCARLATA      ;Squint                                  ;525
+92;PLATINUM       ;Meera Reed                              ;2007
+93;VERDE          ;Spare Boot                              ;2318
+94;SILVER         ;Rolfe                                   ;1965
+95;BRONZE         ;Rowan                                   ;
+96;COLORES BANDERA;Symon Silver Tongue                     ;1034
+97;SILVER         ;Oznak zo Pahl                           ;1484
+98;BRONZE         ;Tal Toraq                               ;1677
+99;BRONZE         ;Hallis Mollen                           ;675
+100;GOLD           ;Hake                                    ;929
+101;COLORES BANDERA;Joss                                    ;
+102;COLOR ESPERANZA;Jack Bulwer                             ;
+103;PLATINUM       ;Little Walder Frey                      ;1379
+104;ROJO           ;Iggo                                    ;102
+105;COLOR ESPERANZA;Elder Brother                           ;
+106;COLORES BANDERA;Mero                                    ;1414
+107;VERDE          ;Sarella Sand                            ;
+108;COLOR ESPERANZA;Eddard Stark                            ;1173
+109;SILVER         ;Bryen                                   ;2081
+110;ESCARLATA      ;Hop-Robin                               ;1583
+111;COLOR ESPERANZA;Dontos Hollard                          ;
+112;BRONZE         ;Ricasso                                 ;637
+113;GOLD           ;Ygon Farwynd                            ;
+114;ESCARLATA      ;Raynald Westerling                      ;
+115;COLORES BANDERA;Timeon                                  ;
+116;PLATINUM       ;Arson                                   ;627
+117;PLATINUM       ;Ulwyck Uller                            ;595
+118;COLOR ESPERANZA;Lothar Frey                             ;
+119;ROJO           ;Areo Hotah                              ;1707
+120;BRONZE         ;Utt                                     ;2351
+121;SILVER         ;Lollys Stokeworth                       ;
+122;ESCARLATA      ;Koss                                    ;362
+123;VERDE          ;Tyrek Lannister                         ;1376
+124;SILVER         ;Polliver                                ;
+125;COLORES BANDERA;Terrance Lynderly                       ;2188
+126;SILVER         ;Kedge Whiteye                           ;440
+127;BRONZE         ;Gyles Farwynd                           ;991
+128;BRONZE         ;Taena of Myr                            ;707
+129;IGNACIO APROBAM;Gared                                   ;
+130;VERDE          ;Lymond Goodbrook                        ;
+131;IGNACIO APROBAM;Benedar Belmore                         ;746
+132;BRONZE         ;Bessa (Winterfell)                      ;
+133;BRONZE         ;Randa                                   ;2092
+134;COLORES BANDERA;Daario Naharis                          ;813
+135;IGNACIO APROBAM;Jarl                                    ;2091
+136;IGNACIO APROBAM;Arron Qorgyle                           ;1584
+137;SILVER         ;Pate (Lancewood)                        ;1508
+138;ROJO           ;Gawen Westerling                        ;200
+139;COLOR ESPERANZA;Jonelle Cerwyn                          ;388
+140;VERDE          ;Jacks                                   ;1950
+141;BRONZE         ;Daenerys Targaryen                      ;
+142;COLOR ESPERANZA;Masha Heddle                            ;1440
+143;VERDE          ;Dywen                                   ;
+144;GOLD           ;Patchface                               ;1498
+145;GOLD           ;Rodrik Cassel                           ;1693
+146;COLORES BANDERA;Roose Bolton                            ;574
+147;BRONZE         ;Elinor Tyrell                           ;1193
+148;PLATINUM       ;Robett Glover                           ;618
+149;SILVER         ;Dywen                                   ;1751
+150;COLOR ESPERANZA;Danwell Frey                            ;198
+151;PLATINUM       ;Reysen                                  ;1559
+152;GOLD           ;Watty                                   ;1589
+153;COLORES BANDERA;Conwy                                   ;
+154;GOLD           ;Joss Stilwood                           ;1840
+155;BRONZE         ;Pate (Old)                              ;
+156;GOLD           ;Olyvar Frey                             ;
+157;ROJO           ;Morna White Mask                        ;1946
+158;SILVER         ;Wendello Qar Deeth                      ;1086
+159;IGNACIO APROBAM;Albar Royce                             ;1019
+160;ESCARLATA      ;Alyn Ambrose                            ;254
+161;IGNACIO APROBAM;Rolph Spicer                            ;
+162;COLOR ESPERANZA;Gynir                                   ;1443
+163;BRONZE         ;Stalwart Shield                         ;1153
+164;COLORES BANDERA;Chella                                  ;531
+165;ESCARLATA      ;Sansa Stark                             ;122
+166;PLATINUM       ;Alyn Ambrose                            ;2156
+167;BRONZE         ;Bryen Farring                           ;
+168;VERDE          ;Luton                                   ;
+169;COLOR ESPERANZA;Paxter Redwyne                          ;164
+170;ESCARLATA      ;Ramsay Snow                             ;1922
+171;VERDE          ;Karyl Vance                             ;689
+172;GOLD           ;Jon Fossoway                            ;1061
+173;GOLD           ;Qarl Shepherd                           ;1356
+174;ROJO           ;Palla                                   ;2285
+175;ROJO           ;Emmon Frey                              ;2220
+176;BRONZE         ;Daario Naharis                          ;1572
+177;ESCARLATA      ;Vyman                                   ;1777
+178;COLOR ESPERANZA;Kyra                                    ;561
+179;GOLD           ;Karyl Vance                             ;971
+180;COLORES BANDERA;Ben Plumm                               ;
+181;ESCARLATA      ;Arwyn Frey                              ;
+182;ESCARLATA      ;Hali                                    ;2173
+183;GOLD           ;Prendahl na Ghezn                       ;317
+184;VERDE          ;Leobald Tallhart                        ;1451
+185;PLATINUM       ;Fornio                                  ;965
+186;SILVER         ;Dalla                                   ;999
+187;IGNACIO APROBAM;Tal Toraq                               ;1646
+188;VERDE          ;Pate (Nights Watch)                     ;1254
+189;BRONZE         ;Weese                                   ;2411
+190;COLOR ESPERANZA;Dick Crabb                              ;2227
+191;VERDE          ;Raymund Frey                            ;
+192;GOLD           ;Tyrek Lannister                         ;1180
+193;VERDE          ;Anvil Ryn                               ;156
+194;PLATINUM       ;Varys                                   ;2026
+195;SILVER         ;Tycho Nestoris                          ;1797
+196;COLOR ESPERANZA;Philip Foote                            ;
+197;COLORES BANDERA;Roger Ryswell                           ;2306
+198;COLOR ESPERANZA;Howd Wanderer                           ;1125
+199;GOLD           ;Roland Crakehall (Lord)                 ;1268
+200;PLATINUM       ;Cadwyn                                  ;2465
+201;IGNACIO APROBAM;Vayon Poole                             ;1245
+202;COLOR ESPERANZA;Jaqen Hghar                             ;522
+203;IGNACIO APROBAM;Marillion                               ;1419
+204;GOLD           ;Hot Pie                                 ;842
+205;PLATINUM       ;Mark Mullendore                         ;1590
+206;ESCARLATA      ;Aemon Costayne                          ;
+207;COLORES BANDERA;Sawane Botley                           ;1860
+208;COLORES BANDERA;Thoros                                  ;1854
+209;SILVER         ;Umfred                                  ;542
+210;PLATINUM       ;Utt                                     ;802
+211;GOLD           ;Dalla (Dragonstone)                     ;1250
+212;COLORES BANDERA;Aeron Greyjoy                           ;905
+213;VERDE          ;Merlon Crakehall                        ;1478
+214;SILVER         ;Jon Umber (Greatjon)                    ;
+215;ESCARLATA      ;Antario Jast                            ;
+216;BRONZE         ;Eon Hunter                              ;2179
+217;VERDE          ;Steelskin                               ;981
+218;ESCARLATA      ;Alliser Thorne                          ;1493
+219;ESCARLATA      ;Grenn                                   ;150
+220;COLORES BANDERA;Myrcella Baratheon                      ;
+221;COLORES BANDERA;Raymar Royce                            ;854
+222;ESCARLATA      ;Emmon Cuy                               ;1225
+223;BRONZE         ;Erreck                                  ;2292
+224;ROJO           ;Skahaz mo Kandaq                        ;2484
+225;BRONZE         ;Watty                                   ;692
+226;COLORES BANDERA;Ondrew Locke                            ;521
+227;ESCARLATA      ;Oznak zo Pahl                           ;2296
+228;IGNACIO APROBAM;Jared Frey                              ;854
+229;ROJO           ;Benfrey Frey                            ;
+230;ESCARLATA      ;Devan Seaworth                          ;397
+231;IGNACIO APROBAM;Andrey Dalt                             ;444
+232;GOLD           ;Moreo Tumitis                           ;
+233;BRONZE         ;Small Paul                              ;2338
+234;SILVER         ;Little Walder Frey                      ;2126
+235;BRONZE         ;Olyvar Frey                             ;234
+236;PLATINUM       ;Ramsay Snow                             ;658
+237;PLATINUM       ;Gynir                                   ;931
+238;VERDE          ;Edric Dayne                             ;1005
+239;SILVER         ;Coldhands                               ;2396
+240;BRONZE         ;Ghost of High Heart                     ;1747
+241;ESCARLATA      ;Tanda Stokeworth                        ;
+242;VERDE          ;Kella                                   ;357
+243;COLORES BANDERA;Alla Tyrell                             ;1915
+244;ESCARLATA      ;Gendry                                  ;1551
+245;PLATINUM       ;Pate (novice)                           ;1530
+246;IGNACIO APROBAM;Byron                                   ;
+247;COLOR ESPERANZA;Hobber Redwyne                          ;1230
+248;VERDE          ;Ygon Farwynd                            ;458
+249;SILVER         ;Clayton Suggs                           ;
+250;SILVER         ;Leonette Fossoway                       ;1609
+251;COLORES BANDERA;Alyx Frey                               ;195
+252;BRONZE         ;Clubfoot Karl                           ;
+253;ROJO           ;Rodrik Cassel                           ;959
+254;BRONZE         ;Tyrek Lannister                         ;1833
+255;SILVER         ;Qarl the Maid                           ;406
+256;COLORES BANDERA;Alysane Mormont                         ;2467
+257;IGNACIO APROBAM;Tymor                                   ;1228
+258;ROJO           ;Dagmer                                  ;1662
+259;COLORES BANDERA;Godric Borrell                          ;
+260;SILVER         ;Jeyne Westerling                        ;
+261;COLOR ESPERANZA;Orell                                   ;451
+262;ESCARLATA      ;Myles                                   ;2011
+263;ESCARLATA      ;Dunstan Drumm                           ;1329
+264;COLORES BANDERA;Torwynd the Tame                        ;1853
+265;VERDE          ;Bryan Fossoway                          ;2440
+266;IGNACIO APROBAM;Borcas                                  ;2314
+267;ROJO           ;Parmen Crane                            ;1303
+268;SILVER         ;Ryger Rivers                            ;
+269;PLATINUM       ;Whalen Frey                             ;2282
+270;COLORES BANDERA;Donnel Waynwood                         ;34
+271;COLOR ESPERANZA;Muttering Bill                          ;1190
+272;PLATINUM       ;Aurane Waters                           ;565
+273;ESCARLATA      ;Brown Bernarr                           ;2347
+274;ESCARLATA      ;Osfryd Kettleblack                      ;2128
+275;SILVER         ;Yezzan Zo Qaggaz                        ;1932
+276;PLATINUM       ;Hake                                    ;1507
+277;VERDE          ;Jeyne Westerling                        ;1367
+278;COLOR ESPERANZA;Tobho Mott                              ;718
+279;COLORES BANDERA;Zei                                     ;1942
+280;IGNACIO APROBAM;Poul Pemford                            ;662
+281;ESCARLATA      ;Sybassion                               ;2366
+282;SILVER         ;Tothmure                                ;
+283;VERDE          ;Beth Cassel                             ;1374
+284;GOLD           ;Hullen                                  ;1067
+285;IGNACIO APROBAM;Sawane Botley                           ;699
+286;SILVER         ;Rollam Westerling                       ;326
+287;BRONZE         ;Arson                                   ;1680
+288;COLOR ESPERANZA;Rusty Flowers                           ;1190
+289;ROJO           ;Halys Hornwood                          ;
+290;ESCARLATA      ;Pylos                                   ;714
+291;ESCARLATA      ;Quhuru Mo                               ;126
+292;COLOR ESPERANZA;Meha                                    ;1505
+293;PLATINUM       ;Alesander Staedmon                      ;2058
+294;BRONZE         ;Rymolf Stormdrunk                       ;
+295;COLORES BANDERA;Merlon Crakehall                        ;51
+296;VERDE          ;Craster                                 ;527
+297;IGNACIO APROBAM;Hallyne                                 ;98
+298;ROJO           ;Black Walder Frey                       ;2479
+299;SILVER         ;Mellei                                  ;2228
+300;VERDE          ;Timeon                                  ;79
+301;ESCARLATA      ;Hullen                                  ;787
+302;GOLD           ;Patchface                               ;317
+303;VERDE          ;Victarion Greyjoy                       ;
+304;GOLD           ;Falia Flowers                           ;
+305;BRONZE         ;Bayard Norcross                         ;
+306;ROJO           ;Rolder                                  ;
+307;ESCARLATA      ;Squirrel                                ;1047
+308;GOLD           ;Stevron Frey                            ;1414
+309;IGNACIO APROBAM;Emrick                                  ;
+310;SILVER         ;Narbert                                 ;132
+311;COLORES BANDERA;Cressen                                 ;2391
+312;IGNACIO APROBAM;Shireen Baratheon                       ;529
+313;ESCARLATA      ;Olyvar Frey                             ;1345
+314;ROJO           ;Robert Arryn                            ;2427
+315;SILVER         ;Dunsen                                  ;
+316;IGNACIO APROBAM;Weasel                                  ;1503
+317;COLOR ESPERANZA;Haggo                                   ;1054
+318;COLOR ESPERANZA;Shagga                                  ;2374
+319;GOLD           ;Dickon Manwoody                         ;
+320;VERDE          ;Alliser Thorne                          ;2025
+321;ESCARLATA      ;Tuffleberry                             ;2020
+322;SILVER         ;Wyl (guard)                             ;2254
+323;GOLD           ;Qotho                                   ;1181
+324;IGNACIO APROBAM;Nage                                    ;794
+325;BRONZE         ;Polliver                                ;525
+326;VERDE          ;Woth                                    ;1219
+327;ESCARLATA      ;Garlan Tyrell                           ;608
+328;GOLD           ;Esgred                                  ;687
+329;GOLD           ;Petyr Baelish                           ;
+330;PLATINUM       ;Stevron Frey                            ;1242
+331;IGNACIO APROBAM;Sandor Clegane                          ;28
+332;ROJO           ;Roose Ryswell                           ;525
+333;GOLD           ;Horton Redfort                          ;231
+334;COLOR ESPERANZA;Matthos Seaworth                        ;
+335;ROJO           ;Walder Rivers                           ;
+336;GOLD           ;Tyene Sand                              ;17
+337;VERDE          ;Emrick                                  ;1566
+338;ROJO           ;Balon Swann                             ;
+339;VERDE          ;Emrick                                  ;
+340;GOLD           ;Ravella Swann                           ;
+341;PLATINUM       ;Gerold Dayne                            ;1409
+342;ROJO           ;Davos Seaworth                          ;
+343;COLORES BANDERA;Harry Strickland                        ;1493
+344;COLOR ESPERANZA;Cohollo                                 ;
+345;ESCARLATA      ;Muttering Bill                          ;1766
+346;BRONZE         ;Drogo                                   ;
+347;COLOR ESPERANZA;Holger                                  ;180
+348;ROJO           ;Byan Votyris                            ;1719
+349;GOLD           ;Victarion Greyjoy                       ;
+350;COLORES BANDERA;Jacks                                   ;2026
+351;SILVER         ;Kindly man                              ;
+352;GOLD           ;Edric Storm                             ;684
+353;GOLD           ;Rickon Stark                            ;
+354;ESCARLATA      ;Haldon                                  ;2028
+355;PLATINUM       ;Hallyne                                 ;1148
+356;GOLD           ;Jon Connington                          ;1328
+357;PLATINUM       ;Prendahl na Ghezn                       ;
+358;PLATINUM       ;Stiv                                    ;
+359;COLOR ESPERANZA;Ellaria Sand                            ;629
+360;COLOR ESPERANZA;Gyles Farwynd                           ;381
+361;PLATINUM       ;Hake                                    ;2334
+362;BRONZE         ;Tymor                                   ;976
+363;GOLD           ;Oswell Kettleblack                      ;707
+364;GOLD           ;Clydas                                  ;234
+365;IGNACIO APROBAM;Sawwood                                 ;1912
+366;ESCARLATA      ;Tothmure                                ;699
+367;PLATINUM       ;Pono                                    ;1713
+368;COLOR ESPERANZA;Donella Hornwood                        ;69
+369;VERDE          ;Bryen                                   ;517
+370;COLOR ESPERANZA;Matthos Seaworth                        ;785
+371;SILVER         ;Lamprey                                 ;
+372;IGNACIO APROBAM;Arwyn Oakheart                          ;1470
+373;BRONZE         ;Randa                                   ;1308
+374;BRONZE         ;Holger                                  ;
+375;COLORES BANDERA;Mossador                                ;2491
+376;SILVER         ;Erreck                                  ;601
+377;VERDE          ;Lyman Darry                             ;879
+378;GOLD           ;Eddard Stark                            ;
+379;SILVER         ;Gelmarr                                 ;728
+380;BRONZE         ;Val                                     ;1187
+381;ROJO           ;Belwas                                  ;369
+382;ESCARLATA      ;Arys Oakheart                           ;1036
+383;COLOR ESPERANZA;Bryce Caron                             ;
+384;ESCARLATA      ;The Red Lamb                            ;175
+385;ESCARLATA      ;Sawwood                                 ;1394
+386;COLOR ESPERANZA;Husband                                 ;2203
+387;ESCARLATA      ;Orton Merryweather                      ;1140
+388;PLATINUM       ;Sybassion                               ;605
+389;IGNACIO APROBAM;Nestor Royce                            ;204
+390;VERDE          ;Wat (orphan)                            ;1568
+391;IGNACIO APROBAM;Aggo                                    ;
+392;ESCARLATA      ;Gladden Wylde                           ;1204
+393;SILVER         ;Jon Connington                          ;
+394;SILVER         ;Maslyn                                  ;1164
+395;IGNACIO APROBAM;Robar Royce                             ;476
+396;GOLD           ;Rowan                                   ;1847
+397;ROJO           ;Rolph Spicer                            ;2232
+398;ROJO           ;Hallyne                                 ;
+399;IGNACIO APROBAM;Gared                                   ;295
+400;GOLD           ;Morna White Mask                        ;2044
+401;COLOR ESPERANZA;Wendel Manderly                         ;1683
+402;ESCARLATA      ;Rusty Flowers                           ;1422
+403;VERDE          ;Byam Flint                              ;163
+404;PLATINUM       ;Medger Cerwyn                           ;1961
+405;ROJO           ;Endehar                                 ;1531
+406;COLORES BANDERA;Lucias Vypren                           ;1470
+407;VERDE          ;Jonos Bracken                           ;2331
+408;IGNACIO APROBAM;Myranda Royce                           ;
+409;ESCARLATA      ;Jon Connington                          ;1285
+410;BRONZE         ;Ellaria Sand                            ;927
+411;COLOR ESPERANZA;Monster                                 ;
+412;VERDE          ;Pate (Old)                              ;190
+413;PLATINUM       ;Grazdan mo Eraz                         ;1229
+414;VERDE          ;Ralf Kenning                            ;1576
+415;ROJO           ;Petyr Frey                              ;1930
+416;BRONZE         ;Barra                                   ;407
+417;PLATINUM       ;Obara Sand                              ;838
+418;VERDE          ;Steffon Swyft                           ;758
+419;ESCARLATA      ;Chiswyck                                ;2219
+420;IGNACIO APROBAM;Praed                                   ;1062
+421;ESCARLATA      ;Ulf the Ill                             ;699
+422;COLORES BANDERA;Qotho                                   ;423
+423;COLOR ESPERANZA;Jacks                                   ;1156
+424;COLOR ESPERANZA;Gueren                                  ;160
+425;VERDE          ;Rorge                                   ;453
+426;IGNACIO APROBAM;Erik Ironmaker                          ;
+427;IGNACIO APROBAM;Sour Alyn                               ;2366
+428;VERDE          ;Martyn Rivers                           ;549
+429;COLORES BANDERA;Walda Rivers (daughter of Aemon)        ;1454
+430;ESCARLATA      ;Nurse                                   ;1129
+431;IGNACIO APROBAM;Erik Ironmaker                          ;167
+432;ROJO           ;Renly Baratheon                         ;2368
+433;PLATINUM       ;Arnolf Karstark                         ;
+434;GOLD           ;Jacks                                   ;670
+435;SILVER         ;Barra                                   ;1167
+436;GOLD           ;Utt                                     ;1876
+437;ROJO           ;Nestor Royce                            ;
+438;GOLD           ;Unella                                  ;
+439;COLOR ESPERANZA;Mariya Darry                            ;1872
+440;BRONZE         ;Haggo                                   ;1350
+441;VERDE          ;Godwyn                                  ;536
+442;PLATINUM       ;Tothmure                                ;729
+443;COLOR ESPERANZA;Donal Noye                              ;1119
+444;VERDE          ;Symond Templeton                        ;1279
+445;VERDE          ;Grazdan mo Ullhor                       ;1469
+446;PLATINUM       ;Gerren                                  ;1737
+447;COLORES BANDERA;Kindly man                              ;
+448;COLORES BANDERA;Garth of Oldtown                        ;1962
+449;COLOR ESPERANZA;Mully                                   ;1891
+450;COLORES BANDERA;Yellow Dick                             ;
+451;BRONZE         ;Tytos Frey                              ;295
+452;SILVER         ;Sawwood                                 ;2445
+453;COLORES BANDERA;Murch                                   ;680
+454;BRONZE         ;Rolfe the Dwarf                         ;409
+455;GOLD           ;Lord of Bones                           ;109
+456;VERDE          ;Rodrik Cassel                           ;
+457;ESCARLATA      ;Ternesio Terys                          ;1527
+458;SILVER         ;Roland Crakehall (Lord)                 ;517
+459;COLORES BANDERA;Doran Martell                           ;1446
+460;VERDE          ;Grenn                                   ;764
+461;BRONZE         ;Luke of Longtown                        ;1998
+462;PLATINUM       ;Chett                                   ;
+463;GOLD           ;Loras Tyrell                            ;1858
+464;GOLD           ;Medger Cerwyn                           ;1697
+465;SILVER         ;Roger Ryswell                           ;205
+466;COLOR ESPERANZA;Josua Willum                            ;
+467;BRONZE         ;Gormond Goodbrother                     ;68
+468;PLATINUM       ;Theon Greyjoy                           ;135
+469;ESCARLATA      ;Jocelyn Swyft                           ;585
+470;PLATINUM       ;Weasel                                  ;1028
+471;SILVER         ;Mellei                                  ;2324
+472;SILVER         ;Frenya                                  ;1128
+473;IGNACIO APROBAM;Meldred Merlyn                          ;856
+474;PLATINUM       ;Delp                                    ;1161
+475;PLATINUM       ;Poxy Tym                                ;1988
+476;IGNACIO APROBAM;Byan Votyris                            ;1904
+477;GOLD           ;Marei                                   ;
+478;ROJO           ;Jate Blackberry                         ;
+479;ROJO           ;Conwy                                   ;291
+480;SILVER         ;Doreah                                  ;
+481;GOLD           ;Walda Rivers (daughter of Aemon)        ;1935
+482;VERDE          ;Quenten Banefort                        ;220
+483;BRONZE         ;Kyle (Banners)                          ;2406
+484;ROJO           ;Cersei Lannister                        ;2208
+485;ESCARLATA      ;Rodrik Harlaw                           ;
+486;VERDE          ;Areo Hotah                              ;
+487;COLORES BANDERA;Josua Willum                            ;
+488;PLATINUM       ;Catelyn Tully                           ;967
+489;SILVER         ;Halder                                  ;
+490;ROJO           ;Meliana                                 ;
+491;BRONZE         ;Qyle                                    ;813
+492;VERDE          ;Hot Pie                                 ;1546
+493;COLORES BANDERA;Yezzan Zo Qaggaz                        ;1121
+494;ROJO           ;Mors Manwoody                           ;1833
+495;PLATINUM       ;Rickard Karstark                        ;2353
+496;SILVER         ;Alys Karstark                           ;311
+497;COLORES BANDERA;Ketter                                  ;2453
+498;PLATINUM       ;Rolfe the Dwarf                         ;
+499;IGNACIO APROBAM;Umar                                    ;1515

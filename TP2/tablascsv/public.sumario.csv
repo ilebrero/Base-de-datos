@@ -1,0 +1,501 @@
+idsumario;estado;fecha;resultado;descripcion;nroplaca;iddesignacion
+0;FINALIZADO          ;1996-01-01;Jerky beef strip ste;Ham hock beef bacon,;0;348
+1;FINALIZADO          ;1996-01-01;Does your lorem ipsu;Ham hock beef bacon,;1;3138
+2;FINALIZADO          ;1999-01-01;Does your lorem ipsu;Turkey rump landjaeg;2;248
+3;FINALIZADO          ;1997-01-01;Jerky beef strip ste;Turkey rump landjaeg;3;2597
+4;FINALIZADO          ;1996-01-01;Does your lorem ipsu;Turkey rump landjaeg;4;1669
+5;FINALIZADO          ;1999-01-01;Spicy jalapeno bacon;Jerky beef strip ste;5;2094
+6;FINALIZADO          ;1999-01-01;Spicy jalapeno bacon;Ham hock beef bacon,;6;2740
+7;FINALIZADO          ;1999-01-01;Ham hock beef bacon,;Spicy jalapeno bacon;7;2389
+8;FINALIZADO          ;1996-01-01;Jerky beef strip ste;Spicy jalapeno bacon;8;26
+9;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Jerky beef strip ste;9;798
+10;FINALIZADO          ;1998-01-01;Ham hock beef bacon,;Ham hock beef bacon,;10;389
+11;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Ham hock beef bacon,;11;2202
+12;FINALIZADO          ;1999-01-01;Jerky beef strip ste;Ham hock beef bacon,;12;2628
+13;FINALIZADO          ;1998-01-01;Does your lorem ipsu;Ham hock beef bacon,;13;3237
+14;FINALIZADO          ;1996-01-01;Jerky beef strip ste;Turkey rump landjaeg;14;1538
+15;FINALIZADO          ;1997-01-01;Ham hock beef bacon,;Turkey rump landjaeg;15;522
+16;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Ham hock beef bacon,;16;2511
+17;FINALIZADO          ;1998-01-01;Ham hock beef bacon,;Turkey rump landjaeg;17;2268
+18;FINALIZADO          ;1999-01-01;Spicy jalapeno bacon;Turkey rump landjaeg;18;2519
+19;FINALIZADO          ;1997-01-01;Ham hock beef bacon,;Ham hock beef bacon,;19;2227
+20;FINALIZADO          ;1996-01-01;Jerky beef strip ste;Spicy jalapeno bacon;20;2842
+21;FINALIZADO          ;1999-01-01;Does your lorem ipsu;Ham hock beef bacon,;21;97
+22;FINALIZADO          ;1997-01-01;Does your lorem ipsu;Spicy jalapeno bacon;22;1153
+23;FINALIZADO          ;1998-01-01;Jerky beef strip ste;Jerky beef strip ste;23;340
+24;FINALIZADO          ;1998-01-01;Turkey rump landjaeg;Ham hock beef bacon,;24;444
+25;FINALIZADO          ;1999-01-01;Does your lorem ipsu;Does your lorem ipsu;25;1486
+26;FINALIZADO          ;1997-01-01;Turkey rump landjaeg;Spicy jalapeno bacon;26;1311
+27;FINALIZADO          ;1999-01-01;Jerky beef strip ste;Does your lorem ipsu;27;943
+28;FINALIZADO          ;1996-01-01;Spicy jalapeno bacon;Turkey rump landjaeg;28;886
+29;FINALIZADO          ;1998-01-01;Does your lorem ipsu;Jerky beef strip ste;29;2759
+30;FINALIZADO          ;1998-01-01;Ham hock beef bacon,;Does your lorem ipsu;30;2718
+31;FINALIZADO          ;1998-01-01;Ham hock beef bacon,;Jerky beef strip ste;31;902
+32;FINALIZADO          ;1997-01-01;Turkey rump landjaeg;Turkey rump landjaeg;32;3421
+33;FINALIZADO          ;1997-01-01;Jerky beef strip ste;Does your lorem ipsu;33;492
+34;FINALIZADO          ;1997-01-01;Ham hock beef bacon,;Jerky beef strip ste;34;1082
+35;FINALIZADO          ;1998-01-01;Ham hock beef bacon,;Spicy jalapeno bacon;35;2971
+36;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Does your lorem ipsu;36;1774
+37;FINALIZADO          ;1996-01-01;Does your lorem ipsu;Turkey rump landjaeg;37;746
+38;FINALIZADO          ;1998-01-01;Ham hock beef bacon,;Ham hock beef bacon,;38;3868
+39;FINALIZADO          ;1997-01-01;Ham hock beef bacon,;Spicy jalapeno bacon;39;3956
+40;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Ham hock beef bacon,;40;1478
+41;FINALIZADO          ;1999-01-01;Ham hock beef bacon,;Does your lorem ipsu;41;2394
+42;FINALIZADO          ;1999-01-01;Turkey rump landjaeg;Spicy jalapeno bacon;42;954
+43;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Jerky beef strip ste;43;2866
+44;FINALIZADO          ;1996-01-01;Ham hock beef bacon,;Spicy jalapeno bacon;44;3353
+45;FINALIZADO          ;1998-01-01;Jerky beef strip ste;Spicy jalapeno bacon;45;2886
+46;FINALIZADO          ;1999-01-01;Spicy jalapeno bacon;Turkey rump landjaeg;46;3966
+47;FINALIZADO          ;1996-01-01;Ham hock beef bacon,;Spicy jalapeno bacon;47;3396
+48;FINALIZADO          ;1997-01-01;Turkey rump landjaeg;Jerky beef strip ste;48;2607
+49;FINALIZADO          ;1997-01-01;Jerky beef strip ste;Does your lorem ipsu;49;2218
+50;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Jerky beef strip ste;50;3767
+51;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Turkey rump landjaeg;51;404
+52;FINALIZADO          ;1996-01-01;Ham hock beef bacon,;Turkey rump landjaeg;52;557
+53;FINALIZADO          ;1998-01-01;Does your lorem ipsu;Turkey rump landjaeg;53;467
+54;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Turkey rump landjaeg;54;1634
+55;FINALIZADO          ;1997-01-01;Ham hock beef bacon,;Jerky beef strip ste;55;838
+56;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Spicy jalapeno bacon;56;1505
+57;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Ham hock beef bacon,;57;2653
+58;FINALIZADO          ;1997-01-01;Turkey rump landjaeg;Jerky beef strip ste;58;394
+59;FINALIZADO          ;1998-01-01;Jerky beef strip ste;Ham hock beef bacon,;59;2600
+60;FINALIZADO          ;1999-01-01;Does your lorem ipsu;Turkey rump landjaeg;60;2715
+61;FINALIZADO          ;1996-01-01;Spicy jalapeno bacon;Does your lorem ipsu;61;2343
+62;FINALIZADO          ;1996-01-01;Spicy jalapeno bacon;Turkey rump landjaeg;62;3503
+63;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Jerky beef strip ste;63;1079
+64;FINALIZADO          ;1997-01-01;Jerky beef strip ste;Turkey rump landjaeg;64;3814
+65;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Spicy jalapeno bacon;65;179
+66;FINALIZADO          ;1996-01-01;Jerky beef strip ste;Spicy jalapeno bacon;66;2540
+67;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Jerky beef strip ste;67;3434
+68;FINALIZADO          ;1998-01-01;Does your lorem ipsu;Turkey rump landjaeg;68;1193
+69;FINALIZADO          ;1999-01-01;Does your lorem ipsu;Does your lorem ipsu;69;1809
+70;FINALIZADO          ;1996-01-01;Ham hock beef bacon,;Does your lorem ipsu;70;2085
+71;FINALIZADO          ;1996-01-01;Jerky beef strip ste;Turkey rump landjaeg;71;1287
+72;FINALIZADO          ;1999-01-01;Turkey rump landjaeg;Spicy jalapeno bacon;72;616
+73;FINALIZADO          ;1996-01-01;Turkey rump landjaeg;Does your lorem ipsu;73;1551
+74;FINALIZADO          ;1997-01-01;Does your lorem ipsu;Spicy jalapeno bacon;74;2088
+75;FINALIZADO          ;1996-01-01;Spicy jalapeno bacon;Ham hock beef bacon,;75;2659
+76;FINALIZADO          ;1997-01-01;Does your lorem ipsu;Jerky beef strip ste;76;1926
+77;FINALIZADO          ;1996-01-01;Jerky beef strip ste;Ham hock beef bacon,;77;2889
+78;FINALIZADO          ;1996-01-01;Ham hock beef bacon,;Jerky beef strip ste;78;2383
+79;FINALIZADO          ;1999-01-01;Ham hock beef bacon,;Ham hock beef bacon,;79;3004
+80;FINALIZADO          ;1997-01-01;Ham hock beef bacon,;Turkey rump landjaeg;80;3151
+81;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Jerky beef strip ste;81;1915
+82;FINALIZADO          ;1996-01-01;Ham hock beef bacon,;Jerky beef strip ste;82;2624
+83;FINALIZADO          ;1998-01-01;Ham hock beef bacon,;Ham hock beef bacon,;83;2142
+84;FINALIZADO          ;1997-01-01;Turkey rump landjaeg;Ham hock beef bacon,;84;3116
+85;FINALIZADO          ;1997-01-01;Spicy jalapeno bacon;Turkey rump landjaeg;85;1782
+86;FINALIZADO          ;1998-01-01;Jerky beef strip ste;Spicy jalapeno bacon;86;3930
+87;FINALIZADO          ;1997-01-01;Jerky beef strip ste;Turkey rump landjaeg;87;1584
+88;FINALIZADO          ;1998-01-01;Turkey rump landjaeg;Spicy jalapeno bacon;88;1868
+89;FINALIZADO          ;1996-01-01;Does your lorem ipsu;Jerky beef strip ste;89;969
+90;FINALIZADO          ;1996-01-01;Does your lorem ipsu;Ham hock beef bacon,;90;1600
+91;FINALIZADO          ;1997-01-01;Does your lorem ipsu;Does your lorem ipsu;91;3864
+92;FINALIZADO          ;1996-01-01;Does your lorem ipsu;Jerky beef strip ste;92;44
+93;FINALIZADO          ;1999-01-01;Ham hock beef bacon,;Does your lorem ipsu;93;2119
+94;FINALIZADO          ;1997-01-01;Jerky beef strip ste;Turkey rump landjaeg;94;3801
+95;FINALIZADO          ;1996-01-01;Spicy jalapeno bacon;Turkey rump landjaeg;95;778
+96;FINALIZADO          ;1997-01-01;Does your lorem ipsu;Does your lorem ipsu;96;3352
+97;FINALIZADO          ;1997-01-01;Ham hock beef bacon,;Does your lorem ipsu;97;2467
+98;FINALIZADO          ;1997-01-01;Spicy jalapeno bacon;Does your lorem ipsu;98;1257
+99;FINALIZADO          ;1998-01-01;Spicy jalapeno bacon;Turkey rump landjaeg;99;3454
+100;SIGUE POR BUEN TIPO ;1996-01-01;;Jerky beef strip ste;0;3689
+101;A JUICIO            ;1999-01-01;;Does your lorem ipsu;0;1050
+102;SIGUE POR BUEN TIPO ;1996-01-01;;Jerky beef strip ste;0;1109
+103;SIGUE POR BUEN TIPO ;1997-01-01;;Ham hock beef bacon,;0;3537
+104;A JUICIO            ;1996-01-01;;Jerky beef strip ste;0;540
+105;DESPIDO             ;1998-01-01;;Ham hock beef bacon,;0;2751
+106;jajaja ya fue       ;1996-01-01;;Spicy jalapeno bacon;0;681
+107;A JUICIO            ;1998-01-01;;Spicy jalapeno bacon;0;479
+108;DESPIDO             ;1998-01-01;;Spicy jalapeno bacon;0;2939
+109;SIN CAUSAS PARA RETA;1996-01-01;;Spicy jalapeno bacon;0;2217
+110;SIN CAUSAS PARA RETA;1998-01-01;;Ham hock beef bacon,;0;704
+111;SIGUE POR BUEN TIPO ;1998-01-01;;Spicy jalapeno bacon;0;1538
+112;SIGUE POR BUEN TIPO ;1997-01-01;;Does your lorem ipsu;0;928
+113;DESPIDO             ;1996-01-01;;Ham hock beef bacon,;0;1551
+114;DESPIDO             ;1996-01-01;;Ham hock beef bacon,;0;3750
+115;A JUICIO            ;1998-01-01;;Ham hock beef bacon,;0;2634
+116;jajaja ya fue       ;1999-01-01;;Spicy jalapeno bacon;0;3423
+117;SIGUE POR BUEN TIPO ;1997-01-01;;Jerky beef strip ste;0;3903
+118;A JUICIO            ;1998-01-01;;Ham hock beef bacon,;0;1657
+119;DESPIDO             ;1999-01-01;;Turkey rump landjaeg;0;2101
+120;A JUICIO            ;1998-01-01;;Spicy jalapeno bacon;0;2512
+121;jajaja ya fue       ;1997-01-01;;Jerky beef strip ste;0;781
+122;DESPIDO             ;1997-01-01;;Ham hock beef bacon,;0;1550
+123;SIGUE POR BUEN TIPO ;1997-01-01;;Jerky beef strip ste;0;2825
+124;SIGUE POR BUEN TIPO ;1996-01-01;;Ham hock beef bacon,;0;1422
+125;jajaja ya fue       ;1996-01-01;;Does your lorem ipsu;0;2543
+126;SIGUE POR BUEN TIPO ;1999-01-01;;Turkey rump landjaeg;0;3814
+127;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;2247
+128;DESPIDO             ;1998-01-01;;Turkey rump landjaeg;0;3334
+129;SIGUE POR BUEN TIPO ;1998-01-01;;Spicy jalapeno bacon;0;3506
+130;A JUICIO            ;1999-01-01;;Ham hock beef bacon,;0;3728
+131;A JUICIO            ;1996-01-01;;Turkey rump landjaeg;0;3425
+132;A JUICIO            ;1999-01-01;;Does your lorem ipsu;0;2107
+133;DESPIDO             ;1998-01-01;;Turkey rump landjaeg;0;1874
+134;DESPIDO             ;1997-01-01;;Spicy jalapeno bacon;0;1498
+135;SIGUE POR BUEN TIPO ;1998-01-01;;Does your lorem ipsu;0;2752
+136;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;2757
+137;DESPIDO             ;1999-01-01;;Ham hock beef bacon,;0;3167
+138;SIN CAUSAS PARA RETA;1996-01-01;;Ham hock beef bacon,;0;694
+139;SIGUE POR BUEN TIPO ;1996-01-01;;Jerky beef strip ste;0;470
+140;A JUICIO            ;1997-01-01;;Spicy jalapeno bacon;0;2626
+141;DESPIDO             ;1996-01-01;;Turkey rump landjaeg;0;1387
+142;jajaja ya fue       ;1996-01-01;;Spicy jalapeno bacon;0;2402
+143;A JUICIO            ;1999-01-01;;Does your lorem ipsu;0;2127
+144;A JUICIO            ;1997-01-01;;Turkey rump landjaeg;0;136
+145;DESPIDO             ;1996-01-01;;Jerky beef strip ste;0;1003
+146;SIN CAUSAS PARA RETA;1997-01-01;;Does your lorem ipsu;0;2759
+147;A JUICIO            ;1999-01-01;;Ham hock beef bacon,;0;3987
+148;jajaja ya fue       ;1998-01-01;;Jerky beef strip ste;0;1181
+149;DESPIDO             ;1999-01-01;;Spicy jalapeno bacon;0;3419
+150;SIGUE POR BUEN TIPO ;1996-01-01;;Spicy jalapeno bacon;0;144
+151;SIGUE POR BUEN TIPO ;1997-01-01;;Jerky beef strip ste;0;504
+152;SIGUE POR BUEN TIPO ;1996-01-01;;Turkey rump landjaeg;0;212
+153;SIGUE POR BUEN TIPO ;1999-01-01;;Turkey rump landjaeg;0;3345
+154;DESPIDO             ;1996-01-01;;Spicy jalapeno bacon;0;144
+155;DESPIDO             ;1996-01-01;;Does your lorem ipsu;0;3481
+156;DESPIDO             ;1998-01-01;;Does your lorem ipsu;0;1507
+157;SIN CAUSAS PARA RETA;1997-01-01;;Jerky beef strip ste;0;1966
+158;A JUICIO            ;1999-01-01;;Spicy jalapeno bacon;0;3323
+159;SIN CAUSAS PARA RETA;1998-01-01;;Does your lorem ipsu;0;178
+160;DESPIDO             ;1996-01-01;;Spicy jalapeno bacon;0;1557
+161;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;929
+162;jajaja ya fue       ;1998-01-01;;Jerky beef strip ste;0;3541
+163;A JUICIO            ;1997-01-01;;Ham hock beef bacon,;0;2628
+164;DESPIDO             ;1996-01-01;;Does your lorem ipsu;0;3839
+165;SIN CAUSAS PARA RETA;1999-01-01;;Jerky beef strip ste;0;3562
+166;jajaja ya fue       ;1997-01-01;;Does your lorem ipsu;0;3297
+167;A JUICIO            ;1996-01-01;;Does your lorem ipsu;0;3655
+168;jajaja ya fue       ;1998-01-01;;Jerky beef strip ste;0;3137
+169;DESPIDO             ;1997-01-01;;Turkey rump landjaeg;0;2046
+170;SIGUE POR BUEN TIPO ;1996-01-01;;Ham hock beef bacon,;0;1715
+171;jajaja ya fue       ;1997-01-01;;Jerky beef strip ste;0;674
+172;SIN CAUSAS PARA RETA;1998-01-01;;Jerky beef strip ste;0;3457
+173;jajaja ya fue       ;1999-01-01;;Jerky beef strip ste;0;1667
+174;SIN CAUSAS PARA RETA;1999-01-01;;Does your lorem ipsu;0;542
+175;SIGUE POR BUEN TIPO ;1996-01-01;;Jerky beef strip ste;0;3794
+176;jajaja ya fue       ;1996-01-01;;Jerky beef strip ste;0;216
+177;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;3308
+178;SIGUE POR BUEN TIPO ;1996-01-01;;Turkey rump landjaeg;0;3413
+179;DESPIDO             ;1999-01-01;;Ham hock beef bacon,;0;7
+180;SIN CAUSAS PARA RETA;1999-01-01;;Does your lorem ipsu;0;3248
+181;SIGUE POR BUEN TIPO ;1998-01-01;;Does your lorem ipsu;0;93
+182;DESPIDO             ;1998-01-01;;Turkey rump landjaeg;0;149
+183;SIGUE POR BUEN TIPO ;1997-01-01;;Turkey rump landjaeg;0;2864
+184;DESPIDO             ;1997-01-01;;Turkey rump landjaeg;0;974
+185;SIGUE POR BUEN TIPO ;1998-01-01;;Spicy jalapeno bacon;0;3765
+186;SIGUE POR BUEN TIPO ;1999-01-01;;Turkey rump landjaeg;0;905
+187;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;236
+188;A JUICIO            ;1999-01-01;;Ham hock beef bacon,;0;2906
+189;SIN CAUSAS PARA RETA;1996-01-01;;Does your lorem ipsu;0;723
+190;A JUICIO            ;1996-01-01;;Turkey rump landjaeg;0;1868
+191;SIN CAUSAS PARA RETA;1999-01-01;;Does your lorem ipsu;0;2317
+192;A JUICIO            ;1997-01-01;;Turkey rump landjaeg;0;3676
+193;DESPIDO             ;1998-01-01;;Turkey rump landjaeg;0;2074
+194;SIN CAUSAS PARA RETA;1998-01-01;;Turkey rump landjaeg;0;406
+195;DESPIDO             ;1996-01-01;;Ham hock beef bacon,;0;3096
+196;A JUICIO            ;1999-01-01;;Turkey rump landjaeg;0;113
+197;DESPIDO             ;1996-01-01;;Spicy jalapeno bacon;0;717
+198;DESPIDO             ;1997-01-01;;Does your lorem ipsu;0;3590
+199;A JUICIO            ;1997-01-01;;Turkey rump landjaeg;0;1079
+200;jajaja ya fue       ;1998-01-01;;Ham hock beef bacon,;0;458
+201;SIN CAUSAS PARA RETA;1996-01-01;;Spicy jalapeno bacon;0;3089
+202;jajaja ya fue       ;1996-01-01;;Turkey rump landjaeg;0;3972
+203;SIGUE POR BUEN TIPO ;1998-01-01;;Jerky beef strip ste;0;2967
+204;SIN CAUSAS PARA RETA;1997-01-01;;Ham hock beef bacon,;0;3499
+205;SIN CAUSAS PARA RETA;1996-01-01;;Ham hock beef bacon,;0;3610
+206;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;856
+207;DESPIDO             ;1998-01-01;;Ham hock beef bacon,;0;3376
+208;A JUICIO            ;1999-01-01;;Jerky beef strip ste;0;1778
+209;A JUICIO            ;1996-01-01;;Turkey rump landjaeg;0;3396
+210;DESPIDO             ;1996-01-01;;Jerky beef strip ste;0;2254
+211;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;3322
+212;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;2180
+213;SIGUE POR BUEN TIPO ;1997-01-01;;Does your lorem ipsu;0;3644
+214;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;1843
+215;DESPIDO             ;1996-01-01;;Turkey rump landjaeg;0;335
+216;DESPIDO             ;1997-01-01;;Does your lorem ipsu;0;3396
+217;SIGUE POR BUEN TIPO ;1997-01-01;;Jerky beef strip ste;0;31
+218;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;569
+219;SIN CAUSAS PARA RETA;1998-01-01;;Spicy jalapeno bacon;0;272
+220;jajaja ya fue       ;1999-01-01;;Spicy jalapeno bacon;0;307
+221;A JUICIO            ;1996-01-01;;Spicy jalapeno bacon;0;429
+222;A JUICIO            ;1998-01-01;;Does your lorem ipsu;0;1706
+223;SIN CAUSAS PARA RETA;1997-01-01;;Jerky beef strip ste;0;1598
+224;A JUICIO            ;1997-01-01;;Spicy jalapeno bacon;0;3853
+225;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;1249
+226;DESPIDO             ;1998-01-01;;Spicy jalapeno bacon;0;3864
+227;SIN CAUSAS PARA RETA;1998-01-01;;Does your lorem ipsu;0;3412
+228;jajaja ya fue       ;1997-01-01;;Jerky beef strip ste;0;596
+229;jajaja ya fue       ;1999-01-01;;Does your lorem ipsu;0;2179
+230;SIN CAUSAS PARA RETA;1997-01-01;;Does your lorem ipsu;0;2689
+231;jajaja ya fue       ;1996-01-01;;Jerky beef strip ste;0;3327
+232;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;2701
+233;A JUICIO            ;1997-01-01;;Spicy jalapeno bacon;0;3243
+234;SIN CAUSAS PARA RETA;1999-01-01;;Does your lorem ipsu;0;3987
+235;jajaja ya fue       ;1996-01-01;;Ham hock beef bacon,;0;1569
+236;SIGUE POR BUEN TIPO ;1998-01-01;;Jerky beef strip ste;0;1962
+237;DESPIDO             ;1997-01-01;;Turkey rump landjaeg;0;520
+238;DESPIDO             ;1997-01-01;;Spicy jalapeno bacon;0;616
+239;SIGUE POR BUEN TIPO ;1998-01-01;;Jerky beef strip ste;0;1657
+240;jajaja ya fue       ;1996-01-01;;Ham hock beef bacon,;0;3940
+241;DESPIDO             ;1999-01-01;;Does your lorem ipsu;0;3204
+242;SIGUE POR BUEN TIPO ;1996-01-01;;Does your lorem ipsu;0;1865
+243;A JUICIO            ;1997-01-01;;Turkey rump landjaeg;0;364
+244;DESPIDO             ;1996-01-01;;Jerky beef strip ste;0;2674
+245;SIN CAUSAS PARA RETA;1997-01-01;;Spicy jalapeno bacon;0;298
+246;DESPIDO             ;1997-01-01;;Turkey rump landjaeg;0;1958
+247;SIGUE POR BUEN TIPO ;1997-01-01;;Ham hock beef bacon,;0;982
+248;jajaja ya fue       ;1999-01-01;;Turkey rump landjaeg;0;2684
+249;SIN CAUSAS PARA RETA;1997-01-01;;Ham hock beef bacon,;0;2500
+250;SIN CAUSAS PARA RETA;1998-01-01;;Jerky beef strip ste;0;1967
+251;SIGUE POR BUEN TIPO ;1999-01-01;;Jerky beef strip ste;0;2265
+252;SIN CAUSAS PARA RETA;1997-01-01;;Ham hock beef bacon,;0;3479
+253;SIGUE POR BUEN TIPO ;1999-01-01;;Turkey rump landjaeg;0;952
+254;SIN CAUSAS PARA RETA;1998-01-01;;Does your lorem ipsu;0;1751
+255;A JUICIO            ;1997-01-01;;Spicy jalapeno bacon;0;3251
+256;A JUICIO            ;1999-01-01;;Turkey rump landjaeg;0;565
+257;SIGUE POR BUEN TIPO ;1997-01-01;;Spicy jalapeno bacon;0;3626
+258;A JUICIO            ;1997-01-01;;Jerky beef strip ste;0;181
+259;SIN CAUSAS PARA RETA;1999-01-01;;Spicy jalapeno bacon;0;2589
+260;jajaja ya fue       ;1996-01-01;;Jerky beef strip ste;0;1055
+261;jajaja ya fue       ;1999-01-01;;Does your lorem ipsu;0;709
+262;SIN CAUSAS PARA RETA;1996-01-01;;Does your lorem ipsu;0;2724
+263;DESPIDO             ;1999-01-01;;Does your lorem ipsu;0;2818
+264;A JUICIO            ;1996-01-01;;Turkey rump landjaeg;0;851
+265;A JUICIO            ;1996-01-01;;Ham hock beef bacon,;0;2956
+266;SIN CAUSAS PARA RETA;1998-01-01;;Spicy jalapeno bacon;0;515
+267;jajaja ya fue       ;1996-01-01;;Ham hock beef bacon,;0;3260
+268;SIN CAUSAS PARA RETA;1996-01-01;;Ham hock beef bacon,;0;462
+269;SIGUE POR BUEN TIPO ;1999-01-01;;Spicy jalapeno bacon;0;2680
+270;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;2536
+271;jajaja ya fue       ;1999-01-01;;Jerky beef strip ste;0;3615
+272;SIGUE POR BUEN TIPO ;1998-01-01;;Turkey rump landjaeg;0;3700
+273;DESPIDO             ;1997-01-01;;Ham hock beef bacon,;0;2745
+274;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;2550
+275;SIN CAUSAS PARA RETA;1997-01-01;;Does your lorem ipsu;0;3678
+276;DESPIDO             ;1997-01-01;;Does your lorem ipsu;0;3892
+277;SIGUE POR BUEN TIPO ;1999-01-01;;Jerky beef strip ste;0;2548
+278;SIN CAUSAS PARA RETA;1996-01-01;;Does your lorem ipsu;0;1225
+279;SIN CAUSAS PARA RETA;1996-01-01;;Ham hock beef bacon,;0;231
+280;DESPIDO             ;1996-01-01;;Ham hock beef bacon,;0;2556
+281;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;2465
+282;SIGUE POR BUEN TIPO ;1997-01-01;;Jerky beef strip ste;0;2678
+283;A JUICIO            ;1997-01-01;;Spicy jalapeno bacon;0;1423
+284;A JUICIO            ;1996-01-01;;Jerky beef strip ste;0;754
+285;A JUICIO            ;1997-01-01;;Spicy jalapeno bacon;0;2835
+286;SIGUE POR BUEN TIPO ;1997-01-01;;Spicy jalapeno bacon;0;601
+287;A JUICIO            ;1998-01-01;;Ham hock beef bacon,;0;2294
+288;jajaja ya fue       ;1997-01-01;;Does your lorem ipsu;0;1223
+289;SIGUE POR BUEN TIPO ;1998-01-01;;Does your lorem ipsu;0;2863
+290;jajaja ya fue       ;1997-01-01;;Jerky beef strip ste;0;2482
+291;SIGUE POR BUEN TIPO ;1996-01-01;;Jerky beef strip ste;0;1430
+292;SIN CAUSAS PARA RETA;1998-01-01;;Ham hock beef bacon,;0;1282
+293;SIN CAUSAS PARA RETA;1999-01-01;;Ham hock beef bacon,;0;1190
+294;SIN CAUSAS PARA RETA;1997-01-01;;Jerky beef strip ste;0;2422
+295;SIGUE POR BUEN TIPO ;1998-01-01;;Does your lorem ipsu;0;1062
+296;A JUICIO            ;1997-01-01;;Does your lorem ipsu;0;2826
+297;jajaja ya fue       ;1998-01-01;;Spicy jalapeno bacon;0;921
+298;SIGUE POR BUEN TIPO ;1999-01-01;;Spicy jalapeno bacon;0;1640
+299;DESPIDO             ;1997-01-01;;Ham hock beef bacon,;0;997
+300;DESPIDO             ;1998-01-01;;Does your lorem ipsu;0;3615
+301;SIN CAUSAS PARA RETA;1997-01-01;;Ham hock beef bacon,;0;2718
+302;jajaja ya fue       ;1998-01-01;;Turkey rump landjaeg;0;156
+303;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;3403
+304;A JUICIO            ;1999-01-01;;Spicy jalapeno bacon;0;741
+305;DESPIDO             ;1996-01-01;;Spicy jalapeno bacon;0;2908
+306;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;1154
+307;A JUICIO            ;1996-01-01;;Turkey rump landjaeg;0;285
+308;SIN CAUSAS PARA RETA;1999-01-01;;Does your lorem ipsu;0;2135
+309;DESPIDO             ;1997-01-01;;Does your lorem ipsu;0;629
+310;jajaja ya fue       ;1996-01-01;;Spicy jalapeno bacon;0;885
+311;jajaja ya fue       ;1999-01-01;;Jerky beef strip ste;0;1630
+312;SIN CAUSAS PARA RETA;1996-01-01;;Ham hock beef bacon,;0;3267
+313;SIN CAUSAS PARA RETA;1997-01-01;;Does your lorem ipsu;0;2065
+314;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;108
+315;A JUICIO            ;1997-01-01;;Jerky beef strip ste;0;283
+316;jajaja ya fue       ;1996-01-01;;Does your lorem ipsu;0;2539
+317;jajaja ya fue       ;1996-01-01;;Spicy jalapeno bacon;0;718
+318;DESPIDO             ;1999-01-01;;Does your lorem ipsu;0;3125
+319;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;2543
+320;A JUICIO            ;1999-01-01;;Turkey rump landjaeg;0;2881
+321;A JUICIO            ;1997-01-01;;Jerky beef strip ste;0;3897
+322;DESPIDO             ;1999-01-01;;Turkey rump landjaeg;0;2577
+323;SIGUE POR BUEN TIPO ;1997-01-01;;Turkey rump landjaeg;0;1684
+324;A JUICIO            ;1999-01-01;;Spicy jalapeno bacon;0;1485
+325;jajaja ya fue       ;1999-01-01;;Spicy jalapeno bacon;0;2060
+326;jajaja ya fue       ;1998-01-01;;Does your lorem ipsu;0;2581
+327;A JUICIO            ;1997-01-01;;Ham hock beef bacon,;0;2700
+328;jajaja ya fue       ;1999-01-01;;Ham hock beef bacon,;0;3440
+329;A JUICIO            ;1998-01-01;;Spicy jalapeno bacon;0;3946
+330;SIGUE POR BUEN TIPO ;1996-01-01;;Turkey rump landjaeg;0;2378
+331;A JUICIO            ;1998-01-01;;Does your lorem ipsu;0;717
+332;A JUICIO            ;1996-01-01;;Jerky beef strip ste;0;2167
+333;SIGUE POR BUEN TIPO ;1997-01-01;;Ham hock beef bacon,;0;2662
+334;A JUICIO            ;1999-01-01;;Does your lorem ipsu;0;2466
+335;A JUICIO            ;1998-01-01;;Does your lorem ipsu;0;3634
+336;SIN CAUSAS PARA RETA;1996-01-01;;Turkey rump landjaeg;0;2501
+337;SIN CAUSAS PARA RETA;1998-01-01;;Ham hock beef bacon,;0;2549
+338;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;2551
+339;DESPIDO             ;1998-01-01;;Does your lorem ipsu;0;1283
+340;SIN CAUSAS PARA RETA;1998-01-01;;Turkey rump landjaeg;0;2195
+341;DESPIDO             ;1999-01-01;;Ham hock beef bacon,;0;1298
+342;SIGUE POR BUEN TIPO ;1997-01-01;;Jerky beef strip ste;0;1102
+343;DESPIDO             ;1996-01-01;;Spicy jalapeno bacon;0;2470
+344;A JUICIO            ;1996-01-01;;Jerky beef strip ste;0;1614
+345;SIN CAUSAS PARA RETA;1999-01-01;;Does your lorem ipsu;0;2978
+346;DESPIDO             ;1998-01-01;;Jerky beef strip ste;0;3361
+347;SIGUE POR BUEN TIPO ;1999-01-01;;Turkey rump landjaeg;0;841
+348;SIN CAUSAS PARA RETA;1997-01-01;;Does your lorem ipsu;0;2279
+349;SIN CAUSAS PARA RETA;1998-01-01;;Spicy jalapeno bacon;0;3138
+350;DESPIDO             ;1997-01-01;;Ham hock beef bacon,;0;856
+351;DESPIDO             ;1996-01-01;;Ham hock beef bacon,;0;1040
+352;jajaja ya fue       ;1998-01-01;;Jerky beef strip ste;0;756
+353;DESPIDO             ;1997-01-01;;Turkey rump landjaeg;0;388
+354;SIN CAUSAS PARA RETA;1999-01-01;;Jerky beef strip ste;0;345
+355;jajaja ya fue       ;1999-01-01;;Ham hock beef bacon,;0;3043
+356;DESPIDO             ;1996-01-01;;Jerky beef strip ste;0;2436
+357;SIGUE POR BUEN TIPO ;1997-01-01;;Spicy jalapeno bacon;0;867
+358;A JUICIO            ;1998-01-01;;Jerky beef strip ste;0;653
+359;SIN CAUSAS PARA RETA;1999-01-01;;Ham hock beef bacon,;0;2397
+360;A JUICIO            ;1999-01-01;;Ham hock beef bacon,;0;2571
+361;DESPIDO             ;1998-01-01;;Does your lorem ipsu;0;1598
+362;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;2542
+363;jajaja ya fue       ;1999-01-01;;Spicy jalapeno bacon;0;1914
+364;jajaja ya fue       ;1996-01-01;;Does your lorem ipsu;0;2239
+365;SIN CAUSAS PARA RETA;1999-01-01;;Turkey rump landjaeg;0;500
+366;A JUICIO            ;1999-01-01;;Jerky beef strip ste;0;118
+367;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;3820
+368;DESPIDO             ;1999-01-01;;Does your lorem ipsu;0;3131
+369;jajaja ya fue       ;1996-01-01;;Spicy jalapeno bacon;0;2487
+370;A JUICIO            ;1997-01-01;;Ham hock beef bacon,;0;2950
+371;DESPIDO             ;1998-01-01;;Ham hock beef bacon,;0;3173
+372;A JUICIO            ;1998-01-01;;Spicy jalapeno bacon;0;739
+373;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;3695
+374;SIN CAUSAS PARA RETA;1996-01-01;;Spicy jalapeno bacon;0;2036
+375;DESPIDO             ;1996-01-01;;Does your lorem ipsu;0;2857
+376;A JUICIO            ;1998-01-01;;Does your lorem ipsu;0;2845
+377;SIN CAUSAS PARA RETA;1999-01-01;;Turkey rump landjaeg;0;1710
+378;A JUICIO            ;1997-01-01;;Jerky beef strip ste;0;2034
+379;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;2413
+380;jajaja ya fue       ;1998-01-01;;Jerky beef strip ste;0;399
+381;DESPIDO             ;1996-01-01;;Spicy jalapeno bacon;0;1614
+382;A JUICIO            ;1998-01-01;;Does your lorem ipsu;0;986
+383;jajaja ya fue       ;1999-01-01;;Ham hock beef bacon,;0;1597
+384;jajaja ya fue       ;1998-01-01;;Does your lorem ipsu;0;3101
+385;SIGUE POR BUEN TIPO ;1999-01-01;;Does your lorem ipsu;0;1836
+386;A JUICIO            ;1996-01-01;;Ham hock beef bacon,;0;1632
+387;jajaja ya fue       ;1997-01-01;;Does your lorem ipsu;0;1470
+388;DESPIDO             ;1999-01-01;;Does your lorem ipsu;0;2926
+389;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;743
+390;jajaja ya fue       ;1999-01-01;;Ham hock beef bacon,;0;931
+391;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;3303
+392;SIN CAUSAS PARA RETA;1998-01-01;;Does your lorem ipsu;0;3620
+393;SIN CAUSAS PARA RETA;1996-01-01;;Ham hock beef bacon,;0;1637
+394;DESPIDO             ;1998-01-01;;Ham hock beef bacon,;0;1590
+395;DESPIDO             ;1998-01-01;;Spicy jalapeno bacon;0;3122
+396;A JUICIO            ;1998-01-01;;Jerky beef strip ste;0;700
+397;jajaja ya fue       ;1997-01-01;;Jerky beef strip ste;0;1084
+398;jajaja ya fue       ;1998-01-01;;Spicy jalapeno bacon;0;375
+399;SIGUE POR BUEN TIPO ;1997-01-01;;Spicy jalapeno bacon;0;1695
+400;DESPIDO             ;1997-01-01;;Spicy jalapeno bacon;0;3374
+401;SIGUE POR BUEN TIPO ;1996-01-01;;Jerky beef strip ste;0;3891
+402;A JUICIO            ;1997-01-01;;Spicy jalapeno bacon;0;1926
+403;DESPIDO             ;1998-01-01;;Spicy jalapeno bacon;0;1953
+404;jajaja ya fue       ;1998-01-01;;Does your lorem ipsu;0;3357
+405;jajaja ya fue       ;1998-01-01;;Jerky beef strip ste;0;3493
+406;A JUICIO            ;1996-01-01;;Ham hock beef bacon,;0;2799
+407;A JUICIO            ;1999-01-01;;Turkey rump landjaeg;0;3115
+408;SIGUE POR BUEN TIPO ;1999-01-01;;Ham hock beef bacon,;0;3861
+409;jajaja ya fue       ;1996-01-01;;Turkey rump landjaeg;0;1376
+410;jajaja ya fue       ;1997-01-01;;Does your lorem ipsu;0;3510
+411;A JUICIO            ;1997-01-01;;Jerky beef strip ste;0;1300
+412;A JUICIO            ;1996-01-01;;Ham hock beef bacon,;0;272
+413;SIGUE POR BUEN TIPO ;1997-01-01;;Ham hock beef bacon,;0;3686
+414;A JUICIO            ;1998-01-01;;Does your lorem ipsu;0;2603
+415;jajaja ya fue       ;1999-01-01;;Ham hock beef bacon,;0;1207
+416;SIGUE POR BUEN TIPO ;1997-01-01;;Ham hock beef bacon,;0;1216
+417;DESPIDO             ;1999-01-01;;Jerky beef strip ste;0;1168
+418;SIGUE POR BUEN TIPO ;1996-01-01;;Does your lorem ipsu;0;313
+419;DESPIDO             ;1999-01-01;;Jerky beef strip ste;0;1779
+420;DESPIDO             ;1998-01-01;;Ham hock beef bacon,;0;2349
+421;SIGUE POR BUEN TIPO ;1996-01-01;;Ham hock beef bacon,;0;929
+422;A JUICIO            ;1996-01-01;;Ham hock beef bacon,;0;3007
+423;DESPIDO             ;1996-01-01;;Ham hock beef bacon,;0;1961
+424;SIGUE POR BUEN TIPO ;1997-01-01;;Turkey rump landjaeg;0;2682
+425;jajaja ya fue       ;1996-01-01;;Ham hock beef bacon,;0;134
+426;A JUICIO            ;1998-01-01;;Turkey rump landjaeg;0;2451
+427;SIGUE POR BUEN TIPO ;1997-01-01;;Turkey rump landjaeg;0;1670
+428;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;1728
+429;SIN CAUSAS PARA RETA;1996-01-01;;Spicy jalapeno bacon;0;2741
+430;jajaja ya fue       ;1997-01-01;;Ham hock beef bacon,;0;1808
+431;SIGUE POR BUEN TIPO ;1997-01-01;;Turkey rump landjaeg;0;2596
+432;SIN CAUSAS PARA RETA;1999-01-01;;Jerky beef strip ste;0;2421
+433;DESPIDO             ;1997-01-01;;Spicy jalapeno bacon;0;1612
+434;DESPIDO             ;1999-01-01;;Turkey rump landjaeg;0;2695
+435;A JUICIO            ;1999-01-01;;Ham hock beef bacon,;0;2853
+436;DESPIDO             ;1996-01-01;;Turkey rump landjaeg;0;29
+437;SIN CAUSAS PARA RETA;1998-01-01;;Does your lorem ipsu;0;648
+438;A JUICIO            ;1998-01-01;;Ham hock beef bacon,;0;186
+439;SIN CAUSAS PARA RETA;1996-01-01;;Jerky beef strip ste;0;377
+440;SIGUE POR BUEN TIPO ;1996-01-01;;Does your lorem ipsu;0;763
+441;SIGUE POR BUEN TIPO ;1996-01-01;;Ham hock beef bacon,;0;2519
+442;SIGUE POR BUEN TIPO ;1996-01-01;;Does your lorem ipsu;0;442
+443;A JUICIO            ;1997-01-01;;Ham hock beef bacon,;0;1089
+444;SIGUE POR BUEN TIPO ;1999-01-01;;Jerky beef strip ste;0;1098
+445;jajaja ya fue       ;1996-01-01;;Jerky beef strip ste;0;1996
+446;SIN CAUSAS PARA RETA;1996-01-01;;Turkey rump landjaeg;0;2343
+447;DESPIDO             ;1999-01-01;;Does your lorem ipsu;0;755
+448;DESPIDO             ;1999-01-01;;Jerky beef strip ste;0;217
+449;DESPIDO             ;1997-01-01;;Does your lorem ipsu;0;1697
+450;SIGUE POR BUEN TIPO ;1996-01-01;;Jerky beef strip ste;0;3018
+451;jajaja ya fue       ;1996-01-01;;Jerky beef strip ste;0;1833
+452;jajaja ya fue       ;1998-01-01;;Jerky beef strip ste;0;2437
+453;SIN CAUSAS PARA RETA;1997-01-01;;Does your lorem ipsu;0;1082
+454;jajaja ya fue       ;1999-01-01;;Spicy jalapeno bacon;0;2539
+455;jajaja ya fue       ;1998-01-01;;Spicy jalapeno bacon;0;2947
+456;A JUICIO            ;1999-01-01;;Jerky beef strip ste;0;223
+457;SIGUE POR BUEN TIPO ;1999-01-01;;Spicy jalapeno bacon;0;1112
+458;SIN CAUSAS PARA RETA;1998-01-01;;Ham hock beef bacon,;0;1618
+459;SIN CAUSAS PARA RETA;1998-01-01;;Ham hock beef bacon,;0;175
+460;A JUICIO            ;1999-01-01;;Does your lorem ipsu;0;2067
+461;jajaja ya fue       ;1996-01-01;;Spicy jalapeno bacon;0;3393
+462;SIN CAUSAS PARA RETA;1999-01-01;;Jerky beef strip ste;0;1949
+463;SIN CAUSAS PARA RETA;1998-01-01;;Does your lorem ipsu;0;2402
+464;DESPIDO             ;1997-01-01;;Jerky beef strip ste;0;178
+465;A JUICIO            ;1998-01-01;;Ham hock beef bacon,;0;1024
+466;DESPIDO             ;1999-01-01;;Jerky beef strip ste;0;19
+467;A JUICIO            ;1999-01-01;;Turkey rump landjaeg;0;3561
+468;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;3705
+469;SIGUE POR BUEN TIPO ;1999-01-01;;Jerky beef strip ste;0;2975
+470;SIGUE POR BUEN TIPO ;1999-01-01;;Turkey rump landjaeg;0;2538
+471;jajaja ya fue       ;1996-01-01;;Jerky beef strip ste;0;2266
+472;jajaja ya fue       ;1999-01-01;;Turkey rump landjaeg;0;386
+473;SIGUE POR BUEN TIPO ;1998-01-01;;Turkey rump landjaeg;0;943
+474;SIGUE POR BUEN TIPO ;1998-01-01;;Jerky beef strip ste;0;223
+475;SIGUE POR BUEN TIPO ;1999-01-01;;Ham hock beef bacon,;0;2950
+476;SIN CAUSAS PARA RETA;1997-01-01;;Turkey rump landjaeg;0;3539
+477;SIGUE POR BUEN TIPO ;1997-01-01;;Jerky beef strip ste;0;14
+478;A JUICIO            ;1996-01-01;;Spicy jalapeno bacon;0;374
+479;jajaja ya fue       ;1998-01-01;;Spicy jalapeno bacon;0;1472
+480;DESPIDO             ;1996-01-01;;Ham hock beef bacon,;0;999
+481;SIGUE POR BUEN TIPO ;1999-01-01;;Ham hock beef bacon,;0;3567
+482;A JUICIO            ;1996-01-01;;Jerky beef strip ste;0;1302
+483;A JUICIO            ;1999-01-01;;Turkey rump landjaeg;0;2516
+484;SIN CAUSAS PARA RETA;1998-01-01;;Spicy jalapeno bacon;0;554
+485;A JUICIO            ;1996-01-01;;Does your lorem ipsu;0;3826
+486;DESPIDO             ;1997-01-01;;Ham hock beef bacon,;0;2863
+487;jajaja ya fue       ;1998-01-01;;Turkey rump landjaeg;0;2950
+488;A JUICIO            ;1997-01-01;;Ham hock beef bacon,;0;1557
+489;A JUICIO            ;1996-01-01;;Jerky beef strip ste;0;3591
+490;jajaja ya fue       ;1997-01-01;;Spicy jalapeno bacon;0;747
+491;jajaja ya fue       ;1998-01-01;;Ham hock beef bacon,;0;3378
+492;A JUICIO            ;1997-01-01;;Turkey rump landjaeg;0;1297
+493;SIN CAUSAS PARA RETA;1998-01-01;;Turkey rump landjaeg;0;711
+494;SIN CAUSAS PARA RETA;1998-01-01;;Spicy jalapeno bacon;0;1148
+495;jajaja ya fue       ;1997-01-01;;Turkey rump landjaeg;0;783
+496;jajaja ya fue       ;1997-01-01;;Does your lorem ipsu;0;3249
+497;A JUICIO            ;1999-01-01;;Jerky beef strip ste;0;2885
+498;SIN CAUSAS PARA RETA;1998-01-01;;Ham hock beef bacon,;0;1726
+499;SIGUE POR BUEN TIPO ;1997-01-01;;Turkey rump landjaeg;0;2346

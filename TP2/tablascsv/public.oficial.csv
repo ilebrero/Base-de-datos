@@ -1,0 +1,1002 @@
+nroplaca;rango;nombre;apellido;fechaingreso;iddpto
+0;JEFE                ;Addia          ;JENNINGS            ;1987-01-01;5
+1;JUVENIL             ;Andreana       ;PERRY               ;1982-01-01;2
+2;JUVENIL             ;Alexi          ;LOVE                ;1988-01-01;8
+3;NOVATO              ;Alix           ;MASON               ;1986-01-01;1
+4;NOVATO              ;Andreana       ;GRAVES              ;1987-01-01;7
+5;KING OF THE ANDALS  ;Aline          ;ROSS                ;1988-01-01;7
+6;JEFE                ;Angele         ;ROMERO              ;1985-01-01;7
+7;NOVATO              ;Alaine         ;RUSSELL             ;1989-01-01;2
+8;MOTHER OF DRAGONS   ;Almeria        ;WEBER               ;1984-01-01;4
+9;JUVENIL             ;Alfie          ;WATSON              ;1981-01-01;5
+10;KING OF THE ANDALS  ;Alyce          ;BRADLEY             ;1986-01-01;6
+11;KING OF THE ANDALS  ;Allina         ;RUSSELL             ;1981-01-01;3
+12;PULENTA             ;Albertina      ;ORTIZ               ;1989-01-01;5
+13;KING OF THE ANDALS  ;Aaren          ;ELLIOTT             ;1984-01-01;8
+14;MOTHER OF DRAGONS   ;Analise        ;ROBERTSON           ;1980-01-01;3
+15;MOTHER OF DRAGONS   ;Anissa         ;LITTLE              ;1987-01-01;7
+16;KING OF THE ANDALS  ;Annabel        ;SILVA               ;1984-01-01;1
+17;JUVENIL             ;Adrian         ;LEE                 ;1982-01-01;3
+18;NOVATO              ;Aloysia        ;PETERSON            ;1981-01-01;0
+19;NOVATO              ;Allie          ;BOYD                ;1983-01-01;7
+20;JUVENIL             ;Adi            ;BAILEY              ;1983-01-01;3
+21;KING OF THE ANDALS  ;Alta           ;GEORGE              ;1983-01-01;4
+22;KING OF THE ANDALS  ;Andee          ;HUDSON              ;1982-01-01;2
+23;JUVENIL             ;Angil          ;PRICE               ;1983-01-01;0
+24;MOTHER OF DRAGONS   ;Anett          ;HUDSON              ;1988-01-01;7
+25;CADETE              ;Adriaens       ;CAMPBELL            ;1989-01-01;6
+26;CADETE              ;Anjela         ;CRAIG               ;1980-01-01;4
+27;KING OF THE ANDALS  ;Anna-Maria     ;KENNEDY             ;1981-01-01;2
+28;MOTHER OF DRAGONS   ;Andriana       ;HOWARD              ;1982-01-01;8
+29;MOTHER OF DRAGONS   ;Alice          ;BALDWIN             ;1982-01-01;7
+30;JUVENIL             ;Alvira         ;SILVA               ;1987-01-01;3
+31;JEFE                ;Aggi           ;LEE                 ;1988-01-01;8
+32;NOVATO              ;Alice          ;HOLT                ;1984-01-01;6
+33;MOTHER OF DRAGONS   ;Angelle        ;WOLFE               ;1986-01-01;6
+34;CADETE              ;Adrianna       ;GILBERT             ;1983-01-01;4
+35;MOTHER OF DRAGONS   ;Alikee         ;EVANS               ;1984-01-01;4
+36;CADETE              ;Addie          ;LARSON              ;1982-01-01;6
+37;PULENTA             ;Adel           ;ANDREWS             ;1980-01-01;1
+38;CADETE              ;Adara          ;SANDERS             ;1982-01-01;5
+39;NOVATO              ;Alejandra      ;MEDINA              ;1984-01-01;8
+40;NOVATO              ;Adrian         ;STEVENS             ;1986-01-01;3
+41;NOVATO              ;Alica          ;ROGERS              ;1988-01-01;8
+42;JEFE                ;Aarika         ;HUNTER              ;1987-01-01;1
+43;CADETE              ;Anastasie      ;SMITH               ;1984-01-01;5
+44;PULENTA             ;Angela         ;STEPHENS            ;1980-01-01;0
+45;CADETE              ;Adrian         ;HOWARD              ;1980-01-01;5
+46;NOVATO              ;Alex           ;STANLEY             ;1984-01-01;3
+47;KING OF THE ANDALS  ;Alberta        ;WELLS               ;1988-01-01;5
+48;MOTHER OF DRAGONS   ;Amitie         ;WAGNER              ;1986-01-01;3
+49;CADETE              ;Adaline        ;WALSH               ;1983-01-01;6
+50;JUVENIL             ;Anderea        ;DAY                 ;1980-01-01;6
+51;JUVENIL             ;Aggie          ;MASON               ;1986-01-01;8
+52;KING OF THE ANDALS  ;Abra           ;ALLEN               ;1983-01-01;6
+53;PULENTA             ;Alane          ;MASON               ;1980-01-01;5
+54;JEFE                ;Alli           ;LAWRENCE            ;1987-01-01;5
+55;CADETE              ;Amity          ;HALL                ;1985-01-01;6
+56;NOVATO              ;Alameda        ;CASTRO              ;1986-01-01;5
+57;CADETE              ;Alecia         ;KENNEDY             ;1985-01-01;0
+58;CADETE              ;Adelice        ;MILES               ;1989-01-01;7
+59;JEFE                ;Almira         ;JIMENEZ             ;1980-01-01;6
+60;PULENTA             ;Aileen         ;RODRIQUEZ           ;1988-01-01;2
+61;JEFE                ;Alica          ;HUNT                ;1988-01-01;0
+62;PULENTA             ;Alexina        ;MCDONALD            ;1989-01-01;8
+63;MOTHER OF DRAGONS   ;Adria          ;SCHNEIDER           ;1983-01-01;2
+64;JUVENIL             ;Aidan          ;ALEXANDER           ;1988-01-01;4
+65;NOVATO              ;Anjanette      ;COLEMAN             ;1988-01-01;2
+66;KING OF THE ANDALS  ;Amargo         ;HART                ;1981-01-01;8
+67;NOVATO              ;Addie          ;HOWELL              ;1984-01-01;8
+68;KING OF THE ANDALS  ;Allene         ;WALTERS             ;1980-01-01;4
+69;NOVATO              ;Alice          ;WAGNER              ;1985-01-01;5
+70;JEFE                ;Amy            ;PHILLIPS            ;1989-01-01;0
+71;KING OF THE ANDALS  ;Ameline        ;JOHNSTON            ;1987-01-01;1
+72;PULENTA             ;Andrei         ;HOLLAND             ;1983-01-01;1
+73;CADETE              ;Alana          ;PENA                ;1981-01-01;5
+74;MOTHER OF DRAGONS   ;Alfreda        ;WARD                ;1987-01-01;2
+75;JEFE                ;Andra          ;LEWIS               ;1983-01-01;0
+76;JEFE                ;Alikee         ;SANDERS             ;1985-01-01;6
+77;MOTHER OF DRAGONS   ;Amberly        ;ROGERS              ;1988-01-01;2
+78;NOVATO              ;Abra           ;MUNOZ               ;1989-01-01;0
+79;JEFE                ;Amalea         ;MEDINA              ;1981-01-01;8
+80;PULENTA             ;Aigneis        ;FERGUSON            ;1989-01-01;8
+81;JUVENIL             ;Allsun         ;PALMER              ;1987-01-01;0
+82;CADETE              ;Alvera         ;WILSON              ;1987-01-01;7
+83;MOTHER OF DRAGONS   ;Anastasie      ;CRUZ                ;1983-01-01;3
+84;CADETE              ;Allina         ;WATSON              ;1987-01-01;6
+85;NOVATO              ;Alfreda        ;SILVA               ;1981-01-01;8
+86;MOTHER OF DRAGONS   ;Ann-Marie      ;KELLER              ;1980-01-01;5
+87;CADETE              ;Annabel        ;BOWMAN              ;1983-01-01;7
+88;CADETE              ;Angelika       ;OLIVER              ;1985-01-01;2
+89;CADETE              ;Abbie          ;BOWEN               ;1985-01-01;3
+90;PULENTA             ;Ange           ;WALLACE             ;1980-01-01;2
+91;JEFE                ;Amie           ;BARBER              ;1984-01-01;0
+92;CADETE              ;Ann            ;COX                 ;1984-01-01;7
+93;CADETE              ;Allie          ;KIM                 ;1985-01-01;4
+94;MOTHER OF DRAGONS   ;Alvira         ;COOK                ;1987-01-01;1
+95;PULENTA             ;Ally           ;FLORES              ;1984-01-01;5
+96;KING OF THE ANDALS  ;Almira         ;CHANDLER            ;1980-01-01;7
+97;JEFE                ;Althea         ;RIVERA              ;1989-01-01;0
+98;MOTHER OF DRAGONS   ;Angeline       ;BAILEY              ;1984-01-01;3
+99;PULENTA             ;Allison        ;ROBERTS             ;1988-01-01;4
+100;JUVENIL             ;Alli           ;PIERCE              ;1987-01-01;3
+101;JUVENIL             ;Aleda          ;DUNN                ;1985-01-01;0
+102;JUVENIL             ;Allys          ;THOMPSON            ;1982-01-01;2
+103;MOTHER OF DRAGONS   ;Anabal         ;NEWMAN              ;1985-01-01;8
+104;PULENTA             ;Aili           ;MYERS               ;1986-01-01;0
+105;JEFE                ;Anna           ;HOFFMAN             ;1981-01-01;7
+106;JUVENIL             ;Ada            ;GUTIERREZ           ;1986-01-01;2
+107;JUVENIL             ;Alia           ;ROBERTS             ;1986-01-01;7
+108;MOTHER OF DRAGONS   ;Alissa         ;DUNN                ;1981-01-01;6
+109;CADETE              ;Alyssa         ;FOSTER              ;1981-01-01;0
+110;CADETE              ;Allissa        ;JENKINS             ;1986-01-01;1
+111;PULENTA             ;Aeriela        ;HAYES               ;1988-01-01;0
+112;JEFE                ;Aloisia        ;MOORE               ;1984-01-01;8
+113;JEFE                ;Amata          ;BARRETT             ;1984-01-01;3
+114;JUVENIL             ;Aida           ;RICE                ;1987-01-01;2
+115;PULENTA             ;Adrian         ;LONG                ;1981-01-01;4
+116;JEFE                ;Annabell       ;BURTON              ;1984-01-01;7
+117;NOVATO              ;Anabelle       ;JENKINS             ;1985-01-01;8
+118;PULENTA             ;Adella         ;JAMES               ;1988-01-01;6
+119;KING OF THE ANDALS  ;Anica          ;GORDON              ;1983-01-01;1
+120;CADETE              ;Allix          ;SANCHEZ             ;1982-01-01;4
+121;PULENTA             ;Andriana       ;BARNES              ;1982-01-01;7
+122;MOTHER OF DRAGONS   ;Ania           ;TORRES              ;1984-01-01;0
+123;KING OF THE ANDALS  ;Alta           ;FLORES              ;1983-01-01;2
+124;NOVATO              ;Alex           ;JACKSON             ;1981-01-01;6
+125;MOTHER OF DRAGONS   ;Adiana         ;CAMPBELL            ;1981-01-01;4
+126;PULENTA             ;Angela         ;RAMSEY              ;1985-01-01;4
+127;MOTHER OF DRAGONS   ;Amalle         ;BISHOP              ;1986-01-01;0
+128;CADETE              ;Alysa          ;RAMOS               ;1985-01-01;2
+129;MOTHER OF DRAGONS   ;Anette         ;VARGAS              ;1985-01-01;6
+130;KING OF THE ANDALS  ;Anastasia      ;MCCOY               ;1988-01-01;5
+131;CADETE              ;Allison        ;MILES               ;1986-01-01;6
+132;NOVATO              ;Almeria        ;HORTON              ;1986-01-01;8
+133;JUVENIL             ;Aila           ;PALMER              ;1981-01-01;2
+134;CADETE              ;Aloisia        ;SCHMIDT             ;1984-01-01;8
+135;PULENTA             ;Alissa         ;GONZALEZ            ;1981-01-01;8
+136;CADETE              ;Alla           ;RHODES              ;1985-01-01;7
+137;JUVENIL             ;Alix           ;BALDWIN             ;1987-01-01;4
+138;CADETE              ;Alica          ;RICHARDS            ;1985-01-01;1
+139;JEFE                ;Anallese       ;HUDSON              ;1987-01-01;5
+140;JUVENIL             ;Anabel         ;SIMPSON             ;1987-01-01;2
+141;JEFE                ;Andriana       ;FERGUSON            ;1984-01-01;6
+142;JUVENIL             ;Ada            ;PAYNE               ;1982-01-01;5
+143;JUVENIL             ;Adelle         ;KELLY               ;1989-01-01;1
+144;NOVATO              ;Aaren          ;WALTERS             ;1989-01-01;6
+145;CADETE              ;Angele         ;CRUZ                ;1981-01-01;2
+146;JUVENIL             ;Amabel         ;LAMBERT             ;1985-01-01;5
+147;CADETE              ;Ann            ;DAVIS               ;1980-01-01;8
+148;JEFE                ;Amalie         ;GRAY                ;1984-01-01;6
+149;JEFE                ;Aaren          ;KING                ;1984-01-01;5
+150;PULENTA             ;Angie          ;WOOD                ;1983-01-01;6
+151;JUVENIL             ;Aila           ;HARPER              ;1984-01-01;0
+152;KING OF THE ANDALS  ;Agna           ;MEYER               ;1987-01-01;4
+153;PULENTA             ;Andree         ;PERKINS             ;1983-01-01;5
+154;JUVENIL             ;Aili           ;RODRIQUEZ           ;1983-01-01;7
+155;JUVENIL             ;Adaline        ;REID                ;1982-01-01;8
+156;CADETE              ;Albertina      ;MCDONALD            ;1983-01-01;3
+157;JUVENIL             ;Addi           ;HANSEN              ;1983-01-01;7
+158;CADETE              ;Amalita        ;HERRERA             ;1982-01-01;8
+159;JEFE                ;Alene          ;MCCOY               ;1988-01-01;5
+160;MOTHER OF DRAGONS   ;Adiana         ;HANSON              ;1985-01-01;5
+161;NOVATO              ;Ailina         ;MARTIN              ;1983-01-01;5
+162;JEFE                ;Alexine        ;ARMSTRONG           ;1989-01-01;4
+163;PULENTA             ;Addia          ;LOWE                ;1983-01-01;2
+164;MOTHER OF DRAGONS   ;Angelle        ;MENDEZ              ;1988-01-01;6
+165;MOTHER OF DRAGONS   ;Anjanette      ;TORRES              ;1981-01-01;1
+166;JEFE                ;Aarika         ;EVANS               ;1987-01-01;5
+167;MOTHER OF DRAGONS   ;Abby           ;WOODS               ;1981-01-01;5
+168;NOVATO              ;Adriena        ;CARR                ;1986-01-01;3
+169;PULENTA             ;Adara          ;NEAL                ;1985-01-01;3
+170;PULENTA             ;Andromache     ;BECK                ;1985-01-01;2
+171;NOVATO              ;Alika          ;STEELE              ;1983-01-01;8
+172;NOVATO              ;Adriane        ;SHAW                ;1985-01-01;1
+173;JUVENIL             ;Agnesse        ;WATKINS             ;1989-01-01;4
+174;JEFE                ;Adel           ;WALLACE             ;1985-01-01;8
+175;MOTHER OF DRAGONS   ;Ailsun         ;CARPENTER           ;1982-01-01;2
+176;KING OF THE ANDALS  ;Ailey          ;ROGERS              ;1984-01-01;4
+177;NOVATO              ;Annabelle      ;BARKER              ;1983-01-01;2
+178;NOVATO              ;Anabel         ;HARDY               ;1988-01-01;6
+179;JUVENIL             ;Adina          ;NEWMAN              ;1982-01-01;3
+180;KING OF THE ANDALS  ;Adelheid       ;BARNES              ;1981-01-01;6
+181;PULENTA             ;Ana            ;BARKER              ;1980-01-01;1
+182;KING OF THE ANDALS  ;Agnola         ;FERGUSON            ;1989-01-01;1
+183;CADETE              ;Amabelle       ;MILES               ;1989-01-01;4
+184;JUVENIL             ;Aidan          ;CUMMINGS            ;1988-01-01;5
+185;CADETE              ;Angelina       ;MARTIN              ;1982-01-01;5
+186;JEFE                ;Anett          ;CHAMBERS            ;1981-01-01;1
+187;JUVENIL             ;Angelita       ;MORENO              ;1983-01-01;4
+188;PULENTA             ;Allyce         ;MAY                 ;1984-01-01;4
+189;CADETE              ;Aindrea        ;DUNN                ;1988-01-01;7
+190;MOTHER OF DRAGONS   ;Anastasia      ;NEAL                ;1989-01-01;0
+191;NOVATO              ;Alidia         ;THOMAS              ;1981-01-01;5
+192;JUVENIL             ;Alyson         ;MORALES             ;1988-01-01;1
+193;KING OF THE ANDALS  ;Aidan          ;VARGAS              ;1989-01-01;4
+194;PULENTA             ;Alika          ;MORRISON            ;1985-01-01;2
+195;CADETE              ;Ambur          ;PALMER              ;1984-01-01;6
+196;JEFE                ;Abby           ;WALTERS             ;1987-01-01;3
+197;PULENTA             ;Adria          ;RAMSEY              ;1989-01-01;0
+198;CADETE              ;Allison        ;RODRIGUEZ           ;1986-01-01;1
+199;PULENTA             ;Angie          ;SILVA               ;1984-01-01;8
+200;NOVATO              ;Aloisia        ;BARNETT             ;1983-01-01;7
+201;CADETE              ;Almira         ;POWELL              ;1985-01-01;7
+202;CADETE              ;Anabelle       ;FLEMING             ;1984-01-01;7
+203;NOVATO              ;Alyson         ;TERRY               ;1981-01-01;6
+204;PULENTA             ;Abra           ;HENDERSON           ;1982-01-01;1
+205;MOTHER OF DRAGONS   ;Alleen         ;MCDANIEL            ;1988-01-01;3
+206;JUVENIL             ;Adrianne       ;LONG                ;1980-01-01;4
+207;MOTHER OF DRAGONS   ;Adena          ;LANE                ;1986-01-01;1
+208;KING OF THE ANDALS  ;Agnes          ;WOODS               ;1984-01-01;0
+209;JUVENIL             ;Abagael        ;PEREZ               ;1984-01-01;4
+210;JEFE                ;Anderea        ;WELLS               ;1982-01-01;4
+211;KING OF THE ANDALS  ;Amitie         ;WATKINS             ;1983-01-01;5
+212;PULENTA             ;Alvina         ;HERNANDEZ           ;1980-01-01;0
+213;CADETE              ;Andee          ;KENNEDY             ;1981-01-01;8
+214;NOVATO              ;Alfreda        ;LEWIS               ;1984-01-01;1
+215;JUVENIL             ;Ailee          ;NORRIS              ;1984-01-01;2
+216;MOTHER OF DRAGONS   ;Abbe           ;BLACK               ;1982-01-01;7
+217;MOTHER OF DRAGONS   ;Aline          ;SHAW                ;1983-01-01;8
+218;NOVATO              ;Alexa          ;MORENO              ;1987-01-01;0
+219;JUVENIL             ;Abigale        ;MULLINS             ;1985-01-01;3
+220;PULENTA             ;Alicea         ;VASQUEZ             ;1984-01-01;0
+221;KING OF THE ANDALS  ;Ainslee        ;RIVERA              ;1984-01-01;8
+222;JUVENIL             ;Anjela         ;CRAIG               ;1986-01-01;2
+223;CADETE              ;Agna           ;OLIVER              ;1985-01-01;2
+224;JUVENIL             ;Anabelle       ;GILBERT             ;1984-01-01;7
+225;MOTHER OF DRAGONS   ;Anetta         ;MOORE               ;1981-01-01;6
+226;PULENTA             ;Amalle         ;WOLFE               ;1981-01-01;5
+227;KING OF THE ANDALS  ;Abra           ;HAWKINS             ;1980-01-01;0
+228;MOTHER OF DRAGONS   ;Adda           ;CASTRO              ;1982-01-01;1
+229;JUVENIL             ;Adelice        ;ANDERSON            ;1988-01-01;6
+230;PULENTA             ;Allison        ;BURKE               ;1987-01-01;0
+231;CADETE              ;Anet           ;CURRY               ;1987-01-01;7
+232;PULENTA             ;Annabel        ;FOWLER              ;1987-01-01;7
+233;CADETE              ;Aloisia        ;WATTS               ;1982-01-01;5
+234;KING OF THE ANDALS  ;Aarika         ;PARKS               ;1984-01-01;3
+235;JUVENIL             ;Abbie          ;GRAHAM              ;1983-01-01;3
+236;CADETE              ;Alma           ;BRYANT              ;1987-01-01;6
+237;KING OF THE ANDALS  ;Adelice        ;LITTLE              ;1987-01-01;6
+238;CADETE              ;Alfreda        ;REID                ;1981-01-01;5
+239;CADETE              ;Amitie         ;GRAY                ;1981-01-01;6
+240;JEFE                ;Angela         ;SHARP               ;1988-01-01;0
+241;NOVATO              ;Alidia         ;LOPEZ               ;1989-01-01;7
+242;NOVATO              ;Alysia         ;BALL                ;1986-01-01;4
+243;CADETE              ;Amil           ;JAMES               ;1980-01-01;5
+244;JEFE                ;Adey           ;MENDEZ              ;1988-01-01;5
+245;KING OF THE ANDALS  ;Amalea         ;BELL                ;1985-01-01;1
+246;KING OF THE ANDALS  ;Angeline       ;FLEMING             ;1984-01-01;3
+247;KING OF THE ANDALS  ;Amil           ;REYES               ;1981-01-01;1
+248;PULENTA             ;Agata          ;RUSSELL             ;1989-01-01;5
+249;CADETE              ;Aime           ;PEARSON             ;1982-01-01;4
+250;NOVATO              ;Aigneis        ;MORGAN              ;1988-01-01;4
+251;NOVATO              ;Ailis          ;BELL                ;1981-01-01;6
+252;KING OF THE ANDALS  ;Alleen         ;MCDANIEL            ;1981-01-01;1
+253;NOVATO              ;Abra           ;MARTINEZ            ;1984-01-01;0
+254;CADETE              ;Ambur          ;CUNNINGHAM          ;1981-01-01;2
+255;NOVATO              ;Andria         ;MCDANIEL            ;1983-01-01;1
+256;JEFE                ;Alene          ;ELLIOTT             ;1985-01-01;5
+257;CADETE              ;Ann-Marie      ;BERRY               ;1982-01-01;4
+258;JUVENIL             ;Abbe           ;SIMMONS             ;1989-01-01;8
+259;CADETE              ;Alexa          ;COOPER              ;1989-01-01;8
+260;CADETE              ;Albina         ;BYRD                ;1983-01-01;3
+261;JUVENIL             ;Adriana        ;CHAPMAN             ;1988-01-01;4
+262;PULENTA             ;Anabella       ;MARSHALL            ;1984-01-01;1
+263;JUVENIL             ;Allianora      ;SANTIAGO            ;1981-01-01;3
+264;KING OF THE ANDALS  ;Aloisia        ;SULLIVAN            ;1986-01-01;7
+265;KING OF THE ANDALS  ;Alfie          ;RAMSEY              ;1987-01-01;6
+266;PULENTA             ;Andy           ;PAYNE               ;1986-01-01;4
+267;KING OF THE ANDALS  ;Adel           ;FISHER              ;1981-01-01;0
+268;PULENTA             ;Alyson         ;MILLS               ;1986-01-01;1
+269;NOVATO              ;Alissa         ;ROBINSON            ;1982-01-01;7
+270;JEFE                ;Aila           ;MULLINS             ;1983-01-01;4
+271;MOTHER OF DRAGONS   ;Annabela       ;WATTS               ;1984-01-01;7
+272;CADETE              ;Allyn          ;LAMBERT             ;1982-01-01;3
+273;PULENTA             ;Alvera         ;BUTLER              ;1989-01-01;4
+274;JUVENIL             ;Anabelle       ;WILLIAMS            ;1981-01-01;2
+275;NOVATO              ;Alfi           ;CUMMINGS            ;1982-01-01;2
+276;CADETE              ;Anitra         ;CHANDLER            ;1985-01-01;4
+277;NOVATO              ;Alexina        ;SCOTT               ;1989-01-01;4
+278;PULENTA             ;Anabella       ;SULLIVAN            ;1984-01-01;4
+279;MOTHER OF DRAGONS   ;Alvera         ;GORDON              ;1986-01-01;6
+280;MOTHER OF DRAGONS   ;Anestassia     ;RUIZ                ;1984-01-01;6
+281;MOTHER OF DRAGONS   ;Alane          ;CRUZ                ;1986-01-01;3
+282;PULENTA             ;Anallese       ;JORDAN              ;1987-01-01;8
+283;JUVENIL             ;Alfreda        ;RAMIREZ             ;1983-01-01;2
+284;KING OF THE ANDALS  ;Alexine        ;WELLS               ;1982-01-01;5
+285;JEFE                ;Alexi          ;SANTIAGO            ;1983-01-01;4
+286;KING OF THE ANDALS  ;Angelika       ;GARCIA              ;1982-01-01;4
+287;JUVENIL             ;Alexa          ;BARNES              ;1984-01-01;5
+288;JUVENIL             ;Ame            ;SHARP               ;1985-01-01;4
+289;JEFE                ;Allx           ;BROWN               ;1984-01-01;4
+290;JUVENIL             ;Alejandrina    ;FERNANDEZ           ;1986-01-01;5
+291;JEFE                ;Alejandrina    ;GRAY                ;1985-01-01;8
+292;PULENTA             ;Alissa         ;FERGUSON            ;1986-01-01;5
+293;CADETE              ;Amy            ;STEVENS             ;1989-01-01;4
+294;KING OF THE ANDALS  ;Althea         ;VASQUEZ             ;1987-01-01;5
+295;MOTHER OF DRAGONS   ;Alfie          ;ANDERSON            ;1983-01-01;6
+296;CADETE              ;Anatola        ;SPENCER             ;1987-01-01;5
+297;CADETE              ;Amara          ;BOYD                ;1983-01-01;5
+298;JEFE                ;Adriena        ;STONE               ;1981-01-01;4
+299;JUVENIL             ;Addy           ;WARD                ;1981-01-01;6
+300;CADETE              ;Ami            ;ADAMS               ;1985-01-01;4
+301;JUVENIL             ;Aileen         ;MITCHELL            ;1983-01-01;5
+302;KING OF THE ANDALS  ;Amalle         ;HOLMES              ;1988-01-01;6
+303;MOTHER OF DRAGONS   ;Andra          ;DEAN                ;1989-01-01;6
+304;PULENTA             ;Anabal         ;WASHINGTON          ;1985-01-01;3
+305;JEFE                ;Aeriel         ;KENNEDY             ;1982-01-01;5
+306;KING OF THE ANDALS  ;Adara          ;TERRY               ;1985-01-01;5
+307;MOTHER OF DRAGONS   ;Adelaida       ;TAYLOR              ;1982-01-01;7
+308;JEFE                ;Amelie         ;WRIGHT              ;1984-01-01;0
+309;JEFE                ;Ailey          ;OBRIEN              ;1987-01-01;3
+310;KING OF THE ANDALS  ;Alvera         ;TORRES              ;1987-01-01;3
+311;JUVENIL             ;Aggy           ;HOLT                ;1983-01-01;4
+312;JEFE                ;Amie           ;BOWMAN              ;1986-01-01;3
+313;MOTHER OF DRAGONS   ;Abigail        ;PATTERSON           ;1983-01-01;3
+314;JUVENIL             ;Anna-Diane     ;MILLS               ;1984-01-01;1
+315;PULENTA             ;Alisa          ;NICHOLS             ;1983-01-01;4
+316;JUVENIL             ;Anet           ;GARCIA              ;1985-01-01;1
+317;MOTHER OF DRAGONS   ;Aeriela        ;WARREN              ;1986-01-01;3
+318;JUVENIL             ;Anallese       ;BAKER               ;1980-01-01;7
+319;MOTHER OF DRAGONS   ;Alvira         ;HOPKINS             ;1987-01-01;6
+320;MOTHER OF DRAGONS   ;Allsun         ;WOLFE               ;1980-01-01;1
+321;NOVATO              ;Alexine        ;HAYNES              ;1984-01-01;1
+322;PULENTA             ;Albertine      ;RILEY               ;1983-01-01;1
+323;JEFE                ;Amalita        ;STEELE              ;1981-01-01;1
+324;CADETE              ;Angela         ;FORD                ;1987-01-01;7
+325;NOVATO              ;Aimee          ;GRAY                ;1985-01-01;3
+326;JEFE                ;Alysia         ;MILLER              ;1984-01-01;6
+327;CADETE              ;Aloise         ;THOMAS              ;1986-01-01;6
+328;PULENTA             ;Alice          ;MILLER              ;1985-01-01;4
+329;KING OF THE ANDALS  ;Alysa          ;KNIGHT              ;1980-01-01;1
+330;KING OF THE ANDALS  ;Anderea        ;MAY                 ;1981-01-01;7
+331;JUVENIL             ;Anestassia     ;CUNNINGHAM          ;1982-01-01;1
+332;CADETE              ;Addia          ;GONZALES            ;1985-01-01;4
+333;MOTHER OF DRAGONS   ;Aleece         ;POWERS              ;1987-01-01;4
+334;CADETE              ;Andree         ;LYNCH               ;1982-01-01;2
+335;MOTHER OF DRAGONS   ;Adelina        ;DAVIDSON            ;1986-01-01;4
+336;MOTHER OF DRAGONS   ;Almire         ;KNIGHT              ;1988-01-01;2
+337;NOVATO              ;Adore          ;HANSEN              ;1986-01-01;5
+338;JUVENIL             ;Anastassia     ;BISHOP              ;1986-01-01;2
+339;CADETE              ;Afton          ;JOHNSON             ;1982-01-01;6
+340;NOVATO              ;Anetta         ;RIVERA              ;1980-01-01;5
+341;CADETE              ;Amabel         ;RUSSELL             ;1987-01-01;0
+342;JEFE                ;Almeria        ;HARPER              ;1985-01-01;2
+343;JEFE                ;Aline          ;BYRD                ;1986-01-01;6
+344;JEFE                ;Agace          ;FOSTER              ;1988-01-01;7
+345;JUVENIL             ;Amye           ;PATTERSON           ;1989-01-01;4
+346;MOTHER OF DRAGONS   ;Adore          ;RODRIGUEZ           ;1983-01-01;1
+347;MOTHER OF DRAGONS   ;Angelia        ;ROBERTSON           ;1986-01-01;7
+348;PULENTA             ;Alysa          ;PRICE               ;1988-01-01;1
+349;PULENTA             ;Anita          ;COX                 ;1983-01-01;2
+350;MOTHER OF DRAGONS   ;Alida          ;COX                 ;1984-01-01;0
+351;MOTHER OF DRAGONS   ;Annabell       ;TORRES              ;1982-01-01;7
+352;JEFE                ;Ailee          ;BOWEN               ;1982-01-01;5
+353;JEFE                ;Amara          ;BANKS               ;1984-01-01;7
+354;PULENTA             ;Alejandrina    ;MATTHEWS            ;1987-01-01;4
+355;NOVATO              ;Amber          ;WOODS               ;1988-01-01;4
+356;PULENTA             ;Aggy           ;RYAN                ;1982-01-01;7
+357;KING OF THE ANDALS  ;Amil           ;BROWN               ;1988-01-01;7
+358;CADETE              ;Allianora      ;BERRY               ;1986-01-01;8
+359;JUVENIL             ;Angelique      ;KELLY               ;1984-01-01;5
+360;JUVENIL             ;Aliza          ;STEELE              ;1983-01-01;0
+361;PULENTA             ;Anissa         ;WATTS               ;1981-01-01;7
+362;JEFE                ;Alicea         ;GRAHAM              ;1984-01-01;5
+363;NOVATO              ;Alyssa         ;GARCIA              ;1981-01-01;6
+364;NOVATO              ;Amelita        ;BUTLER              ;1986-01-01;1
+365;JUVENIL             ;Ann            ;FLETCHER            ;1989-01-01;4
+366;MOTHER OF DRAGONS   ;Alison         ;JACKSON             ;1984-01-01;8
+367;JEFE                ;Adelice        ;PENA                ;1982-01-01;6
+368;JUVENIL             ;Aeriela        ;WELLS               ;1983-01-01;0
+369;CADETE              ;Amity          ;JENSEN              ;1985-01-01;4
+370;NOVATO              ;Aarika         ;MEDINA              ;1988-01-01;1
+371;MOTHER OF DRAGONS   ;Amberly        ;HARDY               ;1982-01-01;0
+372;MOTHER OF DRAGONS   ;Andromache     ;JACKSON             ;1986-01-01;2
+373;MOTHER OF DRAGONS   ;Almeda         ;SOTO                ;1986-01-01;5
+374;PULENTA             ;Aeriela        ;TORRES              ;1988-01-01;2
+375;NOVATO              ;Agnes          ;BARBER              ;1981-01-01;0
+376;JEFE                ;Alena          ;PAGE                ;1986-01-01;7
+377;JEFE                ;Allyson        ;WILLIAMSON          ;1988-01-01;2
+378;CADETE              ;Abigael        ;PIERCE              ;1986-01-01;0
+379;KING OF THE ANDALS  ;Anica          ;HARDY               ;1983-01-01;3
+380;JUVENIL             ;Abbie          ;HANSON              ;1985-01-01;3
+381;JUVENIL             ;Aleta          ;LAWSON              ;1986-01-01;2
+382;JUVENIL             ;Ailis          ;HOLMES              ;1986-01-01;6
+383;MOTHER OF DRAGONS   ;Annadiana      ;NORRIS              ;1989-01-01;2
+384;MOTHER OF DRAGONS   ;Alyssa         ;HUNT                ;1986-01-01;2
+385;PULENTA             ;Agnes          ;WAGNER              ;1980-01-01;5
+386;CADETE              ;Adoree         ;REED                ;1984-01-01;5
+387;JEFE                ;Alida          ;PARKS               ;1981-01-01;2
+388;KING OF THE ANDALS  ;Adriena        ;GARZA               ;1986-01-01;7
+389;JUVENIL             ;Alix           ;RAMOS               ;1989-01-01;2
+390;PULENTA             ;Aidan          ;SCHULTZ             ;1980-01-01;2
+391;MOTHER OF DRAGONS   ;Aggy           ;FERGUSON            ;1988-01-01;2
+392;JUVENIL             ;Adaline        ;BURNS               ;1983-01-01;3
+393;NOVATO              ;Alanna         ;GRANT               ;1985-01-01;3
+394;KING OF THE ANDALS  ;Alexia         ;FREEMAN             ;1986-01-01;5
+395;JEFE                ;Amargo         ;WILLIAMS            ;1985-01-01;4
+396;PULENTA             ;Anderea        ;LAMBERT             ;1981-01-01;5
+397;JEFE                ;Ada            ;VASQUEZ             ;1984-01-01;8
+398;MOTHER OF DRAGONS   ;Ali            ;JONES               ;1983-01-01;4
+399;CADETE              ;Alicia         ;WASHINGTON          ;1980-01-01;1
+400;KING OF THE ANDALS  ;Addia          ;FULLER              ;1989-01-01;4
+401;CADETE              ;Abbey          ;SUTTON              ;1980-01-01;2
+402;JEFE                ;Agna           ;CUMMINGS            ;1984-01-01;5
+403;JEFE                ;Alane          ;WEBER               ;1988-01-01;0
+404;MOTHER OF DRAGONS   ;Aliza          ;BATES               ;1984-01-01;0
+405;NOVATO              ;Alicea         ;SIMPSON             ;1980-01-01;4
+406;CADETE              ;Anatola        ;PARKS               ;1980-01-01;5
+407;PULENTA             ;Addie          ;MONTGOMERY          ;1989-01-01;0
+408;NOVATO              ;Andria         ;TORRES              ;1987-01-01;8
+409;JUVENIL             ;Alayne         ;JENKINS             ;1982-01-01;2
+410;CADETE              ;Alidia         ;WEST                ;1982-01-01;8
+411;JEFE                ;Ally           ;KIM                 ;1984-01-01;7
+412;JUVENIL             ;Allix          ;DANIEL              ;1981-01-01;6
+413;JUVENIL             ;Angelle        ;HAYES               ;1986-01-01;7
+414;JUVENIL             ;Alvera         ;RICHARDS            ;1986-01-01;1
+415;NOVATO              ;Anissa         ;GRIFFITH            ;1987-01-01;5
+416;NOVATO              ;Alie           ;HUDSON              ;1985-01-01;0
+417;PULENTA             ;Alexandra      ;GRANT               ;1983-01-01;6
+418;CADETE              ;Agnola         ;CARPENTER           ;1984-01-01;0
+419;CADETE              ;Aili           ;GARZA               ;1986-01-01;8
+420;JEFE                ;Alla           ;PEREZ               ;1984-01-01;5
+421;CADETE              ;Alysa          ;GRAY                ;1985-01-01;4
+422;NOVATO              ;Allix          ;WASHINGTON          ;1981-01-01;2
+423;KING OF THE ANDALS  ;Amanda         ;BRADLEY             ;1989-01-01;7
+424;CADETE              ;Amabel         ;BURTON              ;1989-01-01;2
+425;MOTHER OF DRAGONS   ;Allissa        ;GRIFFITH            ;1983-01-01;8
+426;JUVENIL             ;Angy           ;DANIELS             ;1980-01-01;6
+427;JEFE                ;Amandie        ;STEELE              ;1982-01-01;2
+428;NOVATO              ;Ailee          ;WATKINS             ;1983-01-01;0
+429;CADETE              ;Almire         ;HARDY               ;1984-01-01;1
+430;NOVATO              ;Aile           ;GRAVES              ;1981-01-01;0
+431;CADETE              ;Aliza          ;ROMERO              ;1983-01-01;8
+432;CADETE              ;Allegra        ;STEWART             ;1988-01-01;2
+433;KING OF THE ANDALS  ;Adelina        ;DANIELS             ;1980-01-01;2
+434;KING OF THE ANDALS  ;Aarika         ;BUTLER              ;1984-01-01;6
+435;KING OF THE ANDALS  ;Andromache     ;WALKER              ;1983-01-01;6
+436;PULENTA             ;Amandy         ;DANIEL              ;1988-01-01;6
+437;CADETE              ;Addi           ;GRIFFIN             ;1980-01-01;6
+438;PULENTA             ;Alicia         ;RIVERA              ;1984-01-01;0
+439;KING OF THE ANDALS  ;Alanna         ;NEWMAN              ;1985-01-01;1
+440;JEFE                ;Anestassia     ;WATKINS             ;1989-01-01;6
+441;KING OF THE ANDALS  ;Alessandra     ;BUSH                ;1989-01-01;8
+442;CADETE              ;Andree         ;BARBER              ;1982-01-01;7
+443;PULENTA             ;Alyse          ;RAMIREZ             ;1985-01-01;5
+444;MOTHER OF DRAGONS   ;Alysa          ;ROBERTS             ;1986-01-01;0
+445;MOTHER OF DRAGONS   ;Aila           ;JIMENEZ             ;1984-01-01;0
+446;PULENTA             ;Andeee         ;WILLIAMSON          ;1982-01-01;7
+447;JUVENIL             ;Alisun         ;MOORE               ;1981-01-01;1
+448;JEFE                ;Amelita        ;HOFFMAN             ;1981-01-01;5
+449;PULENTA             ;Ailyn          ;JOHNSTON            ;1984-01-01;1
+450;CADETE              ;Amaleta        ;SILVA               ;1989-01-01;4
+451;JUVENIL             ;Agneta         ;PAGE                ;1982-01-01;3
+452;NOVATO              ;Adena          ;BOWEN               ;1986-01-01;8
+453;NOVATO              ;Adah           ;SIMS                ;1982-01-01;7
+454;JEFE                ;Adore          ;LYONS               ;1980-01-01;3
+455;KING OF THE ANDALS  ;Aline          ;ELLIOTT             ;1988-01-01;5
+456;JUVENIL             ;Annabelle      ;LOWE                ;1980-01-01;8
+457;MOTHER OF DRAGONS   ;Alanna         ;ARMSTRONG           ;1980-01-01;2
+458;CADETE              ;Anestassia     ;STEPHENS            ;1986-01-01;3
+459;CADETE              ;Anderea        ;FOSTER              ;1980-01-01;8
+460;NOVATO              ;Amaleta        ;SUTTON              ;1981-01-01;5
+461;KING OF THE ANDALS  ;Alvira         ;BURTON              ;1984-01-01;8
+462;MOTHER OF DRAGONS   ;Annabela       ;GOMEZ               ;1980-01-01;1
+463;NOVATO              ;Adrianne       ;WILLIAMS            ;1985-01-01;6
+464;CADETE              ;Abigail        ;PATTERSON           ;1980-01-01;5
+465;KING OF THE ANDALS  ;Adele          ;LOWE                ;1987-01-01;3
+466;NOVATO              ;Agna           ;FISHER              ;1982-01-01;5
+467;JUVENIL             ;Andy           ;HARVEY              ;1984-01-01;3
+468;NOVATO              ;Adora          ;SOTO                ;1989-01-01;1
+469;NOVATO              ;Ange           ;CHAVEZ              ;1989-01-01;4
+470;PULENTA             ;Alverta        ;KELLER              ;1989-01-01;2
+471;CADETE              ;Agretha        ;FIELDS              ;1983-01-01;0
+472;KING OF THE ANDALS  ;Angelique      ;COLLINS             ;1982-01-01;1
+473;JEFE                ;Althea         ;PARKS               ;1986-01-01;2
+474;JUVENIL             ;Alicia         ;HINES               ;1989-01-01;3
+475;CADETE              ;Agata          ;GARDNER             ;1986-01-01;4
+476;PULENTA             ;Angele         ;GRAY                ;1986-01-01;8
+477;PULENTA             ;Angil          ;PORTER              ;1981-01-01;4
+478;KING OF THE ANDALS  ;Angelina       ;FLEMING             ;1986-01-01;2
+479;KING OF THE ANDALS  ;Alejandra      ;HICKS               ;1982-01-01;6
+480;CADETE              ;Agace          ;KENNEDY             ;1982-01-01;7
+481;PULENTA             ;Anastasie      ;AUSTIN              ;1985-01-01;0
+482;CADETE              ;Ameline        ;CARR                ;1980-01-01;3
+483;CADETE              ;Aili           ;WOLFE               ;1985-01-01;7
+484;MOTHER OF DRAGONS   ;Amity          ;BARNETT             ;1985-01-01;3
+485;PULENTA             ;Ailene         ;BURTON              ;1980-01-01;2
+486;KING OF THE ANDALS  ;Andromache     ;SANDERS             ;1980-01-01;5
+487;JEFE                ;Alyson         ;WALLACE             ;1980-01-01;7
+488;JUVENIL             ;Ame            ;FIELDS              ;1985-01-01;1
+489;JEFE                ;Andromache     ;WEBER               ;1987-01-01;4
+490;JEFE                ;Alecia         ;MEYER               ;1982-01-01;8
+491;CADETE              ;Anallise       ;MENDEZ              ;1981-01-01;4
+492;CADETE              ;Anabal         ;ARMSTRONG           ;1982-01-01;2
+493;JUVENIL             ;Alina          ;ARMSTRONG           ;1987-01-01;7
+494;NOVATO              ;Anita          ;MCDONALD            ;1981-01-01;5
+495;MOTHER OF DRAGONS   ;Adelle         ;JENSEN              ;1986-01-01;4
+496;JUVENIL             ;Aggie          ;MENDEZ              ;1986-01-01;4
+497;MOTHER OF DRAGONS   ;Alida          ;MILES               ;1985-01-01;1
+498;MOTHER OF DRAGONS   ;Alix           ;STEPHENS            ;1982-01-01;3
+499;KING OF THE ANDALS  ;Ami            ;KENNEDY             ;1986-01-01;7
+500;MOTHER OF DRAGONS   ;Allie          ;DAVIDSON            ;1985-01-01;3
+501;CADETE              ;Anitra         ;CARR                ;1980-01-01;1
+502;KING OF THE ANDALS  ;Anica          ;JAMES               ;1981-01-01;3
+503;CADETE              ;Aila           ;MURPHY              ;1983-01-01;4
+504;JEFE                ;Althea         ;ORTIZ               ;1982-01-01;8
+505;KING OF THE ANDALS  ;Aarika         ;FERNANDEZ           ;1989-01-01;5
+506;JEFE                ;Andeee         ;KING                ;1985-01-01;8
+507;MOTHER OF DRAGONS   ;Aleen          ;HUDSON              ;1985-01-01;3
+508;PULENTA             ;Allyn          ;PARKS               ;1982-01-01;6
+509;CADETE              ;Anabel         ;WOOD                ;1985-01-01;0
+510;JEFE                ;Amaleta        ;MENDEZ              ;1988-01-01;0
+511;MOTHER OF DRAGONS   ;Anastassia     ;DAVIDSON            ;1983-01-01;3
+512;JUVENIL             ;Alanna         ;ELLIS               ;1980-01-01;0
+513;NOVATO              ;Alma           ;BYRD                ;1982-01-01;3
+514;JUVENIL             ;Albertina      ;ALLEN               ;1988-01-01;0
+515;PULENTA             ;Alejandra      ;MONTGOMERY          ;1987-01-01;5
+516;PULENTA             ;Anabel         ;PERKINS             ;1989-01-01;1
+517;JUVENIL             ;Albertina      ;MORENO              ;1983-01-01;5
+518;JUVENIL             ;Abbey          ;ALLEN               ;1987-01-01;2
+519;JEFE                ;Alexandrina    ;SULLIVAN            ;1982-01-01;0
+520;MOTHER OF DRAGONS   ;Alix           ;GREENE              ;1980-01-01;6
+521;JUVENIL             ;Alexandrina    ;DIXON               ;1987-01-01;0
+522;JEFE                ;Agata          ;SUTTON              ;1982-01-01;3
+523;PULENTA             ;Ailey          ;RICE                ;1982-01-01;6
+524;MOTHER OF DRAGONS   ;Alexine        ;FORD                ;1987-01-01;5
+525;NOVATO              ;Alexine        ;CARPENTER           ;1986-01-01;5
+526;JUVENIL             ;Anabella       ;BANKS               ;1981-01-01;8
+527;NOVATO              ;Annabal        ;OBRIEN              ;1986-01-01;6
+528;PULENTA             ;Angela         ;SCHNEIDER           ;1989-01-01;6
+529;NOVATO              ;Adi            ;CASTRO              ;1986-01-01;2
+530;NOVATO              ;Addie          ;CRUZ                ;1982-01-01;2
+531;NOVATO              ;Alexia         ;NEAL                ;1984-01-01;4
+532;MOTHER OF DRAGONS   ;Alecia         ;PETERS              ;1988-01-01;7
+533;NOVATO              ;Alix           ;JENKINS             ;1989-01-01;4
+534;NOVATO              ;Ada            ;GRAVES              ;1983-01-01;4
+535;JEFE                ;Abigael        ;WATTS               ;1983-01-01;6
+536;NOVATO              ;Annabella      ;ROBERTS             ;1980-01-01;5
+537;KING OF THE ANDALS  ;Amity          ;TAYLOR              ;1986-01-01;4
+538;MOTHER OF DRAGONS   ;Almeta         ;PRICE               ;1986-01-01;3
+539;CADETE              ;Alisun         ;WATTS               ;1982-01-01;4
+540;CADETE              ;Anastasie      ;POWELL              ;1983-01-01;6
+541;CADETE              ;Amalle         ;PAYNE               ;1988-01-01;6
+542;JEFE                ;Amalee         ;JENKINS             ;1984-01-01;8
+543;PULENTA             ;Alfy           ;ANDREWS             ;1984-01-01;8
+544;MOTHER OF DRAGONS   ;Alys           ;DANIEL              ;1983-01-01;1
+545;PULENTA             ;Annabela       ;BRADLEY             ;1985-01-01;2
+546;KING OF THE ANDALS  ;Amity          ;SUTTON              ;1985-01-01;7
+547;NOVATO              ;Albertina      ;BOYD                ;1981-01-01;4
+548;JUVENIL             ;Agnese         ;LOWE                ;1988-01-01;7
+549;NOVATO              ;Adelaida       ;MORENO              ;1988-01-01;0
+550;NOVATO              ;Andreana       ;CRAIG               ;1981-01-01;4
+551;NOVATO              ;Ann            ;WHITE               ;1980-01-01;3
+552;JEFE                ;Andrei         ;MCDANIEL            ;1984-01-01;7
+553;CADETE              ;Almire         ;REYNOLDS            ;1980-01-01;2
+554;MOTHER OF DRAGONS   ;Adrea          ;PHILLIPS            ;1984-01-01;8
+555;JEFE                ;Abra           ;MILLER              ;1985-01-01;3
+556;KING OF THE ANDALS  ;Adrianne       ;CLARK               ;1988-01-01;1
+557;CADETE              ;Almira         ;SIMS                ;1985-01-01;8
+558;CADETE              ;Abigael        ;SHAW                ;1985-01-01;8
+559;JUVENIL             ;Aeriell        ;STEPHENS            ;1988-01-01;5
+560;MOTHER OF DRAGONS   ;Adria          ;SUTTON              ;1981-01-01;0
+561;MOTHER OF DRAGONS   ;Abbi           ;CARR                ;1986-01-01;8
+562;PULENTA             ;Alejandra      ;MORRIS              ;1989-01-01;1
+563;KING OF THE ANDALS  ;Adelaide       ;PRICE               ;1989-01-01;2
+564;NOVATO              ;Alyse          ;NICHOLS             ;1986-01-01;2
+565;PULENTA             ;Adore          ;SIMMONS             ;1989-01-01;2
+566;JUVENIL             ;Adelina        ;SNYDER              ;1986-01-01;8
+567;KING OF THE ANDALS  ;Aline          ;JOHNSTON            ;1984-01-01;4
+568;PULENTA             ;Anet           ;CARPENTER           ;1983-01-01;4
+569;CADETE              ;Aloysia        ;SIMPSON             ;1985-01-01;3
+570;PULENTA             ;Alikee         ;FIELDS              ;1988-01-01;2
+571;MOTHER OF DRAGONS   ;Anastassia     ;STEWART             ;1980-01-01;0
+572;PULENTA             ;Aili           ;CASTILLO            ;1980-01-01;7
+573;KING OF THE ANDALS  ;Abagail        ;SHARP               ;1988-01-01;5
+574;PULENTA             ;Anitra         ;MORALES             ;1989-01-01;0
+575;KING OF THE ANDALS  ;Adi            ;RODRIQUEZ           ;1989-01-01;0
+576;CADETE              ;Aeriel         ;HOWARD              ;1982-01-01;7
+577;JUVENIL             ;Amalia         ;TUCKER              ;1987-01-01;1
+578;JEFE                ;Ana            ;BATES               ;1989-01-01;4
+579;NOVATO              ;Alyda          ;FRANKLIN            ;1984-01-01;0
+580;CADETE              ;Ailee          ;FOWLER              ;1982-01-01;7
+581;NOVATO              ;Amargo         ;ADAMS               ;1982-01-01;0
+582;CADETE              ;Ag             ;ROMERO              ;1985-01-01;4
+583;JEFE                ;Angie          ;MITCHELL            ;1981-01-01;0
+584;KING OF THE ANDALS  ;Althea         ;GILBERT             ;1986-01-01;4
+585;JUVENIL             ;Ali            ;CHAPMAN             ;1980-01-01;8
+586;JUVENIL             ;Alex           ;SUTTON              ;1989-01-01;5
+587;JUVENIL             ;Angy           ;AUSTIN              ;1985-01-01;3
+588;NOVATO              ;Aila           ;HUNTER              ;1987-01-01;6
+589;MOTHER OF DRAGONS   ;Aileen         ;HAWKINS             ;1984-01-01;0
+590;MOTHER OF DRAGONS   ;Ailina         ;WARREN              ;1989-01-01;7
+591;JEFE                ;Alysa          ;COLEMAN             ;1982-01-01;3
+592;CADETE              ;Anna-Maria     ;TORRES              ;1987-01-01;6
+593;JEFE                ;Aila           ;LUCAS               ;1989-01-01;7
+594;KING OF THE ANDALS  ;Adelheid       ;WILLIAMS            ;1982-01-01;1
+595;JUVENIL             ;Adora          ;HART                ;1981-01-01;8
+596;NOVATO              ;Angeline       ;BUSH                ;1985-01-01;3
+597;PULENTA             ;Afton          ;WADE                ;1987-01-01;5
+598;KING OF THE ANDALS  ;Adiana         ;WEBB                ;1985-01-01;8
+599;KING OF THE ANDALS  ;Aile           ;RYAN                ;1987-01-01;1
+600;JUVENIL             ;Aggi           ;LUCAS               ;1985-01-01;4
+601;KING OF THE ANDALS  ;Alicea         ;WAGNER              ;1986-01-01;6
+602;NOVATO              ;Adelind        ;CURTIS              ;1986-01-01;7
+603;CADETE              ;Alissa         ;KING                ;1982-01-01;6
+604;NOVATO              ;Anitra         ;CASTILLO            ;1985-01-01;4
+605;JUVENIL             ;Aili           ;PAGE                ;1984-01-01;0
+606;MOTHER OF DRAGONS   ;Agnesse        ;ORTIZ               ;1981-01-01;4
+607;PULENTA             ;Aimil          ;LYONS               ;1986-01-01;3
+608;JUVENIL             ;Anita          ;MARTINEZ            ;1987-01-01;7
+609;JUVENIL             ;Amelita        ;NELSON              ;1988-01-01;6
+610;JEFE                ;Amelina        ;GRANT               ;1983-01-01;5
+611;JUVENIL             ;Angela         ;BUSH                ;1981-01-01;1
+612;JEFE                ;Aindrea        ;MARTINEZ            ;1984-01-01;2
+613;MOTHER OF DRAGONS   ;Adrea          ;FULLER              ;1981-01-01;2
+614;PULENTA             ;Alisha         ;MILES               ;1986-01-01;6
+615;KING OF THE ANDALS  ;Ami            ;WOOD                ;1983-01-01;4
+616;CADETE              ;Adriaens       ;BARNETT             ;1985-01-01;2
+617;MOTHER OF DRAGONS   ;Alyce          ;ROBERTS             ;1986-01-01;7
+618;JEFE                ;Albina         ;HANSON              ;1982-01-01;5
+619;MOTHER OF DRAGONS   ;Annadiane      ;BENSON              ;1986-01-01;8
+620;JUVENIL             ;Aila           ;COLEMAN             ;1986-01-01;3
+621;PULENTA             ;Abbye          ;BARKER              ;1989-01-01;8
+622;PULENTA             ;Abbie          ;SILVA               ;1986-01-01;3
+623;CADETE              ;Andriette      ;FERNANDEZ           ;1985-01-01;0
+624;JUVENIL             ;Anallise       ;FIELDS              ;1988-01-01;0
+625;NOVATO              ;Amil           ;ROBERTSON           ;1985-01-01;7
+626;JEFE                ;Angil          ;GREENE              ;1980-01-01;6
+627;PULENTA             ;Addi           ;WHEELER             ;1986-01-01;8
+628;NOVATO              ;Ambur          ;DANIELS             ;1988-01-01;2
+629;CADETE              ;Alfreda        ;HINES               ;1986-01-01;1
+630;CADETE              ;Agnes          ;JAMES               ;1989-01-01;7
+631;MOTHER OF DRAGONS   ;Adora          ;HUGHES              ;1983-01-01;6
+632;MOTHER OF DRAGONS   ;Alyss          ;BARRETT             ;1988-01-01;6
+633;JUVENIL             ;Alikee         ;RAMIREZ             ;1987-01-01;3
+634;NOVATO              ;Alicia         ;CARPENTER           ;1987-01-01;7
+635;KING OF THE ANDALS  ;Annabell       ;DANIELS             ;1983-01-01;2
+636;CADETE              ;Agnes          ;WRIGHT              ;1980-01-01;8
+637;PULENTA             ;Amalee         ;BATES               ;1986-01-01;6
+638;PULENTA             ;Andrea         ;MILLS               ;1985-01-01;2
+639;NOVATO              ;Allegra        ;WALSH               ;1982-01-01;7
+640;JUVENIL             ;Adina          ;COLE                ;1983-01-01;2
+641;PULENTA             ;Abbie          ;GREENE              ;1985-01-01;1
+642;NOVATO              ;Alta           ;NEWMAN              ;1987-01-01;0
+643;PULENTA             ;Amanda         ;DAVIS               ;1987-01-01;7
+644;KING OF THE ANDALS  ;Alfreda        ;ADAMS               ;1983-01-01;1
+645;KING OF THE ANDALS  ;Ali            ;HOLT                ;1987-01-01;0
+646;CADETE              ;Alina          ;WARREN              ;1987-01-01;6
+647;NOVATO              ;Adah           ;WELCH               ;1986-01-01;5
+648;MOTHER OF DRAGONS   ;Aleen          ;MORRIS              ;1985-01-01;0
+649;CADETE              ;Albertina      ;LARSON              ;1987-01-01;4
+650;JEFE                ;Alana          ;CARLSON             ;1983-01-01;6
+651;JEFE                ;Amil           ;BARNETT             ;1980-01-01;7
+652;PULENTA             ;Alethea        ;WILSON              ;1986-01-01;1
+653;NOVATO              ;Alysia         ;WOLFE               ;1981-01-01;2
+654;MOTHER OF DRAGONS   ;Alma           ;EDWARDS             ;1989-01-01;1
+655;NOVATO              ;Aloisia        ;MEDINA              ;1988-01-01;1
+656;JUVENIL             ;Aila           ;WALLACE             ;1981-01-01;3
+657;NOVATO              ;Anetta         ;BOWMAN              ;1983-01-01;2
+658;MOTHER OF DRAGONS   ;Ame            ;BOYD                ;1985-01-01;8
+659;JEFE                ;Adeline        ;REID                ;1980-01-01;0
+660;CADETE              ;Amie           ;COOPER              ;1985-01-01;4
+661;KING OF THE ANDALS  ;Ambur          ;HAMILTON            ;1987-01-01;3
+662;JUVENIL             ;Adrea          ;ANDREWS             ;1980-01-01;7
+663;CADETE              ;Alisa          ;BROWN               ;1987-01-01;4
+664;CADETE              ;Amie           ;KING                ;1980-01-01;2
+665;CADETE              ;Anatola        ;SIMMONS             ;1984-01-01;5
+666;NOVATO              ;Allison        ;MILLS               ;1983-01-01;6
+667;MOTHER OF DRAGONS   ;Andrei         ;SMITH               ;1988-01-01;3
+668;NOVATO              ;Alexine        ;WEBB                ;1982-01-01;6
+669;PULENTA             ;Alla           ;ELLIOTT             ;1987-01-01;0
+670;MOTHER OF DRAGONS   ;Adrienne       ;OLIVER              ;1982-01-01;2
+671;JUVENIL             ;Amandie        ;HARRIS              ;1982-01-01;1
+672;KING OF THE ANDALS  ;Annabelle      ;RYAN                ;1989-01-01;6
+673;PULENTA             ;Andreana       ;RODRIGUEZ           ;1988-01-01;0
+674;JEFE                ;Abigale        ;HOWARD              ;1985-01-01;1
+675;JUVENIL             ;Anna-Maria     ;GOMEZ               ;1981-01-01;1
+676;NOVATO              ;Anastasia      ;HAWKINS             ;1983-01-01;7
+677;NOVATO              ;Aloise         ;CHANDLER            ;1988-01-01;8
+678;CADETE              ;Almira         ;RAMSEY              ;1982-01-01;0
+679;KING OF THE ANDALS  ;Adaline        ;EDWARDS             ;1986-01-01;1
+680;NOVATO              ;Adriane        ;FOWLER              ;1985-01-01;3
+681;CADETE              ;Alfreda        ;BAKER               ;1984-01-01;8
+682;JUVENIL             ;Ange           ;RODRIGUEZ           ;1980-01-01;7
+683;PULENTA             ;Adele          ;OBRIEN              ;1980-01-01;5
+684;CADETE              ;Adey           ;MULLINS             ;1988-01-01;1
+685;KING OF THE ANDALS  ;Alverta        ;GRIFFITH            ;1981-01-01;1
+686;JEFE                ;Amalita        ;LEWIS               ;1981-01-01;4
+687;NOVATO              ;Andeee         ;FIELDS              ;1981-01-01;8
+688;JEFE                ;Alisa          ;FLETCHER            ;1981-01-01;2
+689;MOTHER OF DRAGONS   ;Anna-Diane     ;TURNER              ;1980-01-01;1
+690;KING OF THE ANDALS  ;Andi           ;SANCHEZ             ;1981-01-01;3
+691;JEFE                ;Alyss          ;ROSS                ;1980-01-01;5
+692;PULENTA             ;Annabelle      ;BOYD                ;1984-01-01;5
+693;JUVENIL             ;Ailsun         ;HAMILTON            ;1986-01-01;2
+694;KING OF THE ANDALS  ;Alys           ;TURNER              ;1988-01-01;4
+695;MOTHER OF DRAGONS   ;Adore          ;PATTERSON           ;1988-01-01;2
+696;JUVENIL             ;Andeee         ;KNIGHT              ;1985-01-01;4
+697;CADETE              ;Alyson         ;HARRISON            ;1984-01-01;2
+698;KING OF THE ANDALS  ;Allissa        ;HOFFMAN             ;1981-01-01;6
+699;PULENTA             ;Amanda         ;FLETCHER            ;1987-01-01;7
+700;NOVATO              ;Albertina      ;POWERS              ;1985-01-01;7
+701;KING OF THE ANDALS  ;Almeda         ;HUGHES              ;1982-01-01;2
+702;JEFE                ;Amalia         ;LAWRENCE            ;1981-01-01;8
+703;CADETE              ;Alexina        ;HUDSON              ;1987-01-01;5
+704;JUVENIL             ;Alia           ;EVANS               ;1988-01-01;5
+705;KING OF THE ANDALS  ;Althea         ;WARREN              ;1984-01-01;8
+706;MOTHER OF DRAGONS   ;Andrei         ;ANDERSON            ;1985-01-01;8
+707;CADETE              ;Alfi           ;EVANS               ;1985-01-01;6
+708;PULENTA             ;Aile           ;LANE                ;1981-01-01;8
+709;JEFE                ;Agna           ;WEBB                ;1980-01-01;6
+710;JEFE                ;Amy            ;PAYNE               ;1980-01-01;8
+711;JEFE                ;Ada            ;REYNOLDS            ;1988-01-01;5
+712;NOVATO              ;Anastassia     ;DIAZ                ;1982-01-01;4
+713;JUVENIL             ;Aleen          ;OWENS               ;1984-01-01;8
+714;NOVATO              ;Abbi           ;SOTO                ;1984-01-01;5
+715;PULENTA             ;Adelle         ;HAYES               ;1983-01-01;8
+716;JUVENIL             ;Agnes          ;BYRD                ;1983-01-01;7
+717;NOVATO              ;Anet           ;RICHARDSON          ;1987-01-01;5
+718;KING OF THE ANDALS  ;Amalita        ;PERKINS             ;1988-01-01;6
+719;JUVENIL             ;Anatola        ;BENSON              ;1982-01-01;0
+720;CADETE              ;Anestassia     ;LEE                 ;1980-01-01;8
+721;JEFE                ;Alie           ;GORDON              ;1986-01-01;8
+722;PULENTA             ;Alverta        ;VASQUEZ             ;1981-01-01;5
+723;PULENTA             ;Alfy           ;RUSSELL             ;1988-01-01;6
+724;MOTHER OF DRAGONS   ;Annadiana      ;VASQUEZ             ;1985-01-01;4
+725;JEFE                ;Andee          ;GIBSON              ;1989-01-01;7
+726;KING OF THE ANDALS  ;Agnese         ;BARRETT             ;1988-01-01;0
+727;NOVATO              ;Aile           ;ELLIS               ;1985-01-01;7
+728;NOVATO              ;Adriena        ;GEORGE              ;1981-01-01;8
+729;KING OF THE ANDALS  ;Alis           ;BOYD                ;1981-01-01;5
+730;JEFE                ;Aeriel         ;DAVIS               ;1984-01-01;4
+731;MOTHER OF DRAGONS   ;Alanah         ;HUDSON              ;1985-01-01;7
+732;JEFE                ;Agnola         ;REID                ;1989-01-01;3
+733;PULENTA             ;Alyss          ;ORTIZ               ;1986-01-01;8
+734;KING OF THE ANDALS  ;Alice          ;MILLER              ;1985-01-01;2
+735;JEFE                ;Ailsun         ;NEAL                ;1981-01-01;7
+736;JEFE                ;Adina          ;FREEMAN             ;1980-01-01;3
+737;MOTHER OF DRAGONS   ;Alikee         ;HARRIS              ;1987-01-01;5
+738;JEFE                ;Alejandra      ;GRAVES              ;1981-01-01;8
+739;JUVENIL             ;Anica          ;AUSTIN              ;1989-01-01;5
+740;PULENTA             ;Anabal         ;MEYER               ;1982-01-01;1
+741;MOTHER OF DRAGONS   ;Amargo         ;SANCHEZ             ;1983-01-01;2
+742;CADETE              ;Adele          ;MONTGOMERY          ;1989-01-01;7
+743;PULENTA             ;Amaleta        ;GIBSON              ;1983-01-01;8
+744;CADETE              ;Adan           ;GARRETT             ;1987-01-01;3
+745;CADETE              ;Alexa          ;CUMMINGS            ;1989-01-01;2
+746;NOVATO              ;Angele         ;PEREZ               ;1981-01-01;5
+747;JUVENIL             ;Aleta          ;BATES               ;1982-01-01;7
+748;CADETE              ;Abby           ;CHAVEZ              ;1980-01-01;2
+749;JEFE                ;Allene         ;BARKER              ;1983-01-01;8
+750;PULENTA             ;Adah           ;CALDWELL            ;1985-01-01;0
+751;KING OF THE ANDALS  ;Abagail        ;HUDSON              ;1981-01-01;0
+752;MOTHER OF DRAGONS   ;Alane          ;CARLSON             ;1983-01-01;0
+753;JEFE                ;Agnese         ;CRUZ                ;1984-01-01;3
+754;KING OF THE ANDALS  ;Adiana         ;PETERS              ;1980-01-01;3
+755;JUVENIL             ;Alyssa         ;RIVERA              ;1980-01-01;4
+756;PULENTA             ;Adrea          ;BUTLER              ;1983-01-01;1
+757;KING OF THE ANDALS  ;Alvira         ;BARRETT             ;1988-01-01;5
+758;CADETE              ;Allegra        ;GREGORY             ;1985-01-01;0
+759;JUVENIL             ;Alanah         ;LOPEZ               ;1983-01-01;2
+760;NOVATO              ;Aigneis        ;MYERS               ;1982-01-01;5
+761;PULENTA             ;Adrianna       ;RICHARDSON          ;1988-01-01;5
+762;JEFE                ;Andrei         ;BURTON              ;1987-01-01;4
+763;NOVATO              ;Alice          ;CUMMINGS            ;1988-01-01;3
+764;JUVENIL             ;Adele          ;TUCKER              ;1988-01-01;8
+765;NOVATO              ;Aidan          ;PRICE               ;1983-01-01;6
+766;JEFE                ;Annadiana      ;MEDINA              ;1983-01-01;3
+767;JUVENIL             ;Allegra        ;MORRISON            ;1983-01-01;6
+768;KING OF THE ANDALS  ;Andria         ;HICKS               ;1987-01-01;2
+769;MOTHER OF DRAGONS   ;Alejandra      ;BERRY               ;1980-01-01;4
+770;PULENTA             ;Adriana        ;KING                ;1985-01-01;6
+771;CADETE              ;Adey           ;PETERS              ;1986-01-01;5
+772;KING OF THE ANDALS  ;Ameline        ;KELLY               ;1984-01-01;2
+773;MOTHER OF DRAGONS   ;Addia          ;SCHNEIDER           ;1983-01-01;8
+774;MOTHER OF DRAGONS   ;Andeee         ;GILBERT             ;1981-01-01;2
+775;NOVATO              ;Anabella       ;HUNTER              ;1982-01-01;1
+776;JUVENIL             ;Amy            ;WOLFE               ;1982-01-01;1
+777;CADETE              ;Agnesse        ;BUSH                ;1981-01-01;4
+778;JUVENIL             ;Alix           ;JAMES               ;1983-01-01;5
+779;KING OF THE ANDALS  ;Agnese         ;WATKINS             ;1985-01-01;3
+780;JEFE                ;Alta           ;MCCOY               ;1989-01-01;7
+781;CADETE              ;Ailyn          ;RICHARDSON          ;1983-01-01;0
+782;MOTHER OF DRAGONS   ;Alaine         ;GONZALES            ;1982-01-01;6
+783;JEFE                ;Anna-Diane     ;PATTERSON           ;1986-01-01;4
+784;NOVATO              ;Amalle         ;BARBER              ;1985-01-01;6
+785;JUVENIL             ;Abbye          ;HARDY               ;1985-01-01;7
+786;CADETE              ;Aloysia        ;JIMENEZ             ;1988-01-01;5
+787;CADETE              ;Angelia        ;BAILEY              ;1981-01-01;8
+788;MOTHER OF DRAGONS   ;Amelina        ;MARTIN              ;1984-01-01;2
+789;PULENTA             ;Adrea          ;SANCHEZ             ;1986-01-01;5
+790;JUVENIL             ;Albina         ;MONTGOMERY          ;1981-01-01;8
+791;KING OF THE ANDALS  ;Althea         ;WASHINGTON          ;1984-01-01;2
+792;JUVENIL             ;Allie          ;MCDONALD            ;1983-01-01;4
+793;CADETE              ;Ange           ;ORTIZ               ;1983-01-01;8
+794;CADETE              ;Amalie         ;BISHOP              ;1980-01-01;7
+795;JUVENIL             ;Adore          ;HUGHES              ;1985-01-01;0
+796;CADETE              ;Adele          ;THOMPSON            ;1980-01-01;8
+797;JEFE                ;Adelind        ;GARCIA              ;1989-01-01;1
+798;MOTHER OF DRAGONS   ;Angelica       ;CHAVEZ              ;1987-01-01;4
+799;JEFE                ;Anestassia     ;WATKINS             ;1987-01-01;1
+800;MOTHER OF DRAGONS   ;Amie           ;PARKER              ;1988-01-01;4
+801;MOTHER OF DRAGONS   ;Alexi          ;SANDERS             ;1987-01-01;4
+802;JUVENIL             ;Aili           ;GUZMAN              ;1980-01-01;0
+803;MOTHER OF DRAGONS   ;Aleece         ;BOYD                ;1985-01-01;2
+804;KING OF THE ANDALS  ;Ailis          ;WALTERS             ;1985-01-01;1
+805;CADETE              ;Ali            ;ADAMS               ;1987-01-01;3
+806;NOVATO              ;Anastassia     ;LONG                ;1986-01-01;3
+807;CADETE              ;Ailsun         ;BURKE               ;1984-01-01;0
+808;JEFE                ;Amie           ;COLE                ;1987-01-01;5
+809;JEFE                ;Alyse          ;NORRIS              ;1982-01-01;3
+810;KING OF THE ANDALS  ;Adriane        ;HART                ;1983-01-01;0
+811;KING OF THE ANDALS  ;Angel          ;SPENCER             ;1983-01-01;3
+812;KING OF THE ANDALS  ;Anica          ;REYES               ;1984-01-01;5
+813;PULENTA             ;Amabel         ;OWENS               ;1985-01-01;2
+814;MOTHER OF DRAGONS   ;Alleen         ;SILVA               ;1987-01-01;2
+815;NOVATO              ;Agna           ;BENSON              ;1989-01-01;1
+816;MOTHER OF DRAGONS   ;Adrian         ;BROOKS              ;1982-01-01;0
+817;KING OF THE ANDALS  ;Alessandra     ;LUCAS               ;1987-01-01;5
+818;PULENTA             ;Adelle         ;GRAVES              ;1989-01-01;7
+819;CADETE              ;Alicea         ;WELCH               ;1984-01-01;7
+820;JEFE                ;Agnese         ;STEPHENS            ;1983-01-01;3
+821;JEFE                ;Ami            ;MYERS               ;1987-01-01;2
+822;JEFE                ;Alberta        ;ADAMS               ;1986-01-01;8
+823;CADETE              ;Alyson         ;GEORGE              ;1981-01-01;3
+824;PULENTA             ;Allina         ;SILVA               ;1987-01-01;0
+825;NOVATO              ;Anastassia     ;WADE                ;1985-01-01;6
+826;PULENTA             ;Abbie          ;ROBERTSON           ;1987-01-01;6
+827;JUVENIL             ;Alvinia        ;LOPEZ               ;1987-01-01;5
+828;JUVENIL             ;Allegra        ;SCHULTZ             ;1983-01-01;6
+829;KING OF THE ANDALS  ;Agnes          ;HARVEY              ;1981-01-01;7
+830;KING OF THE ANDALS  ;Aeriell        ;BELL                ;1984-01-01;5
+831;JEFE                ;Alis           ;GUZMAN              ;1982-01-01;5
+832;CADETE              ;Aile           ;RAMIREZ             ;1983-01-01;3
+833;JUVENIL             ;Aline          ;THOMPSON            ;1986-01-01;2
+834;PULENTA             ;Alyda          ;CALDWELL            ;1983-01-01;4
+835;JUVENIL             ;Angy           ;WELLS               ;1983-01-01;8
+836;MOTHER OF DRAGONS   ;Angelina       ;BISHOP              ;1980-01-01;6
+837;JUVENIL             ;Aili           ;DEAN                ;1981-01-01;6
+838;NOVATO              ;Anica          ;HERRERA             ;1988-01-01;7
+839;PULENTA             ;Ann            ;GRAHAM              ;1983-01-01;4
+840;NOVATO              ;Aleece         ;RYAN                ;1989-01-01;4
+841;MOTHER OF DRAGONS   ;Alika          ;HOWELL              ;1989-01-01;4
+842;PULENTA             ;Aigneis        ;JACKSON             ;1983-01-01;3
+843;MOTHER OF DRAGONS   ;Aarika         ;GRAVES              ;1984-01-01;7
+844;MOTHER OF DRAGONS   ;Albertine      ;CHAPMAN             ;1980-01-01;0
+845;NOVATO              ;Ailsun         ;TORRES              ;1980-01-01;4
+846;JEFE                ;Ania           ;GUZMAN              ;1989-01-01;3
+847;KING OF THE ANDALS  ;Ally           ;HAYES               ;1989-01-01;2
+848;JUVENIL             ;Andrea         ;SIMS                ;1984-01-01;1
+849;JEFE                ;Ameline        ;BARNETT             ;1986-01-01;8
+850;NOVATO              ;Abbie          ;REYES               ;1983-01-01;0
+851;KING OF THE ANDALS  ;Adrian         ;DEAN                ;1986-01-01;0
+852;JUVENIL             ;Anatola        ;KNIGHT              ;1981-01-01;7
+853;KING OF THE ANDALS  ;Adiana         ;HOLT                ;1984-01-01;5
+854;MOTHER OF DRAGONS   ;Allissa        ;RICHARDSON          ;1981-01-01;5
+855;CADETE              ;Andie          ;GRAVES              ;1986-01-01;8
+856;NOVATO              ;Addia          ;BARNETT             ;1984-01-01;5
+857;JEFE                ;Alis           ;FRANKLIN            ;1988-01-01;2
+858;NOVATO              ;Aili           ;DAWSON              ;1980-01-01;7
+859;JEFE                ;Adrianne       ;DIAZ                ;1980-01-01;4
+860;JEFE                ;Amitie         ;COOPER              ;1982-01-01;1
+861;KING OF THE ANDALS  ;Ailsun         ;NICHOLS             ;1980-01-01;8
+862;PULENTA             ;Agnese         ;WILLIAMSON          ;1983-01-01;4
+863;MOTHER OF DRAGONS   ;Ainslie        ;COLEMAN             ;1988-01-01;4
+864;CADETE              ;Aimee          ;DIAZ                ;1988-01-01;3
+865;CADETE              ;Angie          ;WILSON              ;1984-01-01;0
+866;KING OF THE ANDALS  ;Alice          ;SMITH               ;1980-01-01;0
+867;PULENTA             ;Albertina      ;TERRY               ;1984-01-01;6
+868;JUVENIL             ;Amaleta        ;WHEELER             ;1982-01-01;6
+869;MOTHER OF DRAGONS   ;Albertine      ;STEVENS             ;1986-01-01;7
+870;NOVATO              ;Adeline        ;WILLIAMS            ;1984-01-01;6
+871;NOVATO              ;Aggi           ;SCHMIDT             ;1989-01-01;6
+872;JUVENIL             ;Aindrea        ;HOLMES              ;1980-01-01;6
+873;PULENTA             ;Addia          ;MILLS               ;1980-01-01;7
+874;JUVENIL             ;Anjanette      ;KELLY               ;1989-01-01;5
+875;MOTHER OF DRAGONS   ;Amargo         ;RIVERA              ;1986-01-01;0
+876;JEFE                ;Alyson         ;ARMSTRONG           ;1988-01-01;1
+877;JUVENIL             ;Agna           ;BURTON              ;1984-01-01;3
+878;CADETE              ;Annabela       ;JIMENEZ             ;1981-01-01;5
+879;KING OF THE ANDALS  ;Adriena        ;GARCIA              ;1986-01-01;4
+880;NOVATO              ;Annabal        ;PERRY               ;1989-01-01;7
+881;KING OF THE ANDALS  ;Alta           ;BARBER              ;1984-01-01;1
+882;CADETE              ;Alethea        ;GOMEZ               ;1988-01-01;1
+883;CADETE              ;Alyce          ;SCHMIDT             ;1987-01-01;7
+884;NOVATO              ;Alberta        ;ROMERO              ;1985-01-01;0
+885;CADETE              ;Anita          ;RYAN                ;1988-01-01;0
+886;PULENTA             ;Almire         ;HUNT                ;1988-01-01;1
+887;MOTHER OF DRAGONS   ;Andrea         ;HAYNES              ;1982-01-01;0
+888;KING OF THE ANDALS  ;Alicia         ;GRANT               ;1980-01-01;0
+889;KING OF THE ANDALS  ;Alysa          ;RAY                 ;1981-01-01;6
+890;CADETE              ;Adan           ;ROSS                ;1985-01-01;8
+891;JUVENIL             ;Aloise         ;BLACK               ;1986-01-01;7
+892;KING OF THE ANDALS  ;Allyce         ;TERRY               ;1989-01-01;6
+893;NOVATO              ;Adiana         ;BECK                ;1987-01-01;2
+894;NOVATO              ;Amity          ;MULLINS             ;1984-01-01;2
+895;NOVATO              ;Alexi          ;LEWIS               ;1986-01-01;3
+896;KING OF THE ANDALS  ;Aigneis        ;FRANKLIN            ;1987-01-01;5
+897;JEFE                ;Alexandra      ;HOLLAND             ;1983-01-01;1
+898;CADETE              ;Alicia         ;REED                ;1983-01-01;6
+899;KING OF THE ANDALS  ;Alysia         ;BALL                ;1983-01-01;3
+900;JEFE                ;Althea         ;COOPER              ;1981-01-01;7
+901;KING OF THE ANDALS  ;Abbey          ;DUNCAN              ;1988-01-01;2
+902;JUVENIL             ;Amelita        ;FLEMING             ;1986-01-01;4
+903;KING OF THE ANDALS  ;Ailina         ;BREWER              ;1983-01-01;4
+904;PULENTA             ;Alexandrina    ;COLE                ;1988-01-01;8
+905;KING OF THE ANDALS  ;Alane          ;LAMBERT             ;1988-01-01;4
+906;KING OF THE ANDALS  ;Alexandrina    ;JENKINS             ;1981-01-01;6
+907;JUVENIL             ;Ailyn          ;WALLACE             ;1984-01-01;2
+908;KING OF THE ANDALS  ;Andromache     ;EDWARDS             ;1987-01-01;3
+909;MOTHER OF DRAGONS   ;Alana          ;BUTLER              ;1983-01-01;5
+910;JUVENIL             ;Allyson        ;NORRIS              ;1980-01-01;8
+911;CADETE              ;Ailyn          ;HORTON              ;1981-01-01;1
+912;KING OF THE ANDALS  ;Angele         ;CRAWFORD            ;1981-01-01;4
+913;MOTHER OF DRAGONS   ;Aaren          ;DUNCAN              ;1982-01-01;5
+914;MOTHER OF DRAGONS   ;Allianora      ;DIAZ                ;1989-01-01;7
+915;PULENTA             ;Alysia         ;FLEMING             ;1984-01-01;7
+916;MOTHER OF DRAGONS   ;Adriane        ;WOLFE               ;1987-01-01;8
+917;JUVENIL             ;Anastasia      ;PETERSON            ;1981-01-01;7
+918;NOVATO              ;Alejandrina    ;TORRES              ;1986-01-01;1
+919;KING OF THE ANDALS  ;Angelita       ;RICHARDSON          ;1986-01-01;2
+920;JEFE                ;Alfi           ;DEAN                ;1983-01-01;6
+921;CADETE              ;Aleda          ;PETERS              ;1983-01-01;0
+922;JEFE                ;Amii           ;BALL                ;1982-01-01;6
+923;JUVENIL             ;Alys           ;SIMPSON             ;1981-01-01;3
+924;MOTHER OF DRAGONS   ;Agretha        ;HAYES               ;1989-01-01;7
+925;CADETE              ;Aleta          ;WEST                ;1988-01-01;1
+926;MOTHER OF DRAGONS   ;Aleta          ;FLETCHER            ;1985-01-01;3
+927;KING OF THE ANDALS  ;Allyn          ;TUCKER              ;1985-01-01;3
+928;CADETE              ;Agnes          ;MENDEZ              ;1980-01-01;8
+929;KING OF THE ANDALS  ;Adelice        ;MOORE               ;1982-01-01;2
+930;CADETE              ;Adore          ;GONZALEZ            ;1981-01-01;4
+931;JEFE                ;Anissa         ;WALKER              ;1984-01-01;8
+932;MOTHER OF DRAGONS   ;Aimee          ;FRAZIER             ;1984-01-01;6
+933;MOTHER OF DRAGONS   ;Agathe         ;BOWMAN              ;1983-01-01;0
+934;MOTHER OF DRAGONS   ;Anabel         ;BURKE               ;1988-01-01;4
+935;PULENTA             ;Adelina        ;PEARSON             ;1984-01-01;5
+936;PULENTA             ;Ameline        ;BOWMAN              ;1983-01-01;1
+937;JEFE                ;Adrea          ;RAY                 ;1989-01-01;8
+938;MOTHER OF DRAGONS   ;Abigael        ;HARRIS              ;1980-01-01;0
+939;JUVENIL             ;Ailee          ;NELSON              ;1989-01-01;3
+940;JUVENIL             ;Ag             ;SOTO                ;1987-01-01;3
+941;NOVATO              ;Anette         ;PIERCE              ;1983-01-01;7
+942;CADETE              ;Alida          ;CHANDLER            ;1986-01-01;8
+943;MOTHER OF DRAGONS   ;Alanah         ;TURNER              ;1989-01-01;5
+944;PULENTA             ;Adrea          ;GRIFFIN             ;1984-01-01;5
+945;MOTHER OF DRAGONS   ;Alverta        ;FIELDS              ;1985-01-01;1
+946;CADETE              ;Amelia         ;FRAZIER             ;1989-01-01;2
+947;JEFE                ;Alyda          ;KELLER              ;1985-01-01;5
+948;MOTHER OF DRAGONS   ;Anabelle       ;GUZMAN              ;1980-01-01;5
+949;JEFE                ;Ammamaria      ;ROBINSON            ;1987-01-01;7
+950;PULENTA             ;Alikee         ;HOWARD              ;1986-01-01;3
+951;KING OF THE ANDALS  ;Andreana       ;ROGERS              ;1988-01-01;4
+952;CADETE              ;Annabela       ;JORDAN              ;1986-01-01;0
+953;PULENTA             ;Andi           ;HAMILTON            ;1987-01-01;7
+954;PULENTA             ;Amitie         ;JENSEN              ;1985-01-01;2
+955;JEFE                ;Aleece         ;MULLINS             ;1981-01-01;2
+956;MOTHER OF DRAGONS   ;Amalea         ;BOWEN               ;1986-01-01;0
+957;CADETE              ;Alex           ;PEARSON             ;1982-01-01;1
+958;PULENTA             ;Amye           ;WADE                ;1982-01-01;3
+959;JUVENIL             ;Anallese       ;GOMEZ               ;1980-01-01;4
+960;MOTHER OF DRAGONS   ;Anastassia     ;PENA                ;1987-01-01;8
+961;NOVATO              ;Allsun         ;GRAY                ;1987-01-01;1
+962;KING OF THE ANDALS  ;Alecia         ;FIELDS              ;1985-01-01;3
+963;CADETE              ;Ange           ;PARKS               ;1983-01-01;5
+964;MOTHER OF DRAGONS   ;Adey           ;ARMSTRONG           ;1984-01-01;4
+965;KING OF THE ANDALS  ;Annabal        ;ALVAREZ             ;1989-01-01;6
+966;NOVATO              ;Agathe         ;WATSON              ;1981-01-01;2
+967;JEFE                ;Adan           ;FERGUSON            ;1982-01-01;2
+968;NOVATO              ;Ambur          ;HARPER              ;1982-01-01;6
+969;JUVENIL             ;Agace          ;CARTER              ;1984-01-01;7
+970;NOVATO              ;Anabal         ;GRAY                ;1987-01-01;8
+971;JUVENIL             ;Agathe         ;LUCAS               ;1983-01-01;8
+972;NOVATO              ;Aloise         ;MORRIS              ;1987-01-01;5
+973;JUVENIL             ;Amber          ;SANDERS             ;1989-01-01;3
+974;KING OF THE ANDALS  ;Almira         ;CARROLL             ;1987-01-01;7
+975;NOVATO              ;Ammamaria      ;ALVAREZ             ;1988-01-01;6
+976;MOTHER OF DRAGONS   ;Alecia         ;BREWER              ;1988-01-01;8
+977;CADETE              ;Adelina        ;MORRISON            ;1980-01-01;4
+978;PULENTA             ;Addy           ;LEWIS               ;1981-01-01;7
+979;CADETE              ;Aigneis        ;WEAVER              ;1983-01-01;5
+980;JUVENIL             ;Amalie         ;HOWELL              ;1982-01-01;3
+981;NOVATO              ;Anderea        ;MCDANIEL            ;1988-01-01;7
+982;JUVENIL             ;Alayne         ;DANIEL              ;1980-01-01;5
+983;CADETE              ;Alli           ;MARTIN              ;1982-01-01;2
+984;JEFE                ;Anna-Maria     ;HICKS               ;1983-01-01;6
+985;KING OF THE ANDALS  ;Agathe         ;HAWKINS             ;1984-01-01;4
+986;CADETE              ;Allsun         ;JIMENEZ             ;1986-01-01;3
+987;JUVENIL             ;Alexine        ;BURTON              ;1988-01-01;7
+988;JEFE                ;Amye           ;RAMIREZ             ;1983-01-01;1
+989;KING OF THE ANDALS  ;Anjela         ;DOUGLAS             ;1985-01-01;0
+990;NOVATO              ;Anna-Maria     ;ADAMS               ;1984-01-01;8
+991;JUVENIL             ;Adelaida       ;JOHNSON             ;1985-01-01;2
+992;KING OF THE ANDALS  ;Amy            ;STEVENS             ;1984-01-01;5
+993;KING OF THE ANDALS  ;Amargo         ;SCHMIDT             ;1989-01-01;8
+994;CADETE              ;Agretha        ;ROBINSON            ;1983-01-01;2
+995;JEFE                ;Aileen         ;JENSEN              ;1989-01-01;7
+996;CADETE              ;Agna           ;REYES               ;1988-01-01;0
+997;JUVENIL             ;Amalee         ;GREGORY             ;1982-01-01;8
+998;MOTHER OF DRAGONS   ;Adena          ;GARCIA              ;1981-01-01;2
+999;CADETE              ;Allsun         ;RODRIGUEZ           ;1987-01-01;0
+1000;CADETE              ;El             ;JOHNY               ;1987-01-01;0
