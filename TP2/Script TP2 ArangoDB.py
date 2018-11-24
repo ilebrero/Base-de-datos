@@ -47,9 +47,13 @@ def crear_documento(coleccion, clave, dicc):
 def indicesDeMN(index, columnaIndex, tabla, columnaADevolver):
     return tabla[tabla[columnaIndex] == index][columnaADevolver].tolist()
 
-def listaDeMN(index,columnaIndex,tabla, indiceDeSegundaTabla,segundaTabla):
+def listaDeMN(index,columnaIndex,tabla, indiceDeSegundaTabla,segundaTabla, listaDeAtributos):
     listadeIndices = indicesDeMN(index, columnaIndex, tabla, indiceDeSegundaTabla)
-    return segundaTabla[segundaTabla[indiceDeSegundaTabla].isin(listadeIndices)].to_dict('records')
+    tablaFiltrada = segundaTabla[segundaTabla[indiceDeSegundaTabla].isin(listadeIndices)]
+    if len(listaDeAtributos) == 1:
+        return tablaFiltrada[listaDeAtributos[0]].tolist()
+    else:
+        return tablaFiltrada[listaDeAtributos].to_dict('records')
 
 def puedeSerNull(dicc, key, value):
     if str(value) != "nan":
@@ -66,6 +70,9 @@ def inicializarTabla(tabla):
         vaciarTabla(tabla)
         return db[tabla]
 
+def dame1aN(indice, tabla):
+    return tabla.iloc[indice].to_dict()
+
 #SUPERHEROE
 superheroeColl = inicializarTabla("superheroe")
 for index, row in SUPERHEROE.iterrows():
@@ -74,9 +81,25 @@ for index, row in SUPERHEROE.iterrows():
     dicc["NombreDeFantasia"] = row["nombredefantasia"]
     dicc["colordisfraz"] = row["colordisfraz"]
     dicc["archienemigos"] = indicesDeMN(index, "idsuperheroe", ESARCHIENEMIGO, "idcivil")
-    dicc["habilidades"] = listaDeMN(index,"idsuperheroe",HABILIDADSUPERHEROE, "idhabilidad",HABILIDAD)
+    dicc["habilidades"] = listaDeMN(index,"idsuperheroe",HABILIDADSUPERHEROE, "idhabilidad",HABILIDAD, ["nombre"])
     dicc["incidentes"] = indicesDeMN(index, "idsuperheroe", SUPERHEROEINCIDENTE, "idincidente")
     dicc["contactos"] = indicesDeMN(index, "idsuperheroe", SUPERHEROECIVIL, "idcivil")
     puedeSerNull(dicc,"identidadSecreta",row["idcivil"])
     crear_documento(superheroeColl, str(index), dicc)
 
+oficialColl = inicializarTabla("oficial")
+for index, row in OFICIAL.iterrows():
+    dicc = {}
+    dicc["nroplaca"] = index
+    dicc["Nombre"] = row["nombre"]
+    dicc["Apellido"] = row["apellido"]
+    dicc["Rango"] = row["rango"]
+    dicc["FechaIngreso"] = row["fechaingreso"]
+    dicc["departamento"] = dame1aN(row["iddpto"], DEPARTAMENTO)
+    dicc["sumarios"] = indicesDeMN(index, "nroplaca", SUMARIO, "idsumario")
+    dicc["seguimientos"] = indicesDeMN(index, "nroplaca", SEGUIMIENTO, "numero")
+    dicc["incidentesInvolucradoEn"] = indicesDeMN(index, "nroplaca", OFICIALINTERVIENEEN, "idincidente")
+    dicc["incidentesInterviene"] = indicesDeMN(index, "nroplaca", OFICIALESTAINVOLUCRADOEN, "idincidente")
+
+    #FALTAN LAS DESIGNACIONES
+    crear_documento(oficialColl, str(index), dicc)
