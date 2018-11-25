@@ -1,0 +1,22 @@
+# dada una organizacion delictiva, el detalle de los incidentes de sus civiles
+# ejemplo de org. delicitva con id 8
+
+return DOCUMENT("organizaciondelictiva/8").incidentesDeCiviles
+
+# los datos de los sumarios para un oficial dado
+# ejemplo de oficial 557
+
+for desi in DOCUMENT("oficial/557").designaciones
+    filter desi.sumarios != null
+    return desi.sumarios
+
+# superheroes que participaron en algun incidente
+
+for s in superheroe
+    filter LENGTH(s.incidentes) > 0
+    return s
+
+# seguimientos de un incidente
+# ejemplo de incidente con id 160
+
+return DOCUMENT("incidente/160").seguimiento
