@@ -1,0 +1,27 @@
+{
+	"type": "object",
+	"properties": {
+		"idsumario": {
+			"type": "int"
+		},
+		"descripcion": {
+			"type": "string"
+		},
+		"resultado": {
+			"type": "string"
+		},
+		"fecha": {
+			"type": "string",
+			"format": "date"
+		},
+		"estado": {
+			"type": "string"
+		},
+		"oficial": {
+			"type": "int"
+		},
+		"designacion": {
+			"type": "int"
+		}
+	}
+}

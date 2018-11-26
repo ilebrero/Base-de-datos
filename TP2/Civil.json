@@ -1,0 +1,103 @@
+{
+	"type": "object",
+	"properties": {
+		"idcivil": {
+			"type": "int"
+		},
+		"nombre": {
+			"type": "string"
+		},
+		"domicilios": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"calle": "AV ALVAREZ JONTE BAJ",
+					"altura": {
+						"type": "int"
+					},
+					"entrecalle1": {
+						"type": "string"
+					},
+					"entrecalle2": {
+						"type": "string"
+					},
+					"fechadesde": {
+						"type": "string",
+						"format": "date"
+					},
+					"fechahasta": {
+						"type": "string",
+						"format": "date"
+					},
+					"barrio": {
+						"type": "string"
+					}
+				}
+			}
+
+		},
+		"contactosSuperheroe": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"esIdentidadSecretaDe": {
+			"type": "int"
+		},
+		"incidentesCivil": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"idincidente": {
+						"type": "int"
+					},
+					"rolcivil": {
+						"type": "string"
+					}
+				}
+			}
+		},
+		"organizaciondelictiva": {
+			"type": "int"
+		},
+		"seRelacionaCon": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"idcivil1": {
+						"type": "int"
+					},
+					"fechadesde": {
+						"type": "string",
+						"format": "date"
+					},
+					"tipo": {
+						"type": "string"
+					}
+				}
+			}
+		},
+		"esRelacionadoCon": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"idcivil1": {
+						"type": "int"
+					},
+					"fechadesde": {
+						"type": "string",
+						"format": "date"
+					},
+					"tipo": {
+						"type": "string"
+					}
+				}
+			}
+		}
+	}
+}

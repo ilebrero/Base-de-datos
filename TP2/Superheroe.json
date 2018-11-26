@@ -1,0 +1,41 @@
+{
+	"type": "object",
+	"properties": {
+		"idsuperheroe": {
+			"type": "int"
+		},
+		"NombreDeFantasia": {
+			"type": "string"
+		},
+		"colordisfraz": {
+			"type": "string"
+		},
+		"archienemigos": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"habilidades": {
+			"type": "array",
+			"items": {
+				"type": "string"
+			}
+		},
+		"incidentes": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"contactos": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"identidadSecreta": {
+			"type": "int"
+		}
+	}
+}

@@ -1,0 +1,12 @@
+Para correr el script son necesarios los siguientes paquetes de python
+
+tqdm
+pip3 install tqdm
+
+pandas
+pip3 install pandas
+
+pyArango
+pip3 install pyarango
+
+Y arangoDB por supuesto

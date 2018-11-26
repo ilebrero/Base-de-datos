@@ -1,0 +1,111 @@
+{
+	"type": "object",
+	"properties": {
+		"nroplaca": {
+			"type": "int"
+		},
+		"Nombre": {
+			"type": "string"
+		},
+		"Apellido": {
+			"type": "string"
+		},
+		"Rango": {
+			"type": "string"
+		},
+		"FechaIngreso": {
+			"type": "string",
+			"format": "date"
+		},
+		"departamento": {
+			"type": "object",
+			"properties": {
+				"nombre": {
+					"type": "string"
+				},
+				"descripcion": {
+					"type": "string"
+				}
+			}
+		},
+		"sumarios": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"seguimientos": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"incidentesInvolucradoEn": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"incidentesInterviene": {
+			"type": "array",
+			"items": {
+				"type": "int"
+			}
+		},
+		"designaciones": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"iddesignacion": {
+						"type": "int"
+					},
+					"desde": {
+						"type": "string",
+						"format": "date"
+					},
+					"hasta": {
+						"type": "string",
+						"format": "date"
+					},
+					"sumarios": {
+						"type": "array",
+						"items": {
+							"type": "object",
+							"properties": {
+								"idsumario": {
+									"type": "int"
+								},
+								"descripcion": {
+									"type": "string"
+								},
+								"resultado": {
+									"type": "string"
+								},
+								"fecha": {
+									"type": "string",
+									"format": "date"
+								},
+								"estado": {
+									"type": "string"
+								},
+								"oficial": {
+									"type": "int"
+								},
+								"designacion": {
+									"type": "int"
+								}
+							}
+						}
+					},
+					"tipodesignacion": {
+						"type": "string"
+					},
+					"oficial": {
+						"type": "int"
+					}
+				}
+			}
+		}
+	}
+}

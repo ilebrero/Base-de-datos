@@ -1,0 +1,138 @@
+{
+	"type": "object",
+	"properties": {
+		"idorganizaciondelictiva": {
+			"type": "int"
+		},
+		"nombre": {
+			"type": "string"
+		},
+		"civiles": [{
+				"type": "int"
+			},
+			{
+				"type": "int"
+			}
+		],
+		"incidentesDeCiviles": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"idcivil": {
+						"type": "int"
+					},
+					"incidentes": {
+						"type": "object",
+						"properties": {
+							"type": "object",
+							"properties": {
+								"idincidente": {
+									"type": "int"
+								},
+								"tipo": {
+									"type": "string"
+								},
+								"fecha": {
+									"type": "string",
+									"format": "date"
+								},
+								"seguimiento": {
+									"type": "object",
+									"properties": {
+										"numero": {
+											"type": "int"
+										},
+										"descripcion": {
+											"type": "string"
+										},
+										"conclusion": {
+											"type": "string"
+										},
+										"estados": {
+											"type": "array",
+											"items": {
+												"type": "object",
+												"properties": {
+													"nombre": {
+														"type": "string"
+													},
+													"fechainicio": {
+														"type": "string",
+														"format": "date"
+													},
+													"fechafin": {
+														"type": "string",
+														"format": "date"
+													}
+												}
+											}
+										},
+										"incidente": {
+											"type": "int"
+										},
+										"oficial": {
+											"type": "int"
+										}
+									}
+								},
+								"oficialesInvolucradoEn": {
+									"type": "array",
+									"items": {
+										"type": "int"
+									}
+								},
+								"oficialesInterviene": {
+									"type": "array",
+									"items": {
+										"type": "int"
+									}
+								},
+								"superheroesInvolucrados": {
+									"type": "array",
+									"items": {
+										"type": "int"
+									}
+								},
+								"domicilio": {
+									"type": "object",
+									"properties": {
+										"calle": {
+											"type": "string"
+										},
+										"altura": {
+											"type": "int"
+										},
+										"entrecalle1": {
+											"type": "string"
+										},
+										"entrecalle2": {
+											"type": "string"
+										},
+										"barrio": {
+											"type": "string"
+										}
+									},
+									"civilesEnIncidente": {
+										"type": "array",
+										"items": {
+											"type": "object",
+											"properties": {
+												"idcivil": {
+													"type": "int"
+												},
+												"rolcivil": {
+													"type": "string"
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

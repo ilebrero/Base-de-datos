@@ -1,0 +1,52 @@
+{
+	"type": "object",
+	"properties": {
+		"iddesignacion": {
+			"type": "int"
+		},
+		"desde": {
+			"type": "string",
+			"format": "date"
+		},
+		"hasta": {
+			"type": "string",
+			"format": "date"
+		},
+		"sumarios": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"idsumario": {
+						"type": "int"
+					},
+					"descripcion": {
+						"type": "string"
+					},
+					"resultado": {
+						"type": "string"
+					},
+					"fecha": {
+						"type": "string",
+						"format": "date"
+					},
+					"estado": {
+						"type": "string"
+					},
+					"oficial": {
+						"type": "int"
+					},
+					"designacion": {
+						"type": "int"
+					}
+				}
+			}
+		},
+		"tipodesignacion": {
+			"type": "string"
+		},
+		"oficial": {
+			"type": "int"
+		}
+	}
+}

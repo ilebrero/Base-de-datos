@@ -1,0 +1,40 @@
+{
+	"type": "object",
+	"properties": {
+
+		"numero": {
+			"type": "int"
+		},
+		"descripcion": {
+			"type": "string"
+		},
+		"conclusion": {
+			"type": "string"
+		},
+		"estados": {
+			"type": "array",
+			"items": {
+				"type": "object",
+				"properties": {
+					"nombre": {
+						"type": "string"
+					},
+					"fechainicio": {
+						"type": "string",
+						"format": "date"
+					},
+					"fechafin": {
+						"type": "string",
+						"format": "date"
+					}
+				}
+			}
+		},
+		"incidente": {
+			"type": "int"
+		},
+		"oficial": {
+			"type": "int"
+		}
+	}
+}
