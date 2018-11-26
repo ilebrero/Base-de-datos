@@ -1,7 +1,9 @@
 # dada una organizacion delictiva, el detalle de los incidentes de sus civiles
 # ejemplo de org. delicitva con id 8
 
-return DOCUMENT("organizaciondelictiva/8").incidentesDeCiviles
+for civ in DOCUMENT("organizaciondelictiva/158").incidentesDeCiviles
+    for inc in civ.incidentes
+        return DISTINCT inc.incidente
 
 # los datos de los sumarios para un oficial dado
 # ejemplo de oficial 557
